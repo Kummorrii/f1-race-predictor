@@ -1,0 +1,5 @@
+fastf1
+pandas
+scikit-learn
+joblib
+streamlit

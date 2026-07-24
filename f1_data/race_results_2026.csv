@@ -1,0 +1,221 @@
+DriverNumber,BroadcastName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName
+63,G RUSSELL,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,1,Australian Grand Prix
+12,K ANTONELLI,ANT,Mercedes,2.0,2.0,18.0,Finished,,,,2026,1,Australian Grand Prix
+16,C LECLERC,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2026,1,Australian Grand Prix
+44,L HAMILTON,HAM,Ferrari,7.0,4.0,12.0,Finished,,,,2026,1,Australian Grand Prix
+1,L NORRIS,NOR,McLaren,6.0,5.0,10.0,Finished,,,,2026,1,Australian Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,20.0,6.0,8.0,Finished,,,,2026,1,Australian Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,12.0,7.0,6.0,Lapped,,,,2026,1,Australian Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,9.0,8.0,4.0,Lapped,,,,2026,1,Australian Grand Prix
+5,G BORTOLETO,BOR,Audi,10.0,9.0,2.0,Lapped,,,,2026,1,Australian Grand Prix
+10,P GASLY,GAS,Alpine,14.0,10.0,1.0,Lapped,,,,2026,1,Australian Grand Prix
+31,E OCON,OCO,Haas F1 Team,13.0,11.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+23,A ALBON,ALB,Williams,15.0,12.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+30,L LAWSON,LAW,Racing Bulls,8.0,13.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+43,F COLAPINTO,COL,Alpine,16.0,14.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+55,C SAINZ,SAI,Williams,21.0,15.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+11,S PEREZ,PER,Cadillac,18.0,16.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+18,L STROLL,STR,Aston Martin,22.0,17.0,0.0,Lapped,,,,2026,1,Australian Grand Prix
+14,F ALONSO,ALO,Aston Martin,17.0,18.0,0.0,Retired,,,,2026,1,Australian Grand Prix
+77,V BOTTAS,BOT,Cadillac,19.0,19.0,0.0,Retired,,,,2026,1,Australian Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,3.0,20.0,0.0,Retired,,,,2026,1,Australian Grand Prix
+81,O PIASTRI,PIA,McLaren,5.0,21.0,0.0,Did not start,,,,2026,1,Australian Grand Prix
+27,N HULKENBERG,HUL,Audi,11.0,22.0,0.0,Did not start,,,,2026,1,Australian Grand Prix
+12,K ANTONELLI,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,2,Chinese Grand Prix
+63,G RUSSELL,RUS,Mercedes,2.0,2.0,18.0,Finished,,,,2026,2,Chinese Grand Prix
+44,L HAMILTON,HAM,Ferrari,3.0,3.0,15.0,Finished,,,,2026,2,Chinese Grand Prix
+16,C LECLERC,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2026,2,Chinese Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,10.0,5.0,10.0,Finished,,,,2026,2,Chinese Grand Prix
+10,P GASLY,GAS,Alpine,7.0,6.0,8.0,Finished,,,,2026,2,Chinese Grand Prix
+30,L LAWSON,LAW,Racing Bulls,14.0,7.0,6.0,Finished,,,,2026,2,Chinese Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,9.0,8.0,4.0,Finished,,,,2026,2,Chinese Grand Prix
+55,C SAINZ,SAI,Williams,17.0,9.0,2.0,Lapped,,,,2026,2,Chinese Grand Prix
+43,F COLAPINTO,COL,Alpine,12.0,10.0,1.0,Lapped,,,,2026,2,Chinese Grand Prix
+27,N HULKENBERG,HUL,Audi,11.0,11.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,15.0,12.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix
+77,V BOTTAS,BOT,Cadillac,19.0,13.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix
+31,E OCON,OCO,Haas F1 Team,13.0,14.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix
+11,S PEREZ,PER,Cadillac,21.0,15.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,8.0,16.0,0.0,Retired,,,,2026,2,Chinese Grand Prix
+14,F ALONSO,ALO,Aston Martin,18.0,17.0,0.0,Retired,,,,2026,2,Chinese Grand Prix
+18,L STROLL,STR,Aston Martin,20.0,18.0,0.0,Retired,,,,2026,2,Chinese Grand Prix
+81,O PIASTRI,PIA,McLaren,5.0,19.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix
+1,L NORRIS,NOR,McLaren,6.0,20.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix
+5,G BORTOLETO,BOR,Audi,16.0,21.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix
+23,A ALBON,ALB,Williams,22.0,22.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix
+12,K ANTONELLI,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,3,Japanese Grand Prix
+81,O PIASTRI,PIA,McLaren,3.0,2.0,18.0,Finished,,,,2026,3,Japanese Grand Prix
+16,C LECLERC,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2026,3,Japanese Grand Prix
+63,G RUSSELL,RUS,Mercedes,2.0,4.0,12.0,Finished,,,,2026,3,Japanese Grand Prix
+1,L NORRIS,NOR,McLaren,5.0,5.0,10.0,Finished,,,,2026,3,Japanese Grand Prix
+44,L HAMILTON,HAM,Ferrari,6.0,6.0,8.0,Finished,,,,2026,3,Japanese Grand Prix
+10,P GASLY,GAS,Alpine,7.0,7.0,6.0,Finished,,,,2026,3,Japanese Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,11.0,8.0,4.0,Finished,,,,2026,3,Japanese Grand Prix
+30,L LAWSON,LAW,Racing Bulls,14.0,9.0,2.0,Finished,,,,2026,3,Japanese Grand Prix
+31,E OCON,OCO,Haas F1 Team,12.0,10.0,1.0,Finished,,,,2026,3,Japanese Grand Prix
+27,N HULKENBERG,HUL,Audi,13.0,11.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,8.0,12.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+5,G BORTOLETO,BOR,Audi,9.0,13.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,10.0,14.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+55,C SAINZ,SAI,Williams,16.0,15.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+43,F COLAPINTO,COL,Alpine,15.0,16.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+11,S PEREZ,PER,Cadillac,19.0,17.0,0.0,Finished,,,,2026,3,Japanese Grand Prix
+14,F ALONSO,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix
+77,V BOTTAS,BOT,Cadillac,20.0,19.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix
+23,A ALBON,ALB,Williams,17.0,20.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix
+18,L STROLL,STR,Aston Martin,22.0,21.0,0.0,Retired,,,,2026,3,Japanese Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,18.0,22.0,0.0,Retired,,,,2026,3,Japanese Grand Prix
+12,K ANTONELLI,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,4,Miami Grand Prix
+1,L NORRIS,NOR,McLaren,4.0,2.0,18.0,Finished,,,,2026,4,Miami Grand Prix
+81,O PIASTRI,PIA,McLaren,7.0,3.0,15.0,Finished,,,,2026,4,Miami Grand Prix
+63,G RUSSELL,RUS,Mercedes,5.0,4.0,12.0,Finished,,,,2026,4,Miami Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,2.0,5.0,10.0,Finished,,,,2026,4,Miami Grand Prix
+44,L HAMILTON,HAM,Ferrari,6.0,6.0,8.0,Finished,,,,2026,4,Miami Grand Prix
+43,F COLAPINTO,COL,Alpine,8.0,7.0,6.0,Finished,,,,2026,4,Miami Grand Prix
+16,C LECLERC,LEC,Ferrari,3.0,8.0,4.0,Finished,,,,2026,4,Miami Grand Prix
+55,C SAINZ,SAI,Williams,13.0,9.0,2.0,Finished,,,,2026,4,Miami Grand Prix
+23,A ALBON,ALB,Williams,15.0,10.0,1.0,Finished,,,,2026,4,Miami Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,12.0,11.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+5,G BORTOLETO,BOR,Audi,21.0,12.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+31,E OCON,OCO,Haas F1 Team,14.0,13.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,16.0,14.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+14,F ALONSO,ALO,Aston Martin,17.0,15.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+11,S PEREZ,PER,Cadillac,20.0,16.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+18,L STROLL,STR,Aston Martin,18.0,17.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+77,V BOTTAS,BOT,Cadillac,19.0,18.0,0.0,Lapped,,,,2026,4,Miami Grand Prix
+27,N HULKENBERG,HUL,Audi,10.0,19.0,0.0,Retired,,,,2026,4,Miami Grand Prix
+30,L LAWSON,LAW,Racing Bulls,11.0,20.0,0.0,Retired,,,,2026,4,Miami Grand Prix
+10,P GASLY,GAS,Alpine,9.0,21.0,0.0,Retired,,,,2026,4,Miami Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,22.0,22.0,0.0,Retired,,,,2026,4,Miami Grand Prix
+12,K ANTONELLI,ANT,Mercedes,2.0,1.0,25.0,Finished,,,,2026,5,Canadian Grand Prix
+44,L HAMILTON,HAM,Ferrari,5.0,2.0,18.0,Finished,,,,2026,5,Canadian Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,6.0,3.0,15.0,Finished,,,,2026,5,Canadian Grand Prix
+16,C LECLERC,LEC,Ferrari,8.0,4.0,12.0,Finished,,,,2026,5,Canadian Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,7.0,5.0,10.0,Lapped,,,,2026,5,Canadian Grand Prix
+43,F COLAPINTO,COL,Alpine,10.0,6.0,8.0,Lapped,,,,2026,5,Canadian Grand Prix
+30,L LAWSON,LAW,Racing Bulls,12.0,7.0,6.0,Lapped,,,,2026,5,Canadian Grand Prix
+10,P GASLY,GAS,Alpine,14.0,8.0,4.0,Lapped,,,,2026,5,Canadian Grand Prix
+55,C SAINZ,SAI,Williams,15.0,9.0,2.0,Lapped,,,,2026,5,Canadian Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,16.0,10.0,1.0,Lapped,,,,2026,5,Canadian Grand Prix
+81,O PIASTRI,PIA,McLaren,4.0,11.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix
+27,N HULKENBERG,HUL,Audi,11.0,12.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix
+5,G BORTOLETO,BOR,Audi,13.0,13.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix
+31,E OCON,OCO,Haas F1 Team,17.0,14.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix
+18,L STROLL,STR,Aston Martin,22.0,15.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix
+77,V BOTTAS,BOT,Cadillac,21.0,16.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix
+11,S PEREZ,PER,Cadillac,20.0,17.0,0.0,Retired,,,,2026,5,Canadian Grand Prix
+1,L NORRIS,NOR,McLaren,3.0,18.0,0.0,Retired,,,,2026,5,Canadian Grand Prix
+63,G RUSSELL,RUS,Mercedes,1.0,19.0,0.0,Retired,,,,2026,5,Canadian Grand Prix
+14,F ALONSO,ALO,Aston Martin,19.0,20.0,0.0,Retired,,,,2026,5,Canadian Grand Prix
+23,A ALBON,ALB,Williams,18.0,21.0,0.0,Retired,,,,2026,5,Canadian Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,9.0,22.0,0.0,Did not start,,,,2026,5,Canadian Grand Prix
+12,K ANTONELLI,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,6,Monaco Grand Prix
+44,L HAMILTON,HAM,Ferrari,3.0,2.0,18.0,Finished,,,,2026,6,Monaco Grand Prix
+10,P GASLY,GAS,Alpine,9.0,3.0,15.0,Finished,,,,2026,6,Monaco Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,5.0,4.0,12.0,Finished,,,,2026,6,Monaco Grand Prix
+81,O PIASTRI,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2026,6,Monaco Grand Prix
+30,L LAWSON,LAW,Racing Bulls,10.0,6.0,8.0,Finished,,,,2026,6,Monaco Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,15.0,7.0,6.0,Finished,,,,2026,6,Monaco Grand Prix
+23,A ALBON,ALB,Williams,11.0,8.0,4.0,Finished,,,,2026,6,Monaco Grand Prix
+31,E OCON,OCO,Haas F1 Team,17.0,9.0,2.0,Finished,,,,2026,6,Monaco Grand Prix
+14,F ALONSO,ALO,Aston Martin,21.0,10.0,1.0,Finished,,,,2026,6,Monaco Grand Prix
+5,G BORTOLETO,BOR,Audi,16.0,11.0,0.0,Finished,,,,2026,6,Monaco Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,12.0,0.0,Finished,,,,2026,6,Monaco Grand Prix
+27,N HULKENBERG,HUL,Audi,13.0,13.0,0.0,Finished,,,,2026,6,Monaco Grand Prix
+43,F COLAPINTO,COL,Alpine,14.0,14.0,0.0,Finished,,,,2026,6,Monaco Grand Prix
+11,S PEREZ,PER,Cadillac,18.0,15.0,0.0,Finished,,,,2026,6,Monaco Grand Prix
+55,C SAINZ,SAI,Williams,12.0,16.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+16,C LECLERC,LEC,Ferrari,4.0,17.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+18,L STROLL,STR,Aston Martin,22.0,18.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+1,L NORRIS,NOR,McLaren,8.0,19.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,19.0,20.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+77,V BOTTAS,BOT,Cadillac,20.0,21.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,2.0,22.0,0.0,Retired,,,,2026,6,Monaco Grand Prix
+44,L HAMILTON,HAM,Ferrari,2.0,1.0,25.0,Finished,,,,2026,7,Barcelona Grand Prix
+63,G RUSSELL,RUS,Mercedes,1.0,2.0,18.0,Finished,,,,2026,7,Barcelona Grand Prix
+1,L NORRIS,NOR,McLaren,4.0,3.0,15.0,Finished,,,,2026,7,Barcelona Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,5.0,4.0,12.0,Finished,,,,2026,7,Barcelona Grand Prix
+81,O PIASTRI,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2026,7,Barcelona Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,6.0,6.0,8.0,Lapped,,,,2026,7,Barcelona Grand Prix
+10,P GASLY,GAS,Alpine,14.0,7.0,6.0,Lapped,,,,2026,7,Barcelona Grand Prix
+30,L LAWSON,LAW,Racing Bulls,8.0,8.0,4.0,Lapped,,,,2026,7,Barcelona Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,11.0,9.0,2.0,Lapped,,,,2026,7,Barcelona Grand Prix
+43,F COLAPINTO,COL,Alpine,13.0,10.0,1.0,Lapped,,,,2026,7,Barcelona Grand Prix
+5,G BORTOLETO,BOR,Audi,12.0,11.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix
+55,C SAINZ,SAI,Williams,16.0,12.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix
+31,E OCON,OCO,Haas F1 Team,17.0,13.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix
+11,S PEREZ,PER,Cadillac,19.0,14.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix
+16,C LECLERC,LEC,Ferrari,10.0,15.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+12,K ANTONELLI,ANT,Mercedes,3.0,16.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,15.0,17.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+23,A ALBON,ALB,Williams,18.0,18.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix
+14,F ALONSO,ALO,Aston Martin,22.0,19.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+27,N HULKENBERG,HUL,Audi,9.0,20.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+77,V BOTTAS,BOT,Cadillac,20.0,21.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+18,L STROLL,STR,Aston Martin,21.0,22.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix
+63,G RUSSELL,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,8,Austrian Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,5.0,2.0,18.0,Finished,,,,2026,8,Austrian Grand Prix
+12,K ANTONELLI,ANT,Mercedes,4.0,3.0,15.0,Finished,,,,2026,8,Austrian Grand Prix
+81,O PIASTRI,PIA,McLaren,7.0,4.0,12.0,Finished,,,,2026,8,Austrian Grand Prix
+44,L HAMILTON,HAM,Ferrari,3.0,5.0,10.0,Finished,,,,2026,8,Austrian Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,8.0,6.0,8.0,Finished,,,,2026,8,Austrian Grand Prix
+1,L NORRIS,NOR,McLaren,6.0,7.0,6.0,Finished,,,,2026,8,Austrian Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,8.0,4.0,Finished,,,,2026,8,Austrian Grand Prix
+30,L LAWSON,LAW,Racing Bulls,9.0,9.0,2.0,Lapped,,,,2026,8,Austrian Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,10.0,10.0,1.0,Lapped,,,,2026,8,Austrian Grand Prix
+5,G BORTOLETO,BOR,Audi,12.0,11.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+27,N HULKENBERG,HUL,Audi,14.0,12.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+10,P GASLY,GAS,Alpine,11.0,13.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,13.0,14.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+43,F COLAPINTO,COL,Alpine,16.0,15.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+31,E OCON,OCO,Haas F1 Team,15.0,16.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+23,A ALBON,ALB,Williams,18.0,17.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+14,F ALONSO,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix
+18,L STROLL,STR,Aston Martin,22.0,19.0,0.0,Retired,,,,2026,8,Austrian Grand Prix
+55,C SAINZ,SAI,Williams,17.0,20.0,0.0,Retired,,,,2026,8,Austrian Grand Prix
+11,S PEREZ,PER,Cadillac,19.0,21.0,0.0,Retired,,,,2026,8,Austrian Grand Prix
+77,V BOTTAS,BOT,Cadillac,20.0,22.0,0.0,Retired,,,,2026,8,Austrian Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,1.0,25.0,Finished,,,,2026,9,British Grand Prix
+63,G RUSSELL,RUS,Mercedes,4.0,2.0,18.0,Finished,,,,2026,9,British Grand Prix
+44,L HAMILTON,HAM,Ferrari,3.0,3.0,15.0,Finished,,,,2026,9,British Grand Prix
+1,L NORRIS,NOR,McLaren,6.0,4.0,12.0,Finished,,,,2026,9,British Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,5.0,5.0,10.0,Finished,,,,2026,9,British Grand Prix
+30,L LAWSON,LAW,Racing Bulls,10.0,6.0,8.0,Finished,,,,2026,9,British Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,9.0,7.0,6.0,Finished,,,,2026,9,British Grand Prix
+5,G BORTOLETO,BOR,Audi,11.0,8.0,4.0,Finished,,,,2026,9,British Grand Prix
+43,F COLAPINTO,COL,Alpine,19.0,9.0,2.0,Finished,,,,2026,9,British Grand Prix
+10,P GASLY,GAS,Alpine,15.0,10.0,1.0,Finished,,,,2026,9,British Grand Prix
+81,O PIASTRI,PIA,McLaren,8.0,11.0,0.0,Finished,,,,2026,9,British Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,13.0,12.0,0.0,Finished,,,,2026,9,British Grand Prix
+31,E OCON,OCO,Haas F1 Team,17.0,13.0,0.0,Finished,,,,2026,9,British Grand Prix
+11,S PEREZ,PER,Cadillac,20.0,14.0,0.0,Finished,,,,2026,9,British Grand Prix
+12,K ANTONELLI,ANT,Mercedes,1.0,15.0,0.0,Finished,,,,2026,9,British Grand Prix
+77,V BOTTAS,BOT,Cadillac,18.0,16.0,0.0,Finished,,,,2026,9,British Grand Prix
+55,C SAINZ,SAI,Williams,14.0,17.0,0.0,Lapped,,,,2026,9,British Grand Prix
+14,F ALONSO,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,9,British Grand Prix
+18,L STROLL,STR,Aston Martin,22.0,19.0,0.0,Lapped,,,,2026,9,British Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,7.0,20.0,0.0,Retired,,,,2026,9,British Grand Prix
+23,A ALBON,ALB,Williams,16.0,21.0,0.0,Retired,,,,2026,9,British Grand Prix
+27,N HULKENBERG,HUL,Audi,12.0,22.0,0.0,Retired,,,,2026,9,British Grand Prix
+12,K ANTONELLI,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,10,Belgian Grand Prix
+16,C LECLERC,LEC,Ferrari,4.0,2.0,18.0,Finished,,,,2026,10,Belgian Grand Prix
+3,M VERSTAPPEN,VER,Red Bull Racing,2.0,3.0,15.0,Finished,,,,2026,10,Belgian Grand Prix
+44,L HAMILTON,HAM,Ferrari,5.0,4.0,12.0,Finished,,,,2026,10,Belgian Grand Prix
+81,O PIASTRI,PIA,McLaren,6.0,5.0,10.0,Finished,,,,2026,10,Belgian Grand Prix
+6,I HADJAR,HAD,Red Bull Racing,21.0,6.0,8.0,Finished,,,,2026,10,Belgian Grand Prix
+1,L NORRIS,NOR,McLaren,13.0,7.0,6.0,Finished,,,,2026,10,Belgian Grand Prix
+5,G BORTOLETO,BOR,Audi,8.0,8.0,4.0,Finished,,,,2026,10,Belgian Grand Prix
+41,A LINDBLAD,LIN,Racing Bulls,7.0,9.0,2.0,Finished,,,,2026,10,Belgian Grand Prix
+43,F COLAPINTO,COL,Alpine,11.0,10.0,1.0,Finished,,,,2026,10,Belgian Grand Prix
+10,P GASLY,GAS,Alpine,10.0,11.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+30,L LAWSON,LAW,Racing Bulls,9.0,12.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+27,N HULKENBERG,HUL,Audi,12.0,13.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+87,O BEARMAN,BEA,Haas F1 Team,14.0,14.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+23,A ALBON,ALB,Williams,15.0,15.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+55,C SAINZ,SAI,Williams,19.0,16.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+31,E OCON,OCO,Haas F1 Team,16.0,17.0,0.0,Finished,,,,2026,10,Belgian Grand Prix
+77,V BOTTAS,BOT,Cadillac,17.0,18.0,0.0,Lapped,,,,2026,10,Belgian Grand Prix
+14,F ALONSO,ALO,Aston Martin,22.0,19.0,0.0,Lapped,,,,2026,10,Belgian Grand Prix
+18,L STROLL,STR,Aston Martin,20.0,20.0,0.0,Retired,,,,2026,10,Belgian Grand Prix
+11,S PEREZ,PER,Cadillac,18.0,21.0,0.0,Retired,,,,2026,10,Belgian Grand Prix
+63,G RUSSELL,RUS,Mercedes,3.0,22.0,0.0,Retired,,,,2026,10,Belgian Grand Prix
