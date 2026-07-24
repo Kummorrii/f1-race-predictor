@@ -61,14 +61,10 @@ def collect_race_results(year: int, round_number: int):
 
     # Keep only the columns we actually need for modeling later.
     # (Full results has ~20 columns, most of it isn't useful yet.)
-    # NOTE: "Time" is each driver's race duration (for the winner) or gap
-    # to the winner (everyone else), as a pandas Timedelta. "FullName" is
-    # just for nicer display later — Abbreviation stays the primary key
-    # used throughout the pipeline.
     keep_cols = [
         "DriverNumber", "BroadcastName", "FullName", "Abbreviation", "TeamName",
         "GridPosition", "Position", "Points", "Status",
-        "Q1", "Q2", "Q3", "Time",
+        "Q1", "Q2", "Q3",
     ]
     results = results[[c for c in keep_cols if c in results.columns]]
 
@@ -77,6 +73,26 @@ def collect_race_results(year: int, round_number: int):
     results["EventName"] = session.event["EventName"]
 
     return results
+
+
+def collect_sprint_points(year: int, round_number: int):
+    """
+    Some race weekends include a Sprint race worth extra championship
+    points (up to 8 for the winner) — a completely separate session from
+    the main Race. Not every round has one, so a failure here is the
+    NORMAL case for a non-sprint weekend, not an error.
+    """
+    try:
+        session = fastf1.get_session(year, round_number, "S")  # "S" = Sprint
+        session.load(laps=False, telemetry=False, weather=False, messages=False)
+    except Exception:
+        return None  # No sprint this weekend — expected most of the time
+
+    results = session.results.copy()
+    if "Abbreviation" not in results.columns or "Points" not in results.columns:
+        return None
+
+    return results[["Abbreviation", "Points"]].rename(columns={"Points": "SprintPoints"})
 
 
 def collect_season(year: int) -> pd.DataFrame:
@@ -93,6 +109,14 @@ def collect_season(year: int) -> pd.DataFrame:
         race_df = collect_race_results(year, round_number)
 
         if race_df is not None:
+            sprint_points = collect_sprint_points(year, round_number)
+            if sprint_points is not None:
+                race_df = race_df.merge(sprint_points, on="Abbreviation", how="left")
+                race_df["SprintPoints"] = race_df["SprintPoints"].fillna(0)
+                race_df["Points"] = race_df["Points"] + race_df["SprintPoints"]
+                print(f"  + Sprint found for round {round_number}, points added")
+            else:
+                race_df["SprintPoints"] = 0
             all_results.append(race_df)
 
     if not all_results:

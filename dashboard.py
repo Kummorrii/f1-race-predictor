@@ -114,11 +114,6 @@ def styled_bar_chart(data: pd.Series, label: str, color: str = "#EF4444"):
     return chart
 
 
-def format_gap(seconds):
-    if pd.isna(seconds):
-        return None
-    return f"+{seconds:.1f}s"
-
 
 # ============================================================
 # LOAD DATA
@@ -236,22 +231,6 @@ with tab0:
         else:
             standings["Driver"] = standings["Abbreviation"]
 
-        # Average gap to the race winner, in seconds — only meaningful for
-        # races where the driver didn't win. Requires the "Time" column,
-        # which only exists in data collected after this feature was added.
-        if "Time" in season_df.columns:
-            def _gap_seconds(row):
-                try:
-                    if pd.isna(row["Time"]) or row["Position"] == 1:
-                        return None
-                    return pd.to_timedelta(row["Time"]).total_seconds()
-                except Exception:
-                    return None
-
-            season_df["GapSeconds"] = season_df.apply(_gap_seconds, axis=1)
-            avg_gap = season_df.groupby("Abbreviation")["GapSeconds"].mean()
-            standings["AvgGapToWinner"] = standings["Abbreviation"].map(avg_gap).apply(format_gap)
-
         standings = standings.sort_values("Points", ascending=False).reset_index(drop=True)
         standings.insert(0, "Rank", range(1, len(standings) + 1))
 
@@ -261,8 +240,6 @@ with tab0:
         if "Podiums" in standings.columns:
             display_cols.append("Podiums")
         display_cols += ["AvgFinish", "BestFinish"]
-        if "AvgGapToWinner" in standings.columns:
-            display_cols.append("AvgGapToWinner")
 
         column_config = {
             "Points": st.column_config.ProgressColumn(
@@ -271,8 +248,6 @@ with tab0:
             "AvgFinish": st.column_config.NumberColumn("Avg. Finish", format="%.1f"),
             "BestFinish": st.column_config.NumberColumn("Best Finish", format="%d"),
         }
-        if "AvgGapToWinner" in standings.columns:
-            column_config["AvgGapToWinner"] = st.column_config.TextColumn("Avg. Gap to Winner")
 
         st.dataframe(
             standings[display_cols],
@@ -280,12 +255,6 @@ with tab0:
             hide_index=True,
             column_config=column_config,
         )
-
-        if "Time" not in season_df.columns:
-            st.caption(
-                "⏱️ Time-gap stats aren't available yet — re-run the data "
-                "collection pipeline to backfill them for existing races."
-            )
 
 # ------------------------------------------------------------
 # TAB 1 — Model predictions for the next race
