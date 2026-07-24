@@ -1,441 +1,441 @@
-DriverNumber,BroadcastName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName
-1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,1,Bahrain Grand Prix
-11,,PER,Red Bull,2.0,2.0,18.0,Finished,,,,2023,1,Bahrain Grand Prix
-14,,ALO,Aston Martin,5.0,3.0,15.0,Finished,,,,2023,1,Bahrain Grand Prix
-55,,SAI,Ferrari,4.0,4.0,12.0,Finished,,,,2023,1,Bahrain Grand Prix
-44,,HAM,Mercedes,7.0,5.0,10.0,Finished,,,,2023,1,Bahrain Grand Prix
-18,,STR,Aston Martin,8.0,6.0,8.0,Finished,,,,2023,1,Bahrain Grand Prix
-63,,RUS,Mercedes,6.0,7.0,6.0,Finished,,,,2023,1,Bahrain Grand Prix
-77,,BOT,Alfa Romeo,12.0,8.0,4.0,Finished,,,,2023,1,Bahrain Grand Prix
-10,,GAS,Alpine F1 Team,20.0,9.0,2.0,Finished,,,,2023,1,Bahrain Grand Prix
-23,,ALB,Williams,15.0,10.0,1.0,Finished,,,,2023,1,Bahrain Grand Prix
-22,,TSU,AlphaTauri,14.0,11.0,0.0,Finished,,,,2023,1,Bahrain Grand Prix
-2,,SAR,Williams,16.0,12.0,0.0,Lapped,,,,2023,1,Bahrain Grand Prix
-20,,MAG,Haas F1 Team,17.0,13.0,0.0,Lapped,,,,2023,1,Bahrain Grand Prix
-21,,DEV,AlphaTauri,19.0,14.0,0.0,Lapped,,,,2023,1,Bahrain Grand Prix
-27,,HUL,Haas F1 Team,10.0,15.0,0.0,Lapped,,,,2023,1,Bahrain Grand Prix
-24,,ZHO,Alfa Romeo,13.0,16.0,0.0,Lapped,,,,2023,1,Bahrain Grand Prix
-4,,NOR,McLaren,11.0,17.0,0.0,Lapped,,,,2023,1,Bahrain Grand Prix
-31,,OCO,Alpine F1 Team,9.0,18.0,0.0,Retired,,,,2023,1,Bahrain Grand Prix
-16,,LEC,Ferrari,3.0,19.0,0.0,Retired,,,,2023,1,Bahrain Grand Prix
-81,,PIA,McLaren,18.0,20.0,0.0,Retired,,,,2023,1,Bahrain Grand Prix
-11,,PER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-1,,VER,Red Bull,15.0,2.0,19.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-14,,ALO,Aston Martin,2.0,3.0,15.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-63,,RUS,Mercedes,3.0,4.0,12.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-44,,HAM,Mercedes,7.0,5.0,10.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-55,,SAI,Ferrari,4.0,6.0,8.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-16,,LEC,Ferrari,12.0,7.0,6.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-31,,OCO,Alpine F1 Team,6.0,8.0,4.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-10,,GAS,Alpine F1 Team,9.0,9.0,2.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-20,,MAG,Haas F1 Team,13.0,10.0,1.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-22,,TSU,AlphaTauri,16.0,11.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-27,,HUL,Haas F1 Team,10.0,12.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-24,,ZHO,Alfa Romeo,11.0,13.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-21,,DEV,AlphaTauri,18.0,14.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-81,,PIA,McLaren,8.0,15.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-2,,SAR,Williams,20.0,16.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-4,,NOR,McLaren,19.0,17.0,0.0,Finished,,,,2023,2,Saudi Arabian Grand Prix
-77,,BOT,Alfa Romeo,14.0,18.0,0.0,Lapped,,,,2023,2,Saudi Arabian Grand Prix
-23,,ALB,Williams,17.0,19.0,0.0,Retired,,,,2023,2,Saudi Arabian Grand Prix
-18,,STR,Aston Martin,5.0,20.0,0.0,Retired,,,,2023,2,Saudi Arabian Grand Prix
-1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,3,Australian Grand Prix
-44,,HAM,Mercedes,3.0,2.0,18.0,Finished,,,,2023,3,Australian Grand Prix
-14,,ALO,Aston Martin,4.0,3.0,15.0,Finished,,,,2023,3,Australian Grand Prix
-18,,STR,Aston Martin,6.0,4.0,12.0,Finished,,,,2023,3,Australian Grand Prix
-11,,PER,Red Bull,20.0,5.0,11.0,Finished,,,,2023,3,Australian Grand Prix
-4,,NOR,McLaren,13.0,6.0,8.0,Finished,,,,2023,3,Australian Grand Prix
-27,,HUL,Haas F1 Team,10.0,7.0,6.0,Finished,,,,2023,3,Australian Grand Prix
-81,,PIA,McLaren,16.0,8.0,4.0,Finished,,,,2023,3,Australian Grand Prix
-24,,ZHO,Alfa Romeo,17.0,9.0,2.0,Finished,,,,2023,3,Australian Grand Prix
-22,,TSU,AlphaTauri,12.0,10.0,1.0,Finished,,,,2023,3,Australian Grand Prix
-77,,BOT,Alfa Romeo,19.0,11.0,0.0,Finished,,,,2023,3,Australian Grand Prix
-55,,SAI,Ferrari,5.0,12.0,0.0,Finished,,,,2023,3,Australian Grand Prix
-10,,GAS,Alpine F1 Team,9.0,13.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-31,,OCO,Alpine F1 Team,11.0,14.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-21,,DEV,AlphaTauri,15.0,15.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-2,,SAR,Williams,18.0,16.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-20,,MAG,Haas F1 Team,14.0,17.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-63,,RUS,Mercedes,2.0,18.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-23,,ALB,Williams,8.0,19.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-16,,LEC,Ferrari,7.0,20.0,0.0,Retired,,,,2023,3,Australian Grand Prix
-11,,PER,Red Bull,3.0,1.0,25.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-1,,VER,Red Bull,2.0,2.0,18.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-16,,LEC,Ferrari,1.0,3.0,15.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-14,,ALO,Aston Martin,6.0,4.0,12.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-55,,SAI,Ferrari,4.0,5.0,10.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-44,,HAM,Mercedes,5.0,6.0,8.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-18,,STR,Aston Martin,9.0,7.0,6.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-63,,RUS,Mercedes,11.0,8.0,5.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-4,,NOR,McLaren,7.0,9.0,2.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-22,,TSU,AlphaTauri,8.0,10.0,1.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-81,,PIA,McLaren,10.0,11.0,0.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-23,,ALB,Williams,12.0,12.0,0.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-20,,MAG,Haas F1 Team,16.0,13.0,0.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-10,,GAS,Alpine F1 Team,17.0,14.0,0.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-31,,OCO,Alpine F1 Team,19.0,15.0,0.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-2,,SAR,Williams,14.0,16.0,0.0,Finished,,,,2023,4,Azerbaijan Grand Prix
-27,,HUL,Haas F1 Team,20.0,17.0,0.0,Lapped,,,,2023,4,Azerbaijan Grand Prix
-77,,BOT,Alfa Romeo,13.0,18.0,0.0,Lapped,,,,2023,4,Azerbaijan Grand Prix
-24,,ZHO,Alfa Romeo,15.0,19.0,0.0,Retired,,,,2023,4,Azerbaijan Grand Prix
-21,,DEV,AlphaTauri,18.0,20.0,0.0,Retired,,,,2023,4,Azerbaijan Grand Prix
-1,,VER,Red Bull,9.0,1.0,26.0,Finished,,,,2023,5,Miami Grand Prix
-11,,PER,Red Bull,1.0,2.0,18.0,Finished,,,,2023,5,Miami Grand Prix
-14,,ALO,Aston Martin,2.0,3.0,15.0,Finished,,,,2023,5,Miami Grand Prix
-63,,RUS,Mercedes,6.0,4.0,12.0,Finished,,,,2023,5,Miami Grand Prix
-55,,SAI,Ferrari,3.0,5.0,10.0,Finished,,,,2023,5,Miami Grand Prix
-44,,HAM,Mercedes,13.0,6.0,8.0,Finished,,,,2023,5,Miami Grand Prix
-16,,LEC,Ferrari,7.0,7.0,6.0,Finished,,,,2023,5,Miami Grand Prix
-10,,GAS,Alpine F1 Team,5.0,8.0,4.0,Finished,,,,2023,5,Miami Grand Prix
-31,,OCO,Alpine F1 Team,8.0,9.0,2.0,Finished,,,,2023,5,Miami Grand Prix
-20,,MAG,Haas F1 Team,4.0,10.0,1.0,Finished,,,,2023,5,Miami Grand Prix
-22,,TSU,AlphaTauri,17.0,11.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-18,,STR,Aston Martin,18.0,12.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-77,,BOT,Alfa Romeo,10.0,13.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-23,,ALB,Williams,11.0,14.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-27,,HUL,Haas F1 Team,12.0,15.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-24,,ZHO,Alfa Romeo,14.0,16.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-4,,NOR,McLaren,16.0,17.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-21,,DEV,AlphaTauri,15.0,18.0,0.0,Finished,,,,2023,5,Miami Grand Prix
-81,,PIA,McLaren,19.0,19.0,0.0,Lapped,,,,2023,5,Miami Grand Prix
-2,,SAR,Williams,20.0,20.0,0.0,Lapped,,,,2023,5,Miami Grand Prix
-1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,6,Monaco Grand Prix
-14,,ALO,Aston Martin,2.0,2.0,18.0,Finished,,,,2023,6,Monaco Grand Prix
-31,,OCO,Alpine F1 Team,3.0,3.0,15.0,Finished,,,,2023,6,Monaco Grand Prix
-44,,HAM,Mercedes,5.0,4.0,13.0,Finished,,,,2023,6,Monaco Grand Prix
-63,,RUS,Mercedes,8.0,5.0,10.0,Finished,,,,2023,6,Monaco Grand Prix
-16,,LEC,Ferrari,6.0,6.0,8.0,Finished,,,,2023,6,Monaco Grand Prix
-10,,GAS,Alpine F1 Team,7.0,7.0,6.0,Finished,,,,2023,6,Monaco Grand Prix
-55,,SAI,Ferrari,4.0,8.0,4.0,Finished,,,,2023,6,Monaco Grand Prix
-4,,NOR,McLaren,10.0,9.0,2.0,Lapped,,,,2023,6,Monaco Grand Prix
-81,,PIA,McLaren,11.0,10.0,1.0,Lapped,,,,2023,6,Monaco Grand Prix
-77,,BOT,Alfa Romeo,15.0,11.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-21,,DEV,AlphaTauri,12.0,12.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-24,,ZHO,Alfa Romeo,19.0,13.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-23,,ALB,Williams,13.0,14.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-22,,TSU,AlphaTauri,9.0,15.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-11,,PER,Red Bull,20.0,16.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-27,,HUL,Haas F1 Team,18.0,17.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-2,,SAR,Williams,16.0,18.0,0.0,Lapped,,,,2023,6,Monaco Grand Prix
-20,,MAG,Haas F1 Team,17.0,19.0,0.0,Retired,,,,2023,6,Monaco Grand Prix
-18,,STR,Aston Martin,14.0,20.0,0.0,Retired,,,,2023,6,Monaco Grand Prix
-1,,VER,Red Bull,1.0,1.0,26.0,Finished,,,,2023,7,Spanish Grand Prix
-44,,HAM,Mercedes,4.0,2.0,18.0,Finished,,,,2023,7,Spanish Grand Prix
-63,,RUS,Mercedes,12.0,3.0,15.0,Finished,,,,2023,7,Spanish Grand Prix
-11,,PER,Red Bull,11.0,4.0,12.0,Finished,,,,2023,7,Spanish Grand Prix
-55,,SAI,Ferrari,2.0,5.0,10.0,Finished,,,,2023,7,Spanish Grand Prix
-18,,STR,Aston Martin,5.0,6.0,8.0,Finished,,,,2023,7,Spanish Grand Prix
-14,,ALO,Aston Martin,8.0,7.0,6.0,Finished,,,,2023,7,Spanish Grand Prix
-31,,OCO,Alpine F1 Team,6.0,8.0,4.0,Finished,,,,2023,7,Spanish Grand Prix
-24,,ZHO,Alfa Romeo,13.0,9.0,2.0,Finished,,,,2023,7,Spanish Grand Prix
-10,,GAS,Alpine F1 Team,10.0,10.0,1.0,Finished,,,,2023,7,Spanish Grand Prix
-16,,LEC,Ferrari,19.0,11.0,0.0,Finished,,,,2023,7,Spanish Grand Prix
-22,,TSU,AlphaTauri,15.0,12.0,0.0,Finished,,,,2023,7,Spanish Grand Prix
-81,,PIA,McLaren,9.0,13.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-21,,DEV,AlphaTauri,14.0,14.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-27,,HUL,Haas F1 Team,7.0,15.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-23,,ALB,Williams,18.0,16.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-4,,NOR,McLaren,3.0,17.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-20,,MAG,Haas F1 Team,17.0,18.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-77,,BOT,Alfa Romeo,16.0,19.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-2,,SAR,Williams,20.0,20.0,0.0,Lapped,,,,2023,7,Spanish Grand Prix
-1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,8,Canadian Grand Prix
-14,,ALO,Aston Martin,2.0,2.0,18.0,Finished,,,,2023,8,Canadian Grand Prix
-44,,HAM,Mercedes,3.0,3.0,15.0,Finished,,,,2023,8,Canadian Grand Prix
-16,,LEC,Ferrari,10.0,4.0,12.0,Finished,,,,2023,8,Canadian Grand Prix
-55,,SAI,Ferrari,11.0,5.0,10.0,Finished,,,,2023,8,Canadian Grand Prix
-11,,PER,Red Bull,12.0,6.0,9.0,Finished,,,,2023,8,Canadian Grand Prix
-23,,ALB,Williams,9.0,7.0,6.0,Finished,,,,2023,8,Canadian Grand Prix
-31,,OCO,Alpine F1 Team,6.0,8.0,4.0,Finished,,,,2023,8,Canadian Grand Prix
-18,,STR,Aston Martin,16.0,9.0,2.0,Finished,,,,2023,8,Canadian Grand Prix
-77,,BOT,Alfa Romeo,14.0,10.0,1.0,Finished,,,,2023,8,Canadian Grand Prix
-81,,PIA,McLaren,8.0,11.0,0.0,Finished,,,,2023,8,Canadian Grand Prix
-10,,GAS,Alpine F1 Team,15.0,12.0,0.0,Finished,,,,2023,8,Canadian Grand Prix
-4,,NOR,McLaren,7.0,13.0,0.0,Finished,,,,2023,8,Canadian Grand Prix
-22,,TSU,AlphaTauri,19.0,14.0,0.0,Finished,,,,2023,8,Canadian Grand Prix
-27,,HUL,Haas F1 Team,5.0,15.0,0.0,Lapped,,,,2023,8,Canadian Grand Prix
-24,,ZHO,Alfa Romeo,20.0,16.0,0.0,Lapped,,,,2023,8,Canadian Grand Prix
-20,,MAG,Haas F1 Team,13.0,17.0,0.0,Lapped,,,,2023,8,Canadian Grand Prix
-21,,DEV,AlphaTauri,17.0,18.0,0.0,Lapped,,,,2023,8,Canadian Grand Prix
-63,,RUS,Mercedes,4.0,19.0,0.0,Retired,,,,2023,8,Canadian Grand Prix
-2,,SAR,Williams,18.0,20.0,0.0,Retired,,,,2023,8,Canadian Grand Prix
-1,,VER,Red Bull,1.0,1.0,26.0,Finished,,,,2023,9,Austrian Grand Prix
-16,,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,2023,9,Austrian Grand Prix
-11,,PER,Red Bull,15.0,3.0,15.0,Finished,,,,2023,9,Austrian Grand Prix
-4,,NOR,McLaren,4.0,4.0,12.0,Finished,,,,2023,9,Austrian Grand Prix
-14,,ALO,Aston Martin,7.0,5.0,10.0,Finished,,,,2023,9,Austrian Grand Prix
-55,,SAI,Ferrari,3.0,6.0,8.0,Finished,,,,2023,9,Austrian Grand Prix
-63,,RUS,Mercedes,11.0,7.0,6.0,Finished,,,,2023,9,Austrian Grand Prix
-44,,HAM,Mercedes,5.0,8.0,4.0,Finished,,,,2023,9,Austrian Grand Prix
-18,,STR,Aston Martin,6.0,9.0,2.0,Finished,,,,2023,9,Austrian Grand Prix
-10,,GAS,Alpine F1 Team,9.0,10.0,1.0,Finished,,,,2023,9,Austrian Grand Prix
-23,,ALB,Williams,10.0,11.0,0.0,Finished,,,,2023,9,Austrian Grand Prix
-24,,ZHO,Alfa Romeo,17.0,12.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-2,,SAR,Williams,18.0,13.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-31,,OCO,Alpine F1 Team,12.0,14.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-77,,BOT,Alfa Romeo,14.0,15.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-81,,PIA,McLaren,13.0,16.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-21,,DEV,AlphaTauri,20.0,17.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-20,,MAG,Haas F1 Team,19.0,18.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-22,,TSU,AlphaTauri,16.0,19.0,0.0,Lapped,,,,2023,9,Austrian Grand Prix
-27,,HUL,Haas F1 Team,8.0,20.0,0.0,Retired,,,,2023,9,Austrian Grand Prix
-1,,VER,Red Bull,1.0,1.0,26.0,Finished,,,,2023,10,British Grand Prix
-4,,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2023,10,British Grand Prix
-44,,HAM,Mercedes,7.0,3.0,15.0,Finished,,,,2023,10,British Grand Prix
-81,,PIA,McLaren,3.0,4.0,12.0,Finished,,,,2023,10,British Grand Prix
-63,,RUS,Mercedes,6.0,5.0,10.0,Finished,,,,2023,10,British Grand Prix
-11,,PER,Red Bull,15.0,6.0,8.0,Finished,,,,2023,10,British Grand Prix
-14,,ALO,Aston Martin,9.0,7.0,6.0,Finished,,,,2023,10,British Grand Prix
-23,,ALB,Williams,8.0,8.0,4.0,Finished,,,,2023,10,British Grand Prix
-16,,LEC,Ferrari,4.0,9.0,2.0,Finished,,,,2023,10,British Grand Prix
-55,,SAI,Ferrari,5.0,10.0,1.0,Finished,,,,2023,10,British Grand Prix
-2,,SAR,Williams,14.0,11.0,0.0,Finished,,,,2023,10,British Grand Prix
-77,,BOT,Alfa Romeo,20.0,12.0,0.0,Finished,,,,2023,10,British Grand Prix
-27,,HUL,Haas F1 Team,11.0,13.0,0.0,Finished,,,,2023,10,British Grand Prix
-18,,STR,Aston Martin,12.0,14.0,0.0,Finished,,,,2023,10,British Grand Prix
-24,,ZHO,Alfa Romeo,17.0,15.0,0.0,Finished,,,,2023,10,British Grand Prix
-22,,TSU,AlphaTauri,16.0,16.0,0.0,Finished,,,,2023,10,British Grand Prix
-21,,DEV,AlphaTauri,18.0,17.0,0.0,Finished,,,,2023,10,British Grand Prix
-10,,GAS,Alpine F1 Team,10.0,18.0,0.0,Retired,,,,2023,10,British Grand Prix
-20,,MAG,Haas F1 Team,19.0,19.0,0.0,Retired,,,,2023,10,British Grand Prix
-31,,OCO,Alpine F1 Team,13.0,20.0,0.0,Retired,,,,2023,10,British Grand Prix
-1,,VER,Red Bull,2.0,1.0,26.0,Finished,,,,2023,11,Hungarian Grand Prix
-4,,NOR,McLaren,3.0,2.0,18.0,Finished,,,,2023,11,Hungarian Grand Prix
-11,,PER,Red Bull,9.0,3.0,15.0,Finished,,,,2023,11,Hungarian Grand Prix
-44,,HAM,Mercedes,1.0,4.0,12.0,Finished,,,,2023,11,Hungarian Grand Prix
-81,,PIA,McLaren,4.0,5.0,10.0,Finished,,,,2023,11,Hungarian Grand Prix
-63,,RUS,Mercedes,18.0,6.0,8.0,Finished,,,,2023,11,Hungarian Grand Prix
-16,,LEC,Ferrari,6.0,7.0,6.0,Finished,,,,2023,11,Hungarian Grand Prix
-55,,SAI,Ferrari,11.0,8.0,4.0,Finished,,,,2023,11,Hungarian Grand Prix
-14,,ALO,Aston Martin,8.0,9.0,2.0,Finished,,,,2023,11,Hungarian Grand Prix
-18,,STR,Aston Martin,14.0,10.0,1.0,Lapped,,,,2023,11,Hungarian Grand Prix
-23,,ALB,Williams,16.0,11.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-77,,BOT,Alfa Romeo,7.0,12.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-3,,RIC,AlphaTauri,13.0,13.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-27,,HUL,Haas F1 Team,10.0,14.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-22,,TSU,AlphaTauri,17.0,15.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-24,,ZHO,Alfa Romeo,5.0,16.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-20,,MAG,Haas F1 Team,19.0,17.0,0.0,Lapped,,,,2023,11,Hungarian Grand Prix
-2,,SAR,Williams,20.0,18.0,0.0,Retired,,,,2023,11,Hungarian Grand Prix
-31,,OCO,Alpine F1 Team,12.0,19.0,0.0,Retired,,,,2023,11,Hungarian Grand Prix
-10,,GAS,Alpine F1 Team,15.0,20.0,0.0,Retired,,,,2023,11,Hungarian Grand Prix
-1,,VER,Red Bull,6.0,1.0,25.0,Finished,,,,2023,12,Belgian Grand Prix
-11,,PER,Red Bull,2.0,2.0,18.0,Finished,,,,2023,12,Belgian Grand Prix
-16,,LEC,Ferrari,1.0,3.0,15.0,Finished,,,,2023,12,Belgian Grand Prix
-44,,HAM,Mercedes,3.0,4.0,13.0,Finished,,,,2023,12,Belgian Grand Prix
-14,,ALO,Aston Martin,9.0,5.0,10.0,Finished,,,,2023,12,Belgian Grand Prix
-63,,RUS,Mercedes,8.0,6.0,8.0,Finished,,,,2023,12,Belgian Grand Prix
-4,,NOR,McLaren,7.0,7.0,6.0,Finished,,,,2023,12,Belgian Grand Prix
-31,,OCO,Alpine F1 Team,14.0,8.0,4.0,Finished,,,,2023,12,Belgian Grand Prix
-18,,STR,Aston Martin,10.0,9.0,2.0,Finished,,,,2023,12,Belgian Grand Prix
-22,,TSU,AlphaTauri,11.0,10.0,1.0,Finished,,,,2023,12,Belgian Grand Prix
-10,,GAS,Alpine F1 Team,12.0,11.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-77,,BOT,Alfa Romeo,13.0,12.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-24,,ZHO,Alfa Romeo,17.0,13.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-23,,ALB,Williams,15.0,14.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-20,,MAG,Haas F1 Team,16.0,15.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-3,,RIC,AlphaTauri,19.0,16.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-2,,SAR,Williams,18.0,17.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-27,,HUL,Haas F1 Team,20.0,18.0,0.0,Finished,,,,2023,12,Belgian Grand Prix
-55,,SAI,Ferrari,4.0,19.0,0.0,Retired,,,,2023,12,Belgian Grand Prix
-81,,PIA,McLaren,5.0,20.0,0.0,Retired,,,,2023,12,Belgian Grand Prix
-1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,13,Dutch Grand Prix
-14,,ALO,Aston Martin,5.0,2.0,19.0,Finished,,,,2023,13,Dutch Grand Prix
-10,,GAS,Alpine F1 Team,12.0,3.0,15.0,Finished,,,,2023,13,Dutch Grand Prix
-11,,PER,Red Bull,7.0,4.0,12.0,Finished,,,,2023,13,Dutch Grand Prix
-55,,SAI,Ferrari,6.0,5.0,10.0,Finished,,,,2023,13,Dutch Grand Prix
-44,,HAM,Mercedes,13.0,6.0,8.0,Finished,,,,2023,13,Dutch Grand Prix
-4,,NOR,McLaren,2.0,7.0,6.0,Finished,,,,2023,13,Dutch Grand Prix
-23,,ALB,Williams,4.0,8.0,4.0,Finished,,,,2023,13,Dutch Grand Prix
-81,,PIA,McLaren,8.0,9.0,2.0,Finished,,,,2023,13,Dutch Grand Prix
-31,,OCO,Alpine F1 Team,16.0,10.0,1.0,Finished,,,,2023,13,Dutch Grand Prix
-18,,STR,Aston Martin,11.0,11.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-27,,HUL,Haas F1 Team,14.0,12.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-40,,LAW,AlphaTauri,19.0,13.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-77,,BOT,Alfa Romeo,18.0,14.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-22,,TSU,AlphaTauri,17.0,15.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-20,,MAG,Haas F1 Team,0.0,16.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-63,,RUS,Mercedes,3.0,17.0,0.0,Finished,,,,2023,13,Dutch Grand Prix
-24,,ZHO,Alfa Romeo,15.0,18.0,0.0,Accident,,,,2023,13,Dutch Grand Prix
-16,,LEC,Ferrari,9.0,19.0,0.0,Undertray,,,,2023,13,Dutch Grand Prix
-2,,SAR,Williams,10.0,20.0,0.0,Accident,,,,2023,13,Dutch Grand Prix
-1,,VER,Red Bull,2.0,1.0,25.0,Finished,,,,2023,14,Italian Grand Prix
-11,,PER,Red Bull,5.0,2.0,18.0,Finished,,,,2023,14,Italian Grand Prix
-55,,SAI,Ferrari,1.0,3.0,15.0,Finished,,,,2023,14,Italian Grand Prix
-16,,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,2023,14,Italian Grand Prix
-63,,RUS,Mercedes,4.0,5.0,10.0,Finished,,,,2023,14,Italian Grand Prix
-44,,HAM,Mercedes,8.0,6.0,8.0,Finished,,,,2023,14,Italian Grand Prix
-23,,ALB,Williams,6.0,7.0,6.0,Finished,,,,2023,14,Italian Grand Prix
-4,,NOR,McLaren,9.0,8.0,4.0,Finished,,,,2023,14,Italian Grand Prix
-14,,ALO,Aston Martin,10.0,9.0,2.0,Finished,,,,2023,14,Italian Grand Prix
-77,,BOT,Alfa Romeo,14.0,10.0,1.0,Finished,,,,2023,14,Italian Grand Prix
-40,,LAW,AlphaTauri,12.0,11.0,0.0,Finished,,,,2023,14,Italian Grand Prix
-81,,PIA,McLaren,7.0,12.0,0.0,Finished,,,,2023,14,Italian Grand Prix
-2,,SAR,Williams,15.0,13.0,0.0,Finished,,,,2023,14,Italian Grand Prix
-24,,ZHO,Alfa Romeo,16.0,14.0,0.0,Finished,,,,2023,14,Italian Grand Prix
-10,,GAS,Alpine F1 Team,17.0,15.0,0.0,Finished,,,,2023,14,Italian Grand Prix
-18,,STR,Aston Martin,20.0,16.0,0.0,Finished,,,,2023,14,Italian Grand Prix
-27,,HUL,Haas F1 Team,13.0,17.0,0.0,Lapped,,,,2023,14,Italian Grand Prix
-20,,MAG,Haas F1 Team,19.0,18.0,0.0,Lapped,,,,2023,14,Italian Grand Prix
-31,,OCO,Alpine F1 Team,18.0,19.0,0.0,Retired,,,,2023,14,Italian Grand Prix
-22,,TSU,AlphaTauri,11.0,20.0,0.0,Did not start,,,,2023,14,Italian Grand Prix
-55,,SAI,Ferrari,1.0,1.0,25.0,Finished,,,,2023,15,Singapore Grand Prix
-4,,NOR,McLaren,4.0,2.0,18.0,Finished,,,,2023,15,Singapore Grand Prix
-44,,HAM,Mercedes,5.0,3.0,16.0,Finished,,,,2023,15,Singapore Grand Prix
-16,,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,2023,15,Singapore Grand Prix
-1,,VER,Red Bull,11.0,5.0,10.0,Finished,,,,2023,15,Singapore Grand Prix
-10,,GAS,Alpine F1 Team,12.0,6.0,8.0,Finished,,,,2023,15,Singapore Grand Prix
-81,,PIA,McLaren,17.0,7.0,6.0,Finished,,,,2023,15,Singapore Grand Prix
-11,,PER,Red Bull,13.0,8.0,4.0,Finished,,,,2023,15,Singapore Grand Prix
-40,,LAW,AlphaTauri,10.0,9.0,2.0,Finished,,,,2023,15,Singapore Grand Prix
-20,,MAG,Haas F1 Team,6.0,10.0,1.0,Finished,,,,2023,15,Singapore Grand Prix
-23,,ALB,Williams,14.0,11.0,0.0,Finished,,,,2023,15,Singapore Grand Prix
-24,,ZHO,Alfa Romeo,19.0,12.0,0.0,Finished,,,,2023,15,Singapore Grand Prix
-27,,HUL,Haas F1 Team,9.0,13.0,0.0,Finished,,,,2023,15,Singapore Grand Prix
-2,,SAR,Williams,18.0,14.0,0.0,Finished,,,,2023,15,Singapore Grand Prix
-14,,ALO,Aston Martin,7.0,15.0,0.0,Finished,,,,2023,15,Singapore Grand Prix
-63,,RUS,Mercedes,2.0,16.0,0.0,Retired,,,,2023,15,Singapore Grand Prix
-77,,BOT,Alfa Romeo,16.0,17.0,0.0,Retired,,,,2023,15,Singapore Grand Prix
-31,,OCO,Alpine F1 Team,8.0,18.0,0.0,Retired,,,,2023,15,Singapore Grand Prix
-22,,TSU,AlphaTauri,15.0,19.0,0.0,Retired,,,,2023,15,Singapore Grand Prix
-18,,STR,Aston Martin,0.0,20.0,0.0,Withdrew,,,,2023,15,Singapore Grand Prix
-1,,VER,Red Bull,1.0,1.0,26.0,Finished,,,,2023,16,Japanese Grand Prix
-4,,NOR,McLaren,3.0,2.0,18.0,Finished,,,,2023,16,Japanese Grand Prix
-81,,PIA,McLaren,2.0,3.0,15.0,Finished,,,,2023,16,Japanese Grand Prix
-16,,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2023,16,Japanese Grand Prix
-44,,HAM,Mercedes,7.0,5.0,10.0,Finished,,,,2023,16,Japanese Grand Prix
-55,,SAI,Ferrari,6.0,6.0,8.0,Finished,,,,2023,16,Japanese Grand Prix
-63,,RUS,Mercedes,8.0,7.0,6.0,Finished,,,,2023,16,Japanese Grand Prix
-14,,ALO,Aston Martin,10.0,8.0,4.0,Finished,,,,2023,16,Japanese Grand Prix
-31,,OCO,Alpine F1 Team,14.0,9.0,2.0,Finished,,,,2023,16,Japanese Grand Prix
-10,,GAS,Alpine F1 Team,12.0,10.0,1.0,Finished,,,,2023,16,Japanese Grand Prix
-40,,LAW,AlphaTauri,11.0,11.0,0.0,Lapped,,,,2023,16,Japanese Grand Prix
-22,,TSU,AlphaTauri,9.0,12.0,0.0,Lapped,,,,2023,16,Japanese Grand Prix
-24,,ZHO,Alfa Romeo,19.0,13.0,0.0,Lapped,,,,2023,16,Japanese Grand Prix
-27,,HUL,Haas F1 Team,18.0,14.0,0.0,Lapped,,,,2023,16,Japanese Grand Prix
-20,,MAG,Haas F1 Team,15.0,15.0,0.0,Lapped,,,,2023,16,Japanese Grand Prix
-23,,ALB,Williams,13.0,16.0,0.0,Retired,,,,2023,16,Japanese Grand Prix
-2,,SAR,Williams,20.0,17.0,0.0,Retired,,,,2023,16,Japanese Grand Prix
-18,,STR,Aston Martin,17.0,18.0,0.0,Retired,,,,2023,16,Japanese Grand Prix
-11,,PER,Red Bull,5.0,19.0,0.0,Retired,,,,2023,16,Japanese Grand Prix
-77,,BOT,Alfa Romeo,16.0,20.0,0.0,Retired,,,,2023,16,Japanese Grand Prix
-1,,VER,Red Bull,1.0,1.0,26.0,Finished,,,,2023,17,Qatar Grand Prix
-81,,PIA,McLaren,6.0,2.0,18.0,Finished,,,,2023,17,Qatar Grand Prix
-4,,NOR,McLaren,10.0,3.0,15.0,Finished,,,,2023,17,Qatar Grand Prix
-63,,RUS,Mercedes,2.0,4.0,12.0,Finished,,,,2023,17,Qatar Grand Prix
-16,,LEC,Ferrari,5.0,5.0,10.0,Finished,,,,2023,17,Qatar Grand Prix
-14,,ALO,Aston Martin,4.0,6.0,8.0,Finished,,,,2023,17,Qatar Grand Prix
-31,,OCO,Alpine F1 Team,8.0,7.0,6.0,Finished,,,,2023,17,Qatar Grand Prix
-77,,BOT,Alfa Romeo,9.0,8.0,4.0,Finished,,,,2023,17,Qatar Grand Prix
-24,,ZHO,Alfa Romeo,19.0,9.0,2.0,Finished,,,,2023,17,Qatar Grand Prix
-11,,PER,Red Bull,20.0,10.0,1.0,Finished,,,,2023,17,Qatar Grand Prix
-18,,STR,Aston Martin,16.0,11.0,0.0,Finished,,,,2023,17,Qatar Grand Prix
-10,,GAS,Alpine F1 Team,7.0,12.0,0.0,Finished,,,,2023,17,Qatar Grand Prix
-23,,ALB,Williams,13.0,13.0,0.0,Finished,,,,2023,17,Qatar Grand Prix
-20,,MAG,Haas F1 Team,18.0,14.0,0.0,Lapped,,,,2023,17,Qatar Grand Prix
-22,,TSU,AlphaTauri,11.0,15.0,0.0,Lapped,,,,2023,17,Qatar Grand Prix
-27,,HUL,Haas F1 Team,14.0,16.0,0.0,Lapped,,,,2023,17,Qatar Grand Prix
-40,,LAW,AlphaTauri,17.0,17.0,0.0,Lapped,,,,2023,17,Qatar Grand Prix
-2,,SAR,Williams,15.0,18.0,0.0,Retired,,,,2023,17,Qatar Grand Prix
-44,,HAM,Mercedes,3.0,19.0,0.0,Retired,,,,2023,17,Qatar Grand Prix
-55,,SAI,Ferrari,12.0,20.0,0.0,Did not start,,,,2023,17,Qatar Grand Prix
-1,,VER,Red Bull,6.0,1.0,25.0,Finished,,,,2023,18,United States Grand Prix
-4,,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2023,18,United States Grand Prix
-55,,SAI,Ferrari,4.0,3.0,15.0,Finished,,,,2023,18,United States Grand Prix
-11,,PER,Red Bull,9.0,4.0,12.0,Finished,,,,2023,18,United States Grand Prix
-63,,RUS,Mercedes,5.0,5.0,10.0,Finished,,,,2023,18,United States Grand Prix
-10,,GAS,Alpine F1 Team,7.0,6.0,8.0,Finished,,,,2023,18,United States Grand Prix
-18,,STR,Aston Martin,20.0,7.0,6.0,Finished,,,,2023,18,United States Grand Prix
-22,,TSU,AlphaTauri,11.0,8.0,5.0,Finished,,,,2023,18,United States Grand Prix
-23,,ALB,Williams,15.0,9.0,2.0,Finished,,,,2023,18,United States Grand Prix
-2,,SAR,Williams,16.0,10.0,1.0,Finished,,,,2023,18,United States Grand Prix
-27,,HUL,Haas F1 Team,18.0,11.0,0.0,Finished,,,,2023,18,United States Grand Prix
-77,,BOT,Alfa Romeo,13.0,12.0,0.0,Finished,,,,2023,18,United States Grand Prix
-24,,ZHO,Alfa Romeo,12.0,13.0,0.0,Lapped,,,,2023,18,United States Grand Prix
-20,,MAG,Haas F1 Team,17.0,14.0,0.0,Lapped,,,,2023,18,United States Grand Prix
-3,,RIC,AlphaTauri,14.0,15.0,0.0,Lapped,,,,2023,18,United States Grand Prix
-14,,ALO,Aston Martin,19.0,16.0,0.0,Retired,,,,2023,18,United States Grand Prix
-81,,PIA,McLaren,10.0,17.0,0.0,Retired,,,,2023,18,United States Grand Prix
-31,,OCO,Alpine F1 Team,8.0,18.0,0.0,Retired,,,,2023,18,United States Grand Prix
-44,,HAM,Mercedes,3.0,19.0,0.0,Disqualified,,,,2023,18,United States Grand Prix
-16,,LEC,Ferrari,1.0,20.0,0.0,Disqualified,,,,2023,18,United States Grand Prix
-1,,VER,Red Bull,3.0,1.0,25.0,Finished,,,,2023,19,Mexico City Grand Prix
-44,,HAM,Mercedes,6.0,2.0,19.0,Finished,,,,2023,19,Mexico City Grand Prix
-16,,LEC,Ferrari,1.0,3.0,15.0,Finished,,,,2023,19,Mexico City Grand Prix
-55,,SAI,Ferrari,2.0,4.0,12.0,Finished,,,,2023,19,Mexico City Grand Prix
-4,,NOR,McLaren,17.0,5.0,10.0,Finished,,,,2023,19,Mexico City Grand Prix
-63,,RUS,Mercedes,8.0,6.0,8.0,Finished,,,,2023,19,Mexico City Grand Prix
-3,,RIC,AlphaTauri,4.0,7.0,6.0,Finished,,,,2023,19,Mexico City Grand Prix
-81,,PIA,McLaren,7.0,8.0,4.0,Finished,,,,2023,19,Mexico City Grand Prix
-23,,ALB,Williams,14.0,9.0,2.0,Finished,,,,2023,19,Mexico City Grand Prix
-31,,OCO,Alpine F1 Team,15.0,10.0,1.0,Finished,,,,2023,19,Mexico City Grand Prix
-10,,GAS,Alpine F1 Team,11.0,11.0,0.0,Finished,,,,2023,19,Mexico City Grand Prix
-22,,TSU,AlphaTauri,18.0,12.0,0.0,Finished,,,,2023,19,Mexico City Grand Prix
-27,,HUL,Haas F1 Team,12.0,13.0,0.0,Finished,,,,2023,19,Mexico City Grand Prix
-24,,ZHO,Alfa Romeo,10.0,14.0,0.0,Finished,,,,2023,19,Mexico City Grand Prix
-77,,BOT,Alfa Romeo,9.0,15.0,0.0,Finished,,,,2023,19,Mexico City Grand Prix
-2,,SAR,Williams,19.0,16.0,0.0,Retired,,,,2023,19,Mexico City Grand Prix
-18,,STR,Aston Martin,0.0,17.0,0.0,Collision damage,,,,2023,19,Mexico City Grand Prix
-14,,ALO,Aston Martin,13.0,18.0,0.0,Withdrew,,,,2023,19,Mexico City Grand Prix
-20,,MAG,Haas F1 Team,16.0,19.0,0.0,Accident,,,,2023,19,Mexico City Grand Prix
-11,,PER,Red Bull,5.0,20.0,0.0,Collision damage,,,,2023,19,Mexico City Grand Prix
-1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2023,20,São Paulo Grand Prix
-4,,NOR,McLaren,6.0,2.0,19.0,Finished,,,,2023,20,São Paulo Grand Prix
-14,,ALO,Aston Martin,4.0,3.0,15.0,Finished,,,,2023,20,São Paulo Grand Prix
-11,,PER,Red Bull,9.0,4.0,12.0,Finished,,,,2023,20,São Paulo Grand Prix
-18,,STR,Aston Martin,3.0,5.0,10.0,Finished,,,,2023,20,São Paulo Grand Prix
-55,,SAI,Ferrari,7.0,6.0,8.0,Finished,,,,2023,20,São Paulo Grand Prix
-10,,GAS,Alpine F1 Team,15.0,7.0,6.0,Finished,,,,2023,20,São Paulo Grand Prix
-44,,HAM,Mercedes,5.0,8.0,4.0,Finished,,,,2023,20,São Paulo Grand Prix
-22,,TSU,AlphaTauri,16.0,9.0,2.0,Finished,,,,2023,20,São Paulo Grand Prix
-31,,OCO,Alpine F1 Team,14.0,10.0,1.0,Lapped,,,,2023,20,São Paulo Grand Prix
-2,,SAR,Williams,19.0,11.0,0.0,Lapped,,,,2023,20,São Paulo Grand Prix
-27,,HUL,Haas F1 Team,11.0,12.0,0.0,Lapped,,,,2023,20,São Paulo Grand Prix
-3,,RIC,AlphaTauri,17.0,13.0,0.0,Lapped,,,,2023,20,São Paulo Grand Prix
-81,,PIA,McLaren,10.0,14.0,0.0,Lapped,,,,2023,20,São Paulo Grand Prix
-63,,RUS,Mercedes,8.0,15.0,0.0,Retired,,,,2023,20,São Paulo Grand Prix
-77,,BOT,Alfa Romeo,18.0,16.0,0.0,Retired,,,,2023,20,São Paulo Grand Prix
-24,,ZHO,Alfa Romeo,20.0,17.0,0.0,Retired,,,,2023,20,São Paulo Grand Prix
-20,,MAG,Haas F1 Team,12.0,18.0,0.0,Retired,,,,2023,20,São Paulo Grand Prix
-23,,ALB,Williams,13.0,19.0,0.0,Retired,,,,2023,20,São Paulo Grand Prix
-16,,LEC,Ferrari,2.0,20.0,0.0,Did not start,,,,2023,20,São Paulo Grand Prix
-1,,VER,Red Bull,2.0,1.0,25.0,Finished,,,,2023,21,Las Vegas Grand Prix
-16,,LEC,Ferrari,1.0,2.0,18.0,Finished,,,,2023,21,Las Vegas Grand Prix
-11,,PER,Red Bull,11.0,3.0,15.0,Finished,,,,2023,21,Las Vegas Grand Prix
-31,,OCO,Alpine F1 Team,16.0,4.0,12.0,Finished,,,,2023,21,Las Vegas Grand Prix
-18,,STR,Aston Martin,19.0,5.0,10.0,Finished,,,,2023,21,Las Vegas Grand Prix
-55,,SAI,Ferrari,12.0,6.0,8.0,Finished,,,,2023,21,Las Vegas Grand Prix
-44,,HAM,Mercedes,10.0,7.0,6.0,Finished,,,,2023,21,Las Vegas Grand Prix
-63,,RUS,Mercedes,3.0,8.0,4.0,Finished,,,,2023,21,Las Vegas Grand Prix
-14,,ALO,Aston Martin,9.0,9.0,2.0,Finished,,,,2023,21,Las Vegas Grand Prix
-81,,PIA,McLaren,18.0,10.0,2.0,Finished,,,,2023,21,Las Vegas Grand Prix
-10,,GAS,Alpine F1 Team,4.0,11.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-23,,ALB,Williams,5.0,12.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-20,,MAG,Haas F1 Team,8.0,13.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-3,,RIC,AlphaTauri,14.0,14.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-24,,ZHO,Alfa Romeo,17.0,15.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-2,,SAR,Williams,6.0,16.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-77,,BOT,Alfa Romeo,7.0,17.0,0.0,Finished,,,,2023,21,Las Vegas Grand Prix
-22,,TSU,AlphaTauri,20.0,18.0,0.0,Retired,,,,2023,21,Las Vegas Grand Prix
-27,,HUL,Haas F1 Team,13.0,19.0,0.0,Retired,,,,2023,21,Las Vegas Grand Prix
-4,,NOR,McLaren,15.0,20.0,0.0,Retired,,,,2023,21,Las Vegas Grand Prix
-1,,VER,Red Bull,1.0,1.0,26.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-16,,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-63,,RUS,Mercedes,4.0,3.0,15.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-11,,PER,Red Bull,9.0,4.0,12.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-4,,NOR,McLaren,5.0,5.0,10.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-81,,PIA,McLaren,3.0,6.0,8.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-14,,ALO,Aston Martin,7.0,7.0,6.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-22,,TSU,AlphaTauri,6.0,8.0,4.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-44,,HAM,Mercedes,11.0,9.0,2.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-18,,STR,Aston Martin,13.0,10.0,1.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-3,,RIC,AlphaTauri,15.0,11.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-31,,OCO,Alpine F1 Team,12.0,12.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-10,,GAS,Alpine F1 Team,10.0,13.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-23,,ALB,Williams,14.0,14.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-27,,HUL,Haas F1 Team,8.0,15.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-2,,SAR,Williams,20.0,16.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-24,,ZHO,Alfa Romeo,19.0,17.0,0.0,Finished,,,,2023,22,Abu Dhabi Grand Prix
-55,,SAI,Ferrari,16.0,18.0,0.0,Retired,,,,2023,22,Abu Dhabi Grand Prix
-77,,BOT,Alfa Romeo,18.0,19.0,0.0,Lapped,,,,2023,22,Abu Dhabi Grand Prix
-20,,MAG,Haas F1 Team,17.0,20.0,0.0,Lapped,,,,2023,22,Abu Dhabi Grand Prix
+DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Time,Season,Round,EventName
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 01:33:56.736000,2023,1,Bahrain Grand Prix
+11,,Sergio Pérez,PER,Red Bull,2.0,2.0,18.0,Finished,,,,0 days 00:00:11.987000,2023,1,Bahrain Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,5.0,3.0,15.0,Finished,,,,0 days 00:00:38.637000,2023,1,Bahrain Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,4.0,4.0,12.0,Finished,,,,0 days 00:00:48.052000,2023,1,Bahrain Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,7.0,5.0,10.0,Finished,,,,0 days 00:00:50.977000,2023,1,Bahrain Grand Prix
+18,,Lance Stroll,STR,Aston Martin,8.0,6.0,8.0,Finished,,,,0 days 00:00:54.502000,2023,1,Bahrain Grand Prix
+63,,George Russell,RUS,Mercedes,6.0,7.0,6.0,Finished,,,,0 days 00:00:55.873000,2023,1,Bahrain Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,12.0,8.0,4.0,Finished,,,,0 days 00:01:12.647000,2023,1,Bahrain Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,20.0,9.0,2.0,Finished,,,,0 days 00:01:13.753000,2023,1,Bahrain Grand Prix
+23,,Alexander Albon,ALB,Williams,15.0,10.0,1.0,Finished,,,,0 days 00:01:29.774000,2023,1,Bahrain Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,14.0,11.0,0.0,Finished,,,,0 days 00:01:30.870000,2023,1,Bahrain Grand Prix
+2,,Logan Sargeant,SAR,Williams,16.0,12.0,0.0,Lapped,,,,0 days 00:00:01.136000,2023,1,Bahrain Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,17.0,13.0,0.0,Lapped,,,,0 days 00:00:16.757000,2023,1,Bahrain Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,19.0,14.0,0.0,Lapped,,,,0 days 00:00:22.523000,2023,1,Bahrain Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,10.0,15.0,0.0,Lapped,,,,0 days 00:00:38.911000,2023,1,Bahrain Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,13.0,16.0,0.0,Lapped,,,,0 days 00:00:39.649000,2023,1,Bahrain Grand Prix
+4,,Lando Norris,NOR,McLaren,11.0,17.0,0.0,Lapped,,,,0 days 00:00:06.636000,2023,1,Bahrain Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,9.0,18.0,0.0,Retired,,,,,2023,1,Bahrain Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,3.0,19.0,0.0,Retired,,,,,2023,1,Bahrain Grand Prix
+81,,Oscar Piastri,PIA,McLaren,18.0,20.0,0.0,Retired,,,,,2023,1,Bahrain Grand Prix
+11,,Sergio Pérez,PER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 01:21:14.894000,2023,2,Saudi Arabian Grand Prix
+1,,Max Verstappen,VER,Red Bull,15.0,2.0,19.0,Finished,,,,0 days 00:00:05.355000,2023,2,Saudi Arabian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,2.0,3.0,15.0,Finished,,,,0 days 00:00:20.728000,2023,2,Saudi Arabian Grand Prix
+63,,George Russell,RUS,Mercedes,3.0,4.0,12.0,Finished,,,,0 days 00:00:25.866000,2023,2,Saudi Arabian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,7.0,5.0,10.0,Finished,,,,0 days 00:00:31.065000,2023,2,Saudi Arabian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,4.0,6.0,8.0,Finished,,,,0 days 00:00:35.876000,2023,2,Saudi Arabian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,12.0,7.0,6.0,Finished,,,,0 days 00:00:43.162000,2023,2,Saudi Arabian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,6.0,8.0,4.0,Finished,,,,0 days 00:00:52.832000,2023,2,Saudi Arabian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,9.0,2.0,Finished,,,,0 days 00:00:54.747000,2023,2,Saudi Arabian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,13.0,10.0,1.0,Finished,,,,0 days 00:01:04.826000,2023,2,Saudi Arabian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,16.0,11.0,0.0,Finished,,,,0 days 00:01:07.494000,2023,2,Saudi Arabian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,10.0,12.0,0.0,Finished,,,,0 days 00:01:10.588000,2023,2,Saudi Arabian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,11.0,13.0,0.0,Finished,,,,0 days 00:01:16.060000,2023,2,Saudi Arabian Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,18.0,14.0,0.0,Finished,,,,0 days 00:01:17.478000,2023,2,Saudi Arabian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,8.0,15.0,0.0,Finished,,,,0 days 00:01:25.021000,2023,2,Saudi Arabian Grand Prix
+2,,Logan Sargeant,SAR,Williams,20.0,16.0,0.0,Finished,,,,0 days 00:01:26.293000,2023,2,Saudi Arabian Grand Prix
+4,,Lando Norris,NOR,McLaren,19.0,17.0,0.0,Finished,,,,0 days 00:01:26.445000,2023,2,Saudi Arabian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,14.0,18.0,0.0,Lapped,,,,0 days 00:00:29.584000,2023,2,Saudi Arabian Grand Prix
+23,,Alexander Albon,ALB,Williams,17.0,19.0,0.0,Retired,,,,,2023,2,Saudi Arabian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,5.0,20.0,0.0,Retired,,,,,2023,2,Saudi Arabian Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 02:32:38.371000,2023,3,Australian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,3.0,2.0,18.0,Finished,,,,0 days 00:00:00.179000,2023,3,Australian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,4.0,3.0,15.0,Finished,,,,0 days 00:00:00.769000,2023,3,Australian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,6.0,4.0,12.0,Finished,,,,0 days 00:00:03.082000,2023,3,Australian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,20.0,5.0,11.0,Finished,,,,0 days 00:00:03.320000,2023,3,Australian Grand Prix
+4,,Lando Norris,NOR,McLaren,13.0,6.0,8.0,Finished,,,,0 days 00:00:03.701000,2023,3,Australian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,10.0,7.0,6.0,Finished,,,,0 days 00:00:04.939000,2023,3,Australian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,16.0,8.0,4.0,Finished,,,,0 days 00:00:05.382000,2023,3,Australian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,17.0,9.0,2.0,Finished,,,,0 days 00:00:05.713000,2023,3,Australian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,12.0,10.0,1.0,Finished,,,,0 days 00:00:06.052000,2023,3,Australian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,19.0,11.0,0.0,Finished,,,,0 days 00:00:06.513000,2023,3,Australian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,5.0,12.0,0.0,Finished,,,,0 days 00:00:06.594000,2023,3,Australian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,13.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,11.0,14.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,15.0,15.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+2,,Logan Sargeant,SAR,Williams,18.0,16.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,14.0,17.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+63,,George Russell,RUS,Mercedes,2.0,18.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+23,,Alexander Albon,ALB,Williams,8.0,19.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,7.0,20.0,0.0,Retired,,,,,2023,3,Australian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,3.0,1.0,25.0,Finished,,,,0 days 01:32:42.436000,2023,4,Azerbaijan Grand Prix
+1,,Max Verstappen,VER,Red Bull,2.0,2.0,18.0,Finished,,,,0 days 00:00:02.137000,2023,4,Azerbaijan Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,1.0,3.0,15.0,Finished,,,,0 days 00:00:21.217000,2023,4,Azerbaijan Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,6.0,4.0,12.0,Finished,,,,0 days 00:00:22.024000,2023,4,Azerbaijan Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,4.0,5.0,10.0,Finished,,,,0 days 00:00:45.491000,2023,4,Azerbaijan Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,5.0,6.0,8.0,Finished,,,,0 days 00:00:46.145000,2023,4,Azerbaijan Grand Prix
+18,,Lance Stroll,STR,Aston Martin,9.0,7.0,6.0,Finished,,,,0 days 00:00:51.617000,2023,4,Azerbaijan Grand Prix
+63,,George Russell,RUS,Mercedes,11.0,8.0,5.0,Finished,,,,0 days 00:01:14.240000,2023,4,Azerbaijan Grand Prix
+4,,Lando Norris,NOR,McLaren,7.0,9.0,2.0,Finished,,,,0 days 00:01:20.376000,2023,4,Azerbaijan Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,8.0,10.0,1.0,Finished,,,,0 days 00:01:23.862000,2023,4,Azerbaijan Grand Prix
+81,,Oscar Piastri,PIA,McLaren,10.0,11.0,0.0,Finished,,,,0 days 00:01:26.501000,2023,4,Azerbaijan Grand Prix
+23,,Alexander Albon,ALB,Williams,12.0,12.0,0.0,Finished,,,,0 days 00:01:28.623000,2023,4,Azerbaijan Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,16.0,13.0,0.0,Finished,,,,0 days 00:01:29.729000,2023,4,Azerbaijan Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,17.0,14.0,0.0,Finished,,,,0 days 00:01:31.332000,2023,4,Azerbaijan Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,19.0,15.0,0.0,Finished,,,,0 days 00:01:37.794000,2023,4,Azerbaijan Grand Prix
+2,,Logan Sargeant,SAR,Williams,14.0,16.0,0.0,Finished,,,,0 days 00:01:40.943000,2023,4,Azerbaijan Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,20.0,17.0,0.0,Lapped,,,,0 days 00:00:09.937000,2023,4,Azerbaijan Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,13.0,18.0,0.0,Lapped,,,,0 days 00:00:19.098000,2023,4,Azerbaijan Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,15.0,19.0,0.0,Retired,,,,,2023,4,Azerbaijan Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,18.0,20.0,0.0,Retired,,,,,2023,4,Azerbaijan Grand Prix
+1,,Max Verstappen,VER,Red Bull,9.0,1.0,26.0,Finished,,,,0 days 01:27:38.241000,2023,5,Miami Grand Prix
+11,,Sergio Pérez,PER,Red Bull,1.0,2.0,18.0,Finished,,,,0 days 00:00:05.384000,2023,5,Miami Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,2.0,3.0,15.0,Finished,,,,0 days 00:00:26.305000,2023,5,Miami Grand Prix
+63,,George Russell,RUS,Mercedes,6.0,4.0,12.0,Finished,,,,0 days 00:00:33.229000,2023,5,Miami Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,3.0,5.0,10.0,Finished,,,,0 days 00:00:42.511000,2023,5,Miami Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,13.0,6.0,8.0,Finished,,,,0 days 00:00:51.249000,2023,5,Miami Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,7.0,7.0,6.0,Finished,,,,0 days 00:00:52.988000,2023,5,Miami Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,5.0,8.0,4.0,Finished,,,,0 days 00:00:55.670000,2023,5,Miami Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,8.0,9.0,2.0,Finished,,,,0 days 00:00:58.123000,2023,5,Miami Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,4.0,10.0,1.0,Finished,,,,0 days 00:01:02.945000,2023,5,Miami Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,17.0,11.0,0.0,Finished,,,,0 days 00:01:04.309000,2023,5,Miami Grand Prix
+18,,Lance Stroll,STR,Aston Martin,18.0,12.0,0.0,Finished,,,,0 days 00:01:04.754000,2023,5,Miami Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,10.0,13.0,0.0,Finished,,,,0 days 00:01:11.637000,2023,5,Miami Grand Prix
+23,,Alexander Albon,ALB,Williams,11.0,14.0,0.0,Finished,,,,0 days 00:01:12.861000,2023,5,Miami Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,12.0,15.0,0.0,Finished,,,,0 days 00:01:14.950000,2023,5,Miami Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,14.0,16.0,0.0,Finished,,,,0 days 00:01:18.440000,2023,5,Miami Grand Prix
+4,,Lando Norris,NOR,McLaren,16.0,17.0,0.0,Finished,,,,0 days 00:01:27.717000,2023,5,Miami Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,15.0,18.0,0.0,Finished,,,,0 days 00:01:28.949000,2023,5,Miami Grand Prix
+81,,Oscar Piastri,PIA,McLaren,19.0,19.0,0.0,Lapped,,,,0 days 00:00:20.510000,2023,5,Miami Grand Prix
+2,,Logan Sargeant,SAR,Williams,20.0,20.0,0.0,Lapped,,,,0 days 00:00:34.388000,2023,5,Miami Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 01:48:51.980000,2023,6,Monaco Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,2.0,2.0,18.0,Finished,,,,0 days 00:00:27.921000,2023,6,Monaco Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,3.0,3.0,15.0,Finished,,,,0 days 00:00:36.990000,2023,6,Monaco Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,5.0,4.0,13.0,Finished,,,,0 days 00:00:39.062000,2023,6,Monaco Grand Prix
+63,,George Russell,RUS,Mercedes,8.0,5.0,10.0,Finished,,,,0 days 00:00:56.284000,2023,6,Monaco Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,6.0,6.0,8.0,Finished,,,,0 days 00:01:01.890000,2023,6,Monaco Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,7.0,6.0,Finished,,,,0 days 00:01:02.362000,2023,6,Monaco Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,4.0,8.0,4.0,Finished,,,,0 days 00:01:03.391000,2023,6,Monaco Grand Prix
+4,,Lando Norris,NOR,McLaren,10.0,9.0,2.0,Lapped,,,,0 days 00:00:04.061000,2023,6,Monaco Grand Prix
+81,,Oscar Piastri,PIA,McLaren,11.0,10.0,1.0,Lapped,,,,0 days 00:00:13.959000,2023,6,Monaco Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,15.0,11.0,0.0,Lapped,,,,0 days 00:00:28.963000,2023,6,Monaco Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,12.0,12.0,0.0,Lapped,,,,0 days 00:00:57.317000,2023,6,Monaco Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,19.0,13.0,0.0,Lapped,,,,0 days 00:01:11.852000,2023,6,Monaco Grand Prix
+23,,Alexander Albon,ALB,Williams,13.0,14.0,0.0,Lapped,,,,0 days 00:01:19.210000,2023,6,Monaco Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,9.0,15.0,0.0,Lapped,,,,0 days 00:00:07.545000,2023,6,Monaco Grand Prix
+11,,Sergio Pérez,PER,Red Bull,20.0,16.0,0.0,Lapped,,,,0 days 00:00:49.024000,2023,6,Monaco Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,18.0,17.0,0.0,Lapped,,,,0 days 00:00:58.506000,2023,6,Monaco Grand Prix
+2,,Logan Sargeant,SAR,Williams,16.0,18.0,0.0,Lapped,,,,0 days 00:01:17.983000,2023,6,Monaco Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,17.0,19.0,0.0,Retired,,,,,2023,6,Monaco Grand Prix
+18,,Lance Stroll,STR,Aston Martin,14.0,20.0,0.0,Retired,,,,,2023,6,Monaco Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,26.0,Finished,,,,0 days 01:27:57.940000,2023,7,Spanish Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,4.0,2.0,18.0,Finished,,,,0 days 00:00:24.090000,2023,7,Spanish Grand Prix
+63,,George Russell,RUS,Mercedes,12.0,3.0,15.0,Finished,,,,0 days 00:00:32.389000,2023,7,Spanish Grand Prix
+11,,Sergio Pérez,PER,Red Bull,11.0,4.0,12.0,Finished,,,,0 days 00:00:35.812000,2023,7,Spanish Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,2.0,5.0,10.0,Finished,,,,0 days 00:00:45.698000,2023,7,Spanish Grand Prix
+18,,Lance Stroll,STR,Aston Martin,5.0,6.0,8.0,Finished,,,,0 days 00:01:03.320000,2023,7,Spanish Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,8.0,7.0,6.0,Finished,,,,0 days 00:01:04.127000,2023,7,Spanish Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,6.0,8.0,4.0,Finished,,,,0 days 00:01:09.242000,2023,7,Spanish Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,13.0,9.0,2.0,Finished,,,,0 days 00:01:11.878000,2023,7,Spanish Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,10.0,1.0,Finished,,,,0 days 00:01:13.530000,2023,7,Spanish Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,19.0,11.0,0.0,Finished,,,,0 days 00:01:14.419000,2023,7,Spanish Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,15.0,12.0,0.0,Finished,,,,0 days 00:01:15.416000,2023,7,Spanish Grand Prix
+81,,Oscar Piastri,PIA,McLaren,9.0,13.0,0.0,Lapped,,,,0 days 00:00:04.275000,2023,7,Spanish Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,14.0,14.0,0.0,Lapped,,,,0 days 00:00:05.327000,2023,7,Spanish Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,7.0,15.0,0.0,Lapped,,,,0 days 00:00:17.297000,2023,7,Spanish Grand Prix
+23,,Alexander Albon,ALB,Williams,18.0,16.0,0.0,Lapped,,,,0 days 00:00:27.708000,2023,7,Spanish Grand Prix
+4,,Lando Norris,NOR,McLaren,3.0,17.0,0.0,Lapped,,,,0 days 00:00:30.390000,2023,7,Spanish Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,17.0,18.0,0.0,Lapped,,,,0 days 00:00:38.080000,2023,7,Spanish Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,16.0,19.0,0.0,Lapped,,,,0 days 00:00:49.943000,2023,7,Spanish Grand Prix
+2,,Logan Sargeant,SAR,Williams,20.0,20.0,0.0,Lapped,,,,0 days 00:00:51.677000,2023,7,Spanish Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 01:33:58.348000,2023,8,Canadian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,2.0,2.0,18.0,Finished,,,,0 days 00:00:09.570000,2023,8,Canadian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,3.0,3.0,15.0,Finished,,,,0 days 00:00:14.168000,2023,8,Canadian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,10.0,4.0,12.0,Finished,,,,0 days 00:00:18.648000,2023,8,Canadian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,11.0,5.0,10.0,Finished,,,,0 days 00:00:21.540000,2023,8,Canadian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,12.0,6.0,9.0,Finished,,,,0 days 00:00:51.028000,2023,8,Canadian Grand Prix
+23,,Alexander Albon,ALB,Williams,9.0,7.0,6.0,Finished,,,,0 days 00:01:00.813000,2023,8,Canadian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,6.0,8.0,4.0,Finished,,,,0 days 00:01:01.692000,2023,8,Canadian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,16.0,9.0,2.0,Finished,,,,0 days 00:01:04.402000,2023,8,Canadian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,14.0,10.0,1.0,Finished,,,,0 days 00:01:04.432000,2023,8,Canadian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,8.0,11.0,0.0,Finished,,,,0 days 00:01:05.101000,2023,8,Canadian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,15.0,12.0,0.0,Finished,,,,0 days 00:01:05.249000,2023,8,Canadian Grand Prix
+4,,Lando Norris,NOR,McLaren,7.0,13.0,0.0,Finished,,,,0 days 00:01:08.363000,2023,8,Canadian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,19.0,14.0,0.0,Finished,,,,0 days 00:01:13.423000,2023,8,Canadian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,5.0,15.0,0.0,Lapped,,,,0 days 00:00:16.943000,2023,8,Canadian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,20.0,16.0,0.0,Lapped,,,,0 days 00:00:17.377000,2023,8,Canadian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,13.0,17.0,0.0,Lapped,,,,0 days 00:01:10.259000,2023,8,Canadian Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,17.0,18.0,0.0,Lapped,,,,0 days 00:01:14.967000,2023,8,Canadian Grand Prix
+63,,George Russell,RUS,Mercedes,4.0,19.0,0.0,Retired,,,,,2023,8,Canadian Grand Prix
+2,,Logan Sargeant,SAR,Williams,18.0,20.0,0.0,Retired,,,,,2023,8,Canadian Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,26.0,Finished,,,,0 days 01:25:33.607000,2023,9,Austrian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,0 days 00:00:05.155000,2023,9,Austrian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,15.0,3.0,15.0,Finished,,,,0 days 00:00:17.188000,2023,9,Austrian Grand Prix
+4,,Lando Norris,NOR,McLaren,4.0,4.0,12.0,Finished,,,,0 days 00:00:26.327000,2023,9,Austrian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,7.0,5.0,10.0,Finished,,,,0 days 00:00:30.317000,2023,9,Austrian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,3.0,6.0,8.0,Finished,,,,0 days 00:00:31.377000,2023,9,Austrian Grand Prix
+63,,George Russell,RUS,Mercedes,11.0,7.0,6.0,Finished,,,,0 days 00:00:48.403000,2023,9,Austrian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,5.0,8.0,4.0,Finished,,,,0 days 00:00:49.196000,2023,9,Austrian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,6.0,9.0,2.0,Finished,,,,0 days 00:00:59.043000,2023,9,Austrian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,10.0,1.0,Finished,,,,0 days 00:01:07.667000,2023,9,Austrian Grand Prix
+23,,Alexander Albon,ALB,Williams,10.0,11.0,0.0,Finished,,,,0 days 00:01:19.767000,2023,9,Austrian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,17.0,12.0,0.0,Lapped,,,,0 days 00:00:24.633000,2023,9,Austrian Grand Prix
+2,,Logan Sargeant,SAR,Williams,18.0,13.0,0.0,Lapped,,,,0 days 00:00:31.384000,2023,9,Austrian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,12.0,14.0,0.0,Lapped,,,,0 days 00:00:42.140000,2023,9,Austrian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,14.0,15.0,0.0,Lapped,,,,0 days 00:00:42.777000,2023,9,Austrian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,13.0,16.0,0.0,Lapped,,,,0 days 00:00:46.569000,2023,9,Austrian Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,20.0,17.0,0.0,Lapped,,,,0 days 00:00:49.703000,2023,9,Austrian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,19.0,18.0,0.0,Lapped,,,,0 days 00:00:56.653000,2023,9,Austrian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,16.0,19.0,0.0,Lapped,,,,0 days 00:00:59.873000,2023,9,Austrian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,8.0,20.0,0.0,Retired,,,,,2023,9,Austrian Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,26.0,Finished,,,,0 days 01:25:16.938000,2023,10,British Grand Prix
+4,,Lando Norris,NOR,McLaren,2.0,2.0,18.0,Finished,,,,0 days 00:00:03.798000,2023,10,British Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,7.0,3.0,15.0,Finished,,,,0 days 00:00:06.783000,2023,10,British Grand Prix
+81,,Oscar Piastri,PIA,McLaren,3.0,4.0,12.0,Finished,,,,0 days 00:00:07.776000,2023,10,British Grand Prix
+63,,George Russell,RUS,Mercedes,6.0,5.0,10.0,Finished,,,,0 days 00:00:11.206000,2023,10,British Grand Prix
+11,,Sergio Pérez,PER,Red Bull,15.0,6.0,8.0,Finished,,,,0 days 00:00:12.882000,2023,10,British Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,9.0,7.0,6.0,Finished,,,,0 days 00:00:17.193000,2023,10,British Grand Prix
+23,,Alexander Albon,ALB,Williams,8.0,8.0,4.0,Finished,,,,0 days 00:00:17.878000,2023,10,British Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,4.0,9.0,2.0,Finished,,,,0 days 00:00:18.689000,2023,10,British Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,5.0,10.0,1.0,Finished,,,,0 days 00:00:19.448000,2023,10,British Grand Prix
+2,,Logan Sargeant,SAR,Williams,14.0,11.0,0.0,Finished,,,,0 days 00:00:23.632000,2023,10,British Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,20.0,12.0,0.0,Finished,,,,0 days 00:00:25.830000,2023,10,British Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,11.0,13.0,0.0,Finished,,,,0 days 00:00:26.663000,2023,10,British Grand Prix
+18,,Lance Stroll,STR,Aston Martin,12.0,14.0,0.0,Finished,,,,0 days 00:00:27.483000,2023,10,British Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,17.0,15.0,0.0,Finished,,,,0 days 00:00:29.820000,2023,10,British Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,16.0,16.0,0.0,Finished,,,,0 days 00:00:31.225000,2023,10,British Grand Prix
+21,,Nyck de Vries,DEV,AlphaTauri,18.0,17.0,0.0,Finished,,,,0 days 00:00:33.128000,2023,10,British Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,18.0,0.0,Retired,,,,,2023,10,British Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,19.0,19.0,0.0,Retired,,,,,2023,10,British Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,13.0,20.0,0.0,Retired,,,,,2023,10,British Grand Prix
+1,,Max Verstappen,VER,Red Bull,2.0,1.0,26.0,Finished,,,,0 days 01:38:08.634000,2023,11,Hungarian Grand Prix
+4,,Lando Norris,NOR,McLaren,3.0,2.0,18.0,Finished,,,,0 days 00:00:33.731000,2023,11,Hungarian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,9.0,3.0,15.0,Finished,,,,0 days 00:00:37.603000,2023,11,Hungarian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,1.0,4.0,12.0,Finished,,,,0 days 00:00:39.134000,2023,11,Hungarian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,4.0,5.0,10.0,Finished,,,,0 days 00:01:02.572000,2023,11,Hungarian Grand Prix
+63,,George Russell,RUS,Mercedes,18.0,6.0,8.0,Finished,,,,0 days 00:01:05.825000,2023,11,Hungarian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,6.0,7.0,6.0,Finished,,,,0 days 00:01:10.317000,2023,11,Hungarian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,11.0,8.0,4.0,Finished,,,,0 days 00:01:11.073000,2023,11,Hungarian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,8.0,9.0,2.0,Finished,,,,0 days 00:01:15.709000,2023,11,Hungarian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,14.0,10.0,1.0,Lapped,,,,0 days 00:00:14.615000,2023,11,Hungarian Grand Prix
+23,,Alexander Albon,ALB,Williams,16.0,11.0,0.0,Lapped,,,,0 days 00:00:29.087000,2023,11,Hungarian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,7.0,12.0,0.0,Lapped,,,,0 days 00:00:30.079000,2023,11,Hungarian Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,13.0,13.0,0.0,Lapped,,,,0 days 00:00:36.257000,2023,11,Hungarian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,10.0,14.0,0.0,Lapped,,,,0 days 00:00:51.298000,2023,11,Hungarian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,17.0,15.0,0.0,Lapped,,,,0 days 00:00:51.543000,2023,11,Hungarian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,5.0,16.0,0.0,Lapped,,,,0 days 00:01:00.491000,2023,11,Hungarian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,19.0,17.0,0.0,Lapped,,,,0 days 00:01:22.351000,2023,11,Hungarian Grand Prix
+2,,Logan Sargeant,SAR,Williams,20.0,18.0,0.0,Retired,,,,,2023,11,Hungarian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,12.0,19.0,0.0,Retired,,,,,2023,11,Hungarian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,15.0,20.0,0.0,Retired,,,,,2023,11,Hungarian Grand Prix
+1,,Max Verstappen,VER,Red Bull,6.0,1.0,25.0,Finished,,,,0 days 01:22:30.450000,2023,12,Belgian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,2.0,2.0,18.0,Finished,,,,0 days 00:00:22.305000,2023,12,Belgian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,1.0,3.0,15.0,Finished,,,,0 days 00:00:32.259000,2023,12,Belgian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,3.0,4.0,13.0,Finished,,,,0 days 00:00:49.671000,2023,12,Belgian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,9.0,5.0,10.0,Finished,,,,0 days 00:00:56.184000,2023,12,Belgian Grand Prix
+63,,George Russell,RUS,Mercedes,8.0,6.0,8.0,Finished,,,,0 days 00:01:03.101000,2023,12,Belgian Grand Prix
+4,,Lando Norris,NOR,McLaren,7.0,7.0,6.0,Finished,,,,0 days 00:01:13.719000,2023,12,Belgian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,14.0,8.0,4.0,Finished,,,,0 days 00:01:14.719000,2023,12,Belgian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,10.0,9.0,2.0,Finished,,,,0 days 00:01:19.340000,2023,12,Belgian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,11.0,10.0,1.0,Finished,,,,0 days 00:01:20.221000,2023,12,Belgian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,12.0,11.0,0.0,Finished,,,,0 days 00:01:23.084000,2023,12,Belgian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,13.0,12.0,0.0,Finished,,,,0 days 00:01:25.191000,2023,12,Belgian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,17.0,13.0,0.0,Finished,,,,0 days 00:01:35.441000,2023,12,Belgian Grand Prix
+23,,Alexander Albon,ALB,Williams,15.0,14.0,0.0,Finished,,,,0 days 00:01:36.184000,2023,12,Belgian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,16.0,15.0,0.0,Finished,,,,0 days 00:01:41.754000,2023,12,Belgian Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,19.0,16.0,0.0,Finished,,,,0 days 00:01:43.071000,2023,12,Belgian Grand Prix
+2,,Logan Sargeant,SAR,Williams,18.0,17.0,0.0,Finished,,,,0 days 00:01:44.476000,2023,12,Belgian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,20.0,18.0,0.0,Finished,,,,0 days 00:01:50.450000,2023,12,Belgian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,4.0,19.0,0.0,Retired,,,,,2023,12,Belgian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,5.0,20.0,0.0,Retired,,,,,2023,12,Belgian Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 02:24:04.411000,2023,13,Dutch Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,5.0,2.0,19.0,Finished,,,,0 days 00:00:03.744000,2023,13,Dutch Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,12.0,3.0,15.0,Finished,,,,0 days 00:00:07.058000,2023,13,Dutch Grand Prix
+11,,Sergio Pérez,PER,Red Bull,7.0,4.0,12.0,Finished,,,,0 days 00:00:10.068000,2023,13,Dutch Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,6.0,5.0,10.0,Finished,,,,0 days 00:00:12.541000,2023,13,Dutch Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,13.0,6.0,8.0,Finished,,,,0 days 00:00:13.209000,2023,13,Dutch Grand Prix
+4,,Lando Norris,NOR,McLaren,2.0,7.0,6.0,Finished,,,,0 days 00:00:13.232000,2023,13,Dutch Grand Prix
+23,,Alexander Albon,ALB,Williams,4.0,8.0,4.0,Finished,,,,0 days 00:00:15.155000,2023,13,Dutch Grand Prix
+81,,Oscar Piastri,PIA,McLaren,8.0,9.0,2.0,Finished,,,,0 days 00:00:16.580000,2023,13,Dutch Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,16.0,10.0,1.0,Finished,,,,0 days 00:00:18.346000,2023,13,Dutch Grand Prix
+18,,Lance Stroll,STR,Aston Martin,11.0,11.0,0.0,Finished,,,,0 days 00:00:20.087000,2023,13,Dutch Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,14.0,12.0,0.0,Finished,,,,0 days 00:00:20.840000,2023,13,Dutch Grand Prix
+40,,Liam Lawson,LAW,AlphaTauri,19.0,13.0,0.0,Finished,,,,0 days 00:00:26.147000,2023,13,Dutch Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,18.0,14.0,0.0,Finished,,,,0 days 00:00:27.388000,2023,13,Dutch Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,17.0,15.0,0.0,Finished,,,,0 days 00:00:29.893000,2023,13,Dutch Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,0.0,16.0,0.0,Finished,,,,0 days 00:00:31.410000,2023,13,Dutch Grand Prix
+63,,George Russell,RUS,Mercedes,3.0,17.0,0.0,Finished,,,,0 days 00:00:55.754000,2023,13,Dutch Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,15.0,18.0,0.0,Accident,,,,,2023,13,Dutch Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,9.0,19.0,0.0,Undertray,,,,,2023,13,Dutch Grand Prix
+2,,Logan Sargeant,SAR,Williams,10.0,20.0,0.0,Accident,,,,,2023,13,Dutch Grand Prix
+1,,Max Verstappen,VER,Red Bull,2.0,1.0,25.0,Finished,,,,0 days 01:13:41.143000,2023,14,Italian Grand Prix
+11,,Sergio Pérez,PER,Red Bull,5.0,2.0,18.0,Finished,,,,0 days 00:00:06.064000,2023,14,Italian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,1.0,3.0,15.0,Finished,,,,0 days 00:00:11.193000,2023,14,Italian Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,0 days 00:00:11.377000,2023,14,Italian Grand Prix
+63,,George Russell,RUS,Mercedes,4.0,5.0,10.0,Finished,,,,0 days 00:00:23.028000,2023,14,Italian Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,8.0,6.0,8.0,Finished,,,,0 days 00:00:42.679000,2023,14,Italian Grand Prix
+23,,Alexander Albon,ALB,Williams,6.0,7.0,6.0,Finished,,,,0 days 00:00:45.106000,2023,14,Italian Grand Prix
+4,,Lando Norris,NOR,McLaren,9.0,8.0,4.0,Finished,,,,0 days 00:00:45.449000,2023,14,Italian Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,10.0,9.0,2.0,Finished,,,,0 days 00:00:46.294000,2023,14,Italian Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,14.0,10.0,1.0,Finished,,,,0 days 00:01:04.056000,2023,14,Italian Grand Prix
+40,,Liam Lawson,LAW,AlphaTauri,12.0,11.0,0.0,Finished,,,,0 days 00:01:10.638000,2023,14,Italian Grand Prix
+81,,Oscar Piastri,PIA,McLaren,7.0,12.0,0.0,Finished,,,,0 days 00:01:13.074000,2023,14,Italian Grand Prix
+2,,Logan Sargeant,SAR,Williams,15.0,13.0,0.0,Finished,,,,0 days 00:01:18.557000,2023,14,Italian Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,16.0,14.0,0.0,Finished,,,,0 days 00:01:20.164000,2023,14,Italian Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,17.0,15.0,0.0,Finished,,,,0 days 00:01:22.510000,2023,14,Italian Grand Prix
+18,,Lance Stroll,STR,Aston Martin,20.0,16.0,0.0,Finished,,,,0 days 00:01:27.266000,2023,14,Italian Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,13.0,17.0,0.0,Lapped,,,,0 days 00:00:02.093000,2023,14,Italian Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,19.0,18.0,0.0,Lapped,,,,0 days 00:00:12.624000,2023,14,Italian Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,18.0,19.0,0.0,Retired,,,,,2023,14,Italian Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,11.0,20.0,0.0,Did not start,,,,,2023,14,Italian Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,1.0,1.0,25.0,Finished,,,,0 days 01:46:37.418000,2023,15,Singapore Grand Prix
+4,,Lando Norris,NOR,McLaren,4.0,2.0,18.0,Finished,,,,0 days 00:00:00.812000,2023,15,Singapore Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,5.0,3.0,16.0,Finished,,,,0 days 00:00:01.269000,2023,15,Singapore Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,0 days 00:00:21.177000,2023,15,Singapore Grand Prix
+1,,Max Verstappen,VER,Red Bull,11.0,5.0,10.0,Finished,,,,0 days 00:00:21.441000,2023,15,Singapore Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,12.0,6.0,8.0,Finished,,,,0 days 00:00:38.441000,2023,15,Singapore Grand Prix
+81,,Oscar Piastri,PIA,McLaren,17.0,7.0,6.0,Finished,,,,0 days 00:00:41.479000,2023,15,Singapore Grand Prix
+11,,Sergio Pérez,PER,Red Bull,13.0,8.0,4.0,Finished,,,,0 days 00:00:59.534000,2023,15,Singapore Grand Prix
+40,,Liam Lawson,LAW,AlphaTauri,10.0,9.0,2.0,Finished,,,,0 days 00:01:05.918000,2023,15,Singapore Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,6.0,10.0,1.0,Finished,,,,0 days 00:01:12.116000,2023,15,Singapore Grand Prix
+23,,Alexander Albon,ALB,Williams,14.0,11.0,0.0,Finished,,,,0 days 00:01:13.417000,2023,15,Singapore Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,19.0,12.0,0.0,Finished,,,,0 days 00:01:23.649000,2023,15,Singapore Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,9.0,13.0,0.0,Finished,,,,0 days 00:01:26.201000,2023,15,Singapore Grand Prix
+2,,Logan Sargeant,SAR,Williams,18.0,14.0,0.0,Finished,,,,0 days 00:01:26.889000,2023,15,Singapore Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,7.0,15.0,0.0,Finished,,,,0 days 00:01:27.603000,2023,15,Singapore Grand Prix
+63,,George Russell,RUS,Mercedes,2.0,16.0,0.0,Retired,,,,,2023,15,Singapore Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,16.0,17.0,0.0,Retired,,,,,2023,15,Singapore Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,8.0,18.0,0.0,Retired,,,,,2023,15,Singapore Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,15.0,19.0,0.0,Retired,,,,,2023,15,Singapore Grand Prix
+18,,Lance Stroll,STR,Aston Martin,0.0,20.0,0.0,Withdrew,,,,,2023,15,Singapore Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,26.0,Finished,,,,0 days 01:30:58.421000,2023,16,Japanese Grand Prix
+4,,Lando Norris,NOR,McLaren,3.0,2.0,18.0,Finished,,,,0 days 00:00:19.387000,2023,16,Japanese Grand Prix
+81,,Oscar Piastri,PIA,McLaren,2.0,3.0,15.0,Finished,,,,0 days 00:00:36.494000,2023,16,Japanese Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,0 days 00:00:43.998000,2023,16,Japanese Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,7.0,5.0,10.0,Finished,,,,0 days 00:00:49.376000,2023,16,Japanese Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,Finished,,,,0 days 00:00:50.221000,2023,16,Japanese Grand Prix
+63,,George Russell,RUS,Mercedes,8.0,7.0,6.0,Finished,,,,0 days 00:00:57.659000,2023,16,Japanese Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,10.0,8.0,4.0,Finished,,,,0 days 00:01:14.725000,2023,16,Japanese Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,14.0,9.0,2.0,Finished,,,,0 days 00:01:19.678000,2023,16,Japanese Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,12.0,10.0,1.0,Finished,,,,0 days 00:01:23.155000,2023,16,Japanese Grand Prix
+40,,Liam Lawson,LAW,AlphaTauri,11.0,11.0,0.0,Lapped,,,,0 days 00:00:03.089000,2023,16,Japanese Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,9.0,12.0,0.0,Lapped,,,,0 days 00:00:03.974000,2023,16,Japanese Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,19.0,13.0,0.0,Lapped,,,,0 days 00:00:06.340000,2023,16,Japanese Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,18.0,14.0,0.0,Lapped,,,,0 days 00:00:09.598000,2023,16,Japanese Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,15.0,15.0,0.0,Lapped,,,,0 days 00:00:29.570000,2023,16,Japanese Grand Prix
+23,,Alexander Albon,ALB,Williams,13.0,16.0,0.0,Retired,,,,,2023,16,Japanese Grand Prix
+2,,Logan Sargeant,SAR,Williams,20.0,17.0,0.0,Retired,,,,,2023,16,Japanese Grand Prix
+18,,Lance Stroll,STR,Aston Martin,17.0,18.0,0.0,Retired,,,,,2023,16,Japanese Grand Prix
+11,,Sergio Pérez,PER,Red Bull,5.0,19.0,0.0,Retired,,,,,2023,16,Japanese Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,16.0,20.0,0.0,Retired,,,,,2023,16,Japanese Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,26.0,Finished,,,,0 days 01:27:39.168000,2023,17,Qatar Grand Prix
+81,,Oscar Piastri,PIA,McLaren,6.0,2.0,18.0,Finished,,,,0 days 00:00:04.833000,2023,17,Qatar Grand Prix
+4,,Lando Norris,NOR,McLaren,10.0,3.0,15.0,Finished,,,,0 days 00:00:05.969000,2023,17,Qatar Grand Prix
+63,,George Russell,RUS,Mercedes,2.0,4.0,12.0,Finished,,,,0 days 00:00:34.119000,2023,17,Qatar Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,5.0,5.0,10.0,Finished,,,,0 days 00:00:38.976000,2023,17,Qatar Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,4.0,6.0,8.0,Finished,,,,0 days 00:00:49.032000,2023,17,Qatar Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,8.0,7.0,6.0,Finished,,,,0 days 00:01:02.390000,2023,17,Qatar Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,9.0,8.0,4.0,Finished,,,,0 days 00:01:06.563000,2023,17,Qatar Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,19.0,9.0,2.0,Finished,,,,0 days 00:01:16.127000,2023,17,Qatar Grand Prix
+11,,Sergio Pérez,PER,Red Bull,20.0,10.0,1.0,Finished,,,,0 days 00:01:20.181000,2023,17,Qatar Grand Prix
+18,,Lance Stroll,STR,Aston Martin,16.0,11.0,0.0,Finished,,,,0 days 00:01:21.652000,2023,17,Qatar Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,12.0,0.0,Finished,,,,0 days 00:01:22.300000,2023,17,Qatar Grand Prix
+23,,Alexander Albon,ALB,Williams,13.0,13.0,0.0,Finished,,,,0 days 00:01:31.014000,2023,17,Qatar Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,18.0,14.0,0.0,Lapped,,,,0 days 00:00:01.246000,2023,17,Qatar Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,11.0,15.0,0.0,Lapped,,,,0 days 00:00:08.958000,2023,17,Qatar Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,14.0,16.0,0.0,Lapped,,,,0 days 00:00:15.085000,2023,17,Qatar Grand Prix
+40,,Liam Lawson,LAW,AlphaTauri,17.0,17.0,0.0,Lapped,,,,0 days 00:00:27.108000,2023,17,Qatar Grand Prix
+2,,Logan Sargeant,SAR,Williams,15.0,18.0,0.0,Retired,,,,,2023,17,Qatar Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,3.0,19.0,0.0,Retired,,,,,2023,17,Qatar Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,12.0,20.0,0.0,Did not start,,,,,2023,17,Qatar Grand Prix
+1,,Max Verstappen,VER,Red Bull,6.0,1.0,25.0,Finished,,,,0 days 01:35:21.362000,2023,18,United States Grand Prix
+4,,Lando Norris,NOR,McLaren,2.0,2.0,18.0,Finished,,,,0 days 00:00:10.730000,2023,18,United States Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,4.0,3.0,15.0,Finished,,,,0 days 00:00:15.134000,2023,18,United States Grand Prix
+11,,Sergio Pérez,PER,Red Bull,9.0,4.0,12.0,Finished,,,,0 days 00:00:18.460000,2023,18,United States Grand Prix
+63,,George Russell,RUS,Mercedes,5.0,5.0,10.0,Finished,,,,0 days 00:00:24.999000,2023,18,United States Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,6.0,8.0,Finished,,,,0 days 00:00:47.996000,2023,18,United States Grand Prix
+18,,Lance Stroll,STR,Aston Martin,20.0,7.0,6.0,Finished,,,,0 days 00:00:48.696000,2023,18,United States Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,11.0,8.0,5.0,Finished,,,,0 days 00:01:14.385000,2023,18,United States Grand Prix
+23,,Alexander Albon,ALB,Williams,15.0,9.0,2.0,Finished,,,,0 days 00:01:26.714000,2023,18,United States Grand Prix
+2,,Logan Sargeant,SAR,Williams,16.0,10.0,1.0,Finished,,,,0 days 00:01:27.998000,2023,18,United States Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,18.0,11.0,0.0,Finished,,,,0 days 00:01:29.904000,2023,18,United States Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,13.0,12.0,0.0,Finished,,,,0 days 00:01:38.601000,2023,18,United States Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,12.0,13.0,0.0,Lapped,,,,0 days 00:00:03.576000,2023,18,United States Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,17.0,14.0,0.0,Lapped,,,,0 days 00:00:08.072000,2023,18,United States Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,14.0,15.0,0.0,Lapped,,,,0 days 00:00:08.852000,2023,18,United States Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,19.0,16.0,0.0,Retired,,,,,2023,18,United States Grand Prix
+81,,Oscar Piastri,PIA,McLaren,10.0,17.0,0.0,Retired,,,,,2023,18,United States Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,8.0,18.0,0.0,Retired,,,,,2023,18,United States Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,3.0,19.0,0.0,Disqualified,,,,0 days 00:00:02.225000,2023,18,United States Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,1.0,20.0,0.0,Disqualified,,,,0 days 00:00:24.662000,2023,18,United States Grand Prix
+1,,Max Verstappen,VER,Red Bull,3.0,1.0,25.0,Finished,,,,0 days 02:02:30.814000,2023,19,Mexico City Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,6.0,2.0,19.0,Finished,,,,0 days 00:00:13.875000,2023,19,Mexico City Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,1.0,3.0,15.0,Finished,,,,0 days 00:00:23.124000,2023,19,Mexico City Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,2.0,4.0,12.0,Finished,,,,0 days 00:00:27.154000,2023,19,Mexico City Grand Prix
+4,,Lando Norris,NOR,McLaren,17.0,5.0,10.0,Finished,,,,0 days 00:00:33.266000,2023,19,Mexico City Grand Prix
+63,,George Russell,RUS,Mercedes,8.0,6.0,8.0,Finished,,,,0 days 00:00:41.020000,2023,19,Mexico City Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,4.0,7.0,6.0,Finished,,,,0 days 00:00:41.570000,2023,19,Mexico City Grand Prix
+81,,Oscar Piastri,PIA,McLaren,7.0,8.0,4.0,Finished,,,,0 days 00:00:43.104000,2023,19,Mexico City Grand Prix
+23,,Alexander Albon,ALB,Williams,14.0,9.0,2.0,Finished,,,,0 days 00:00:48.573000,2023,19,Mexico City Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,15.0,10.0,1.0,Finished,,,,0 days 00:01:02.879000,2023,19,Mexico City Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,11.0,11.0,0.0,Finished,,,,0 days 00:01:06.208000,2023,19,Mexico City Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,18.0,12.0,0.0,Finished,,,,0 days 00:01:18.982000,2023,19,Mexico City Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,12.0,13.0,0.0,Finished,,,,0 days 00:01:20.309000,2023,19,Mexico City Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,10.0,14.0,0.0,Finished,,,,0 days 00:01:21.676000,2023,19,Mexico City Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,9.0,15.0,0.0,Finished,,,,0 days 00:01:25.597000,2023,19,Mexico City Grand Prix
+2,,Logan Sargeant,SAR,Williams,19.0,16.0,0.0,Retired,,,,,2023,19,Mexico City Grand Prix
+18,,Lance Stroll,STR,Aston Martin,0.0,17.0,0.0,Collision damage,,,,,2023,19,Mexico City Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,13.0,18.0,0.0,Withdrew,,,,,2023,19,Mexico City Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,16.0,19.0,0.0,Accident,,,,,2023,19,Mexico City Grand Prix
+11,,Sergio Pérez,PER,Red Bull,5.0,20.0,0.0,Collision damage,,,,,2023,19,Mexico City Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,0 days 01:56:48.894000,2023,20,São Paulo Grand Prix
+4,,Lando Norris,NOR,McLaren,6.0,2.0,19.0,Finished,,,,0 days 00:00:08.277000,2023,20,São Paulo Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,4.0,3.0,15.0,Finished,,,,0 days 00:00:34.155000,2023,20,São Paulo Grand Prix
+11,,Sergio Pérez,PER,Red Bull,9.0,4.0,12.0,Finished,,,,0 days 00:00:34.208000,2023,20,São Paulo Grand Prix
+18,,Lance Stroll,STR,Aston Martin,3.0,5.0,10.0,Finished,,,,0 days 00:00:40.845000,2023,20,São Paulo Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,7.0,6.0,8.0,Finished,,,,0 days 00:00:50.188000,2023,20,São Paulo Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,15.0,7.0,6.0,Finished,,,,0 days 00:00:56.093000,2023,20,São Paulo Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,5.0,8.0,4.0,Finished,,,,0 days 00:01:02.859000,2023,20,São Paulo Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,16.0,9.0,2.0,Finished,,,,0 days 00:01:09.880000,2023,20,São Paulo Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,14.0,10.0,1.0,Lapped,,,,0 days 00:00:09.841000,2023,20,São Paulo Grand Prix
+2,,Logan Sargeant,SAR,Williams,19.0,11.0,0.0,Lapped,,,,0 days 00:00:26.208000,2023,20,São Paulo Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,11.0,12.0,0.0,Lapped,,,,0 days 00:00:29.960000,2023,20,São Paulo Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,17.0,13.0,0.0,Lapped,,,,0 days 00:01:09.961000,2023,20,São Paulo Grand Prix
+81,,Oscar Piastri,PIA,McLaren,10.0,14.0,0.0,Lapped,,,,0 days 00:00:03.636000,2023,20,São Paulo Grand Prix
+63,,George Russell,RUS,Mercedes,8.0,15.0,0.0,Retired,,,,,2023,20,São Paulo Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,18.0,16.0,0.0,Retired,,,,,2023,20,São Paulo Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,20.0,17.0,0.0,Retired,,,,,2023,20,São Paulo Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,12.0,18.0,0.0,Retired,,,,,2023,20,São Paulo Grand Prix
+23,,Alexander Albon,ALB,Williams,13.0,19.0,0.0,Retired,,,,,2023,20,São Paulo Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,2.0,20.0,0.0,Did not start,,,,,2023,20,São Paulo Grand Prix
+1,,Max Verstappen,VER,Red Bull,2.0,1.0,25.0,Finished,,,,0 days 01:29:08.289000,2023,21,Las Vegas Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,1.0,2.0,18.0,Finished,,,,0 days 00:00:02.070000,2023,21,Las Vegas Grand Prix
+11,,Sergio Pérez,PER,Red Bull,11.0,3.0,15.0,Finished,,,,0 days 00:00:02.241000,2023,21,Las Vegas Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,16.0,4.0,12.0,Finished,,,,0 days 00:00:18.665000,2023,21,Las Vegas Grand Prix
+18,,Lance Stroll,STR,Aston Martin,19.0,5.0,10.0,Finished,,,,0 days 00:00:20.067000,2023,21,Las Vegas Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,12.0,6.0,8.0,Finished,,,,0 days 00:00:20.834000,2023,21,Las Vegas Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,10.0,7.0,6.0,Finished,,,,0 days 00:00:21.755000,2023,21,Las Vegas Grand Prix
+63,,George Russell,RUS,Mercedes,3.0,8.0,4.0,Finished,,,,0 days 00:00:23.091000,2023,21,Las Vegas Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,9.0,9.0,2.0,Finished,,,,0 days 00:00:25.964000,2023,21,Las Vegas Grand Prix
+81,,Oscar Piastri,PIA,McLaren,18.0,10.0,2.0,Finished,,,,0 days 00:00:29.496000,2023,21,Las Vegas Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,4.0,11.0,0.0,Finished,,,,0 days 00:00:34.270000,2023,21,Las Vegas Grand Prix
+23,,Alexander Albon,ALB,Williams,5.0,12.0,0.0,Finished,,,,0 days 00:00:43.398000,2023,21,Las Vegas Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,8.0,13.0,0.0,Finished,,,,0 days 00:00:44.825000,2023,21,Las Vegas Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,14.0,14.0,0.0,Finished,,,,0 days 00:00:48.525000,2023,21,Las Vegas Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,17.0,15.0,0.0,Finished,,,,0 days 00:00:50.162000,2023,21,Las Vegas Grand Prix
+2,,Logan Sargeant,SAR,Williams,6.0,16.0,0.0,Finished,,,,0 days 00:00:50.882000,2023,21,Las Vegas Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,7.0,17.0,0.0,Finished,,,,0 days 00:01:25.350000,2023,21,Las Vegas Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,20.0,18.0,0.0,Retired,,,,,2023,21,Las Vegas Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,13.0,19.0,0.0,Retired,,,,,2023,21,Las Vegas Grand Prix
+4,,Lando Norris,NOR,McLaren,15.0,20.0,0.0,Retired,,,,,2023,21,Las Vegas Grand Prix
+1,,Max Verstappen,VER,Red Bull,1.0,1.0,26.0,Finished,,,,0 days 01:27:02.624000,2023,22,Abu Dhabi Grand Prix
+16,,Charles Leclerc,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,0 days 00:00:17.993000,2023,22,Abu Dhabi Grand Prix
+63,,George Russell,RUS,Mercedes,4.0,3.0,15.0,Finished,,,,0 days 00:00:20.328000,2023,22,Abu Dhabi Grand Prix
+11,,Sergio Pérez,PER,Red Bull,9.0,4.0,12.0,Finished,,,,0 days 00:00:21.453000,2023,22,Abu Dhabi Grand Prix
+4,,Lando Norris,NOR,McLaren,5.0,5.0,10.0,Finished,,,,0 days 00:00:24.284000,2023,22,Abu Dhabi Grand Prix
+81,,Oscar Piastri,PIA,McLaren,3.0,6.0,8.0,Finished,,,,0 days 00:00:31.487000,2023,22,Abu Dhabi Grand Prix
+14,,Fernando Alonso,ALO,Aston Martin,7.0,7.0,6.0,Finished,,,,0 days 00:00:39.512000,2023,22,Abu Dhabi Grand Prix
+22,,Yuki Tsunoda,TSU,AlphaTauri,6.0,8.0,4.0,Finished,,,,0 days 00:00:43.088000,2023,22,Abu Dhabi Grand Prix
+44,,Lewis Hamilton,HAM,Mercedes,11.0,9.0,2.0,Finished,,,,0 days 00:00:44.424000,2023,22,Abu Dhabi Grand Prix
+18,,Lance Stroll,STR,Aston Martin,13.0,10.0,1.0,Finished,,,,0 days 00:00:55.632000,2023,22,Abu Dhabi Grand Prix
+3,,Daniel Ricciardo,RIC,AlphaTauri,15.0,11.0,0.0,Finished,,,,0 days 00:00:56.229000,2023,22,Abu Dhabi Grand Prix
+31,,Esteban Ocon,OCO,Alpine F1 Team,12.0,12.0,0.0,Finished,,,,0 days 00:01:06.373000,2023,22,Abu Dhabi Grand Prix
+10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,13.0,0.0,Finished,,,,0 days 00:01:10.360000,2023,22,Abu Dhabi Grand Prix
+23,,Alexander Albon,ALB,Williams,14.0,14.0,0.0,Finished,,,,0 days 00:01:13.184000,2023,22,Abu Dhabi Grand Prix
+27,,Nico Hülkenberg,HUL,Haas F1 Team,8.0,15.0,0.0,Finished,,,,0 days 00:01:23.696000,2023,22,Abu Dhabi Grand Prix
+2,,Logan Sargeant,SAR,Williams,20.0,16.0,0.0,Finished,,,,0 days 00:01:27.791000,2023,22,Abu Dhabi Grand Prix
+24,,Guanyu Zhou,ZHO,Alfa Romeo,19.0,17.0,0.0,Finished,,,,0 days 00:01:29.422000,2023,22,Abu Dhabi Grand Prix
+55,,Carlos Sainz,SAI,Ferrari,16.0,18.0,0.0,Retired,,,,,2023,22,Abu Dhabi Grand Prix
+77,,Valtteri Bottas,BOT,Alfa Romeo,18.0,19.0,0.0,Lapped,,,,0 days 00:00:12.411000,2023,22,Abu Dhabi Grand Prix
+20,,Kevin Magnussen,MAG,Haas F1 Team,17.0,20.0,0.0,Lapped,,,,0 days 00:00:14.876000,2023,22,Abu Dhabi Grand Prix
