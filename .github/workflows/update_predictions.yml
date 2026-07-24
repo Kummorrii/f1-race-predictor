@@ -1,0 +1,52 @@
+name: Update F1 Predictions
+
+# Two ways this can start:
+# 1. Automatically, on a schedule (see cron line below)
+# 2. Manually, any time, via the "Run workflow" button on GitHub's Actions tab
+on:
+  schedule:
+    # Runs every Monday at 06:00 UTC — after a typical Sunday race weekend.
+    # Cron format is: minute hour day month day-of-week
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+# Lets this workflow push updated files back to the repo. Without this,
+# it can run the pipeline but won't be able to save the results.
+permissions:
+  contents: write
+
+jobs:
+  update-predictions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect latest race data
+        run: python collect_f1_data.py
+
+      - name: Rebuild features
+        run: python build_features.py
+
+      - name: Retrain model
+        run: python train_model.py
+
+      - name: Run simulation
+        run: python simulate_race.py
+
+      - name: Commit and push updated files
+        run: |
+          git config user.name "F1 Predictor Bot"
+          git config user.email "actions@github.com"
+          git add f1_data/ f1_model.joblib simulation_results.csv raw_simulation_results.csv
+          git diff --staged --quiet || git commit -m "Auto-update: latest race data and predictions"
+          git push
