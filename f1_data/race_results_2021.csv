@@ -1,441 +1,441 @@
-DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Time,Season,Round,EventName
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,1.0,25.0,Finished,,,,0 days 01:32:03.897000,2021,1,Bahrain Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,2.0,18.0,Finished,,,,0 days 00:00:00.745000,2021,1,Bahrain Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,16.0,Finished,,,,0 days 00:00:37.383000,2021,1,Bahrain Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,7.0,4.0,12.0,Finished,,,,0 days 00:00:46.466000,2021,1,Bahrain Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,5.0,10.0,Finished,,,,0 days 00:00:52.047000,2021,1,Bahrain Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,6.0,8.0,Finished,,,,0 days 00:00:59.090000,2021,1,Bahrain Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,7.0,6.0,Finished,,,,0 days 00:01:06.004000,2021,1,Bahrain Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,8.0,8.0,4.0,Finished,,,,0 days 00:01:07.100000,2021,1,Bahrain Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,13.0,9.0,2.0,Finished,,,,0 days 00:01:25.692000,2021,1,Bahrain Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,10.0,10.0,1.0,Finished,,,,0 days 00:01:26.713000,2021,1,Bahrain Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,14.0,11.0,0.0,Finished,,,,0 days 00:01:28.864000,2021,1,Bahrain Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12.0,12.0,0.0,+1 Lap,,,,,2021,1,Bahrain Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,16.0,13.0,0.0,+1 Lap,,,,,2021,1,Bahrain Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,15.0,14.0,0.0,+1 Lap,,,,,2021,1,Bahrain Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,20.0,15.0,0.0,+1 Lap,,,,,2021,1,Bahrain Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,16.0,0.0,+1 Lap,,,,,2021,1,Bahrain Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,17.0,0.0,Retired,,,,,2021,1,Bahrain Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,17.0,18.0,0.0,Retired,,,,,2021,1,Bahrain Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,19.0,0.0,Brakes,,,,,2021,1,Bahrain Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,20.0,0.0,Accident,,,,,2021,1,Bahrain Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,0 days 02:02:34.598000,2021,2,Emilia Romagna Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,2.0,19.0,Finished,,,,0 days 00:00:22,2021,2,Emilia Romagna Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,7.0,3.0,15.0,Finished,,,,0 days 00:00:23.702000,2021,2,Emilia Romagna Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,0 days 00:00:25.579000,2021,2,Emilia Romagna Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,11.0,5.0,10.0,Finished,,,,0 days 00:00:27.036000,2021,2,Emilia Romagna Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,6.0,8.0,Finished,,,,0 days 00:00:51.220000,2021,2,Emilia Romagna Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,7.0,6.0,Finished,,,,0 days 00:00:52.818000,2021,2,Emilia Romagna Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,10.0,8.0,4.0,Finished,,,,0 days 00:00:56.909000,2021,2,Emilia Romagna Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,,,,0 days 00:01:05.704000,2021,2,Emilia Romagna Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,15.0,10.0,1.0,Finished,,,,0 days 00:01:06.561000,2021,2,Emilia Romagna Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,2.0,11.0,0.0,Finished,,,,0 days 00:01:07.151000,2021,2,Emilia Romagna Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,20.0,12.0,0.0,Finished,,,,0 days 00:01:13.184000,2021,2,Emilia Romagna Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,16.0,13.0,0.0,Finished,,,,0 days 00:01:34.773000,2021,2,Emilia Romagna Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,17.0,14.0,0.0,+1 Lap,,,,,2021,2,Emilia Romagna Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,0.0,15.0,0.0,Gearbox,,,,,2021,2,Emilia Romagna Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,16.0,0.0,+2 Laps,,,,,2021,2,Emilia Romagna Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+2 Laps,,,,,2021,2,Emilia Romagna Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,8.0,18.0,0.0,Collision,,,,,2021,2,Emilia Romagna Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,12.0,19.0,0.0,Collision,,,,,2021,2,Emilia Romagna Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,14.0,20.0,0.0,Collision,,,,,2021,2,Emilia Romagna Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,1.0,25.0,Finished,,,,0 days 01:34:31.421000,2021,3,Portuguese Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,0 days 00:00:29.148000,2021,3,Portuguese Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,3.0,16.0,Finished,,,,0 days 00:00:33.530000,2021,3,Portuguese Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,0 days 00:00:39.735000,2021,3,Portuguese Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,7.0,5.0,10.0,Finished,,,,0 days 00:00:51.369000,2021,3,Portuguese Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,8.0,6.0,8.0,Finished,,,,0 days 00:00:55.781000,2021,3,Portuguese Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,6.0,7.0,6.0,Finished,,,,0 days 00:01:03.749000,2021,3,Portuguese Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,13.0,8.0,4.0,Finished,,,,0 days 00:00:01.808000,2021,3,Portuguese Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,16.0,9.0,2.0,Finished,,,,0 days 00:01:15.369000,2021,3,Portuguese Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,9.0,10.0,1.0,Finished,,,,0 days 00:01:16.463000,2021,3,Portuguese Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,11.0,0.0,Finished,,,,0 days 00:01:18.955000,2021,3,Portuguese Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12.0,12.0,0.0,+1 Lap,,,,,2021,3,Portuguese Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,13.0,0.0,+1 Lap,,,,,2021,3,Portuguese Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,17.0,14.0,0.0,+1 Lap,,,,,2021,3,Portuguese Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,14.0,15.0,0.0,+1 Lap,,,,,2021,3,Portuguese Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,11.0,16.0,0.0,+1 Lap,,,,,2021,3,Portuguese Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,17.0,0.0,+2 Laps,,,,,2021,3,Portuguese Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,18.0,0.0,+2 Laps,,,,,2021,3,Portuguese Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,19.0,0.0,+2 Laps,,,,,2021,3,Portuguese Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,15.0,20.0,0.0,Collision damage,,,,,2021,3,Portuguese Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,1.0,25.0,Finished,,,,0 days 01:33:07.680000,2021,4,Spanish Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,2.0,19.0,Finished,,,,0 days 00:00:15.841000,2021,4,Spanish Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,15.0,Finished,,,,0 days 00:00:26.610000,2021,4,Spanish Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,0 days 00:00:54.616000,2021,4,Spanish Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,8.0,5.0,10.0,Finished,,,,0 days 00:01:03.671000,2021,4,Spanish Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,7.0,6.0,8.0,Finished,,,,0 days 00:01:13.768000,2021,4,Spanish Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,7.0,6.0,Finished,,,,0 days 00:01:14.670000,2021,4,Spanish Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,9.0,8.0,4.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,5.0,9.0,2.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,12.0,10.0,1.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,11.0,11.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,17.0,12.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,13.0,13.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,15.0,14.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14.0,15.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,19.0,16.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,10.0,17.0,0.0,+1 Lap,,,,,2021,4,Spanish Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,18.0,0.0,+2 Laps,,,,,2021,4,Spanish Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,19.0,0.0,+2 Laps,,,,,2021,4,Spanish Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,20.0,0.0,Electrical,,,,,2021,4,Spanish Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,0 days 01:38:56.820000,2021,5,Monaco Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,4.0,2.0,18.0,Finished,,,,0 days 00:00:08.968000,2021,5,Monaco Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,5.0,3.0,15.0,Finished,,,,0 days 00:00:19.427000,2021,5,Monaco Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,9.0,4.0,12.0,Finished,,,,0 days 00:00:20.490000,2021,5,Monaco Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,8.0,5.0,10.0,Finished,,,,0 days 00:00:52.591000,2021,5,Monaco Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,6.0,8.0,Finished,,,,0 days 00:00:53.896000,2021,5,Monaco Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,7.0,7.0,7.0,Finished,,,,0 days 00:01:08.231000,2021,5,Monaco Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,13.0,8.0,4.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,11.0,9.0,2.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,10.0,10.0,1.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,14.0,11.0,0.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,12.0,12.0,0.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,17.0,13.0,0.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,15.0,14.0,0.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,15.0,0.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,16.0,0.0,+1 Lap,,,,,2021,5,Monaco Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+3 Laps,,,,,2021,5,Monaco Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,20.0,18.0,0.0,+3 Laps,,,,,2021,5,Monaco Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,19.0,0.0,Wheel nut,,,,,2021,5,Monaco Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,1.0,20.0,0.0,Driveshaft,,,,,2021,5,Monaco Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,6.0,1.0,25.0,Finished,,,,0 days 02:13:36.410000,2021,6,Azerbaijan Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,11.0,2.0,18.0,Finished,,,,0 days 00:00:01.385000,2021,6,Azerbaijan Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,4.0,3.0,15.0,Finished,,,,0 days 00:00:02.762000,2021,6,Azerbaijan Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,1.0,4.0,12.0,Finished,,,,0 days 00:00:03.828000,2021,6,Azerbaijan Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,9.0,5.0,10.0,Finished,,,,0 days 00:00:04.754000,2021,6,Azerbaijan Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,8.0,6.0,8.0,Finished,,,,0 days 00:00:06.382000,2021,6,Azerbaijan Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,7.0,7.0,6.0,Finished,,,,0 days 00:00:06.624000,2021,6,Azerbaijan Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,8.0,4.0,Finished,,,,0 days 00:00:07.709000,2021,6,Azerbaijan Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,13.0,9.0,2.0,Finished,,,,0 days 00:00:08.874000,2021,6,Azerbaijan Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,14.0,10.0,1.0,Finished,,,,0 days 00:00:09.576000,2021,6,Azerbaijan Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,20.0,11.0,0.0,Finished,,,,0 days 00:00:10.254000,2021,6,Azerbaijan Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,10.0,12.0,0.0,Finished,,,,0 days 00:00:11.264000,2021,6,Azerbaijan Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,17.0,13.0,0.0,Finished,,,,0 days 00:00:14.241000,2021,6,Azerbaijan Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,14.0,0.0,Finished,,,,0 days 00:00:14.315000,2021,6,Azerbaijan Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,15.0,0.0,Finished,,,,0 days 00:00:17.668000,2021,6,Azerbaijan Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,16.0,0.0,Finished,,,,0 days 00:00:43.379000,2021,6,Azerbaijan Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,15.0,17.0,0.0,Gearbox,,,,,2021,6,Azerbaijan Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,18.0,0.0,Accident,,,,,2021,6,Azerbaijan Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,19.0,19.0,0.0,Accident,,,,,2021,6,Azerbaijan Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,12.0,20.0,0.0,Turbo,,,,,2021,6,Azerbaijan Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,0 days 01:27:25.770000,2021,7,French Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,0 days 00:00:02.904000,2021,7,French Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,3.0,15.0,Finished,,,,0 days 00:00:08.811000,2021,7,French Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,4.0,12.0,Finished,,,,0 days 00:00:14.618000,2021,7,French Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,8.0,5.0,10.0,Finished,,,,0 days 00:01:04.032000,2021,7,French Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,10.0,6.0,8.0,Finished,,,,0 days 00:01:15.857000,2021,7,French Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,7.0,6.0,Finished,,,,0 days 00:01:16.596000,2021,7,French Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,8.0,4.0,Finished,,,,0 days 00:01:17.695000,2021,7,French Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,12.0,9.0,2.0,Finished,,,,0 days 00:01:19.666000,2021,7,French Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,19.0,10.0,1.0,Finished,,,,0 days 00:01:31.946000,2021,7,French Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,11.0,0.0,Finished,,,,0 days 00:01:39.337000,2021,7,French Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,14.0,12.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,0.0,13.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,11.0,14.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,13.0,15.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,16.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,17.0,17.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,18.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,15.0,19.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,20.0,0.0,+1 Lap,,,,,2021,7,French Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,0 days 01:22:18.925000,2021,8,Styrian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,19.0,Finished,,,,0 days 00:00:35.743000,2021,8,Styrian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,5.0,3.0,15.0,Finished,,,,0 days 00:00:46.907000,2021,8,Styrian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,0 days 00:00:47.434000,2021,8,Styrian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,3.0,5.0,10.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,12.0,6.0,8.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,7.0,6.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,9.0,8.0,4.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,8.0,9.0,2.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,11.0,10.0,1.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,18.0,11.0,0.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,14.0,12.0,0.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,13.0,13.0,0.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,17.0,14.0,0.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15.0,15.0,0.0,+1 Lap,,,,,2021,8,Styrian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,16.0,0.0,+2 Laps,,,,,2021,8,Styrian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,17.0,0.0,+3 Laps,,,,,2021,8,Styrian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,18.0,0.0,+3 Laps,,,,,2021,8,Styrian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,10.0,19.0,0.0,Engine,,,,,2021,8,Styrian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,20.0,0.0,Collision,,,,,2021,8,Styrian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,0 days 01:23:54.543000,2021,9,Austrian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,5.0,2.0,18.0,Finished,,,,0 days 00:00:17.973000,2021,9,Austrian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,2.0,3.0,15.0,Finished,,,,0 days 00:00:20.019000,2021,9,Austrian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,4.0,4.0,12.0,Finished,,,,0 days 00:00:46.452000,2021,9,Austrian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,10.0,5.0,10.0,Finished,,,,0 days 00:00:57.144000,2021,9,Austrian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,3.0,6.0,8.0,Finished,,,,0 days 00:00:57.915000,2021,9,Austrian Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,13.0,7.0,6.0,Finished,,,,0 days 00:01:00.395000,2021,9,Austrian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,12.0,8.0,4.0,Finished,,,,0 days 00:01:01.195000,2021,9,Austrian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,9.0,2.0,Finished,,,,0 days 00:01:01.844000,2021,9,Austrian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,14.0,10.0,1.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,8.0,11.0,0.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,7.0,12.0,0.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,9.0,13.0,0.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15.0,14.0,0.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,16.0,15.0,0.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,16.0,0.0,+1 Lap,,,,,2021,9,Austrian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,11.0,17.0,0.0,Collision,,,,,2021,9,Austrian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,18.0,0.0,+2 Laps,,,,,2021,9,Austrian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,19.0,0.0,+2 Laps,,,,,2021,9,Austrian Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,17.0,20.0,0.0,Collision,,,,,2021,9,Austrian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,1.0,25.0,Finished,,,,0 days 01:58:23.284000,2021,10,British Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,2.0,18.0,Finished,,,,0 days 00:00:03.871000,2021,10,British Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,15.0,Finished,,,,0 days 00:00:11.125000,2021,10,British Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,5.0,4.0,12.0,Finished,,,,0 days 00:00:28.573000,2021,10,British Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,5.0,10.0,Finished,,,,0 days 00:00:42.624000,2021,10,British Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,10.0,6.0,8.0,Finished,,,,0 days 00:00:43.454000,2021,10,British Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,7.0,7.0,6.0,Finished,,,,0 days 00:01:12.093000,2021,10,British Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,14.0,8.0,4.0,Finished,,,,0 days 00:01:14.289000,2021,10,British Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,,,,0 days 00:01:16.162000,2021,10,British Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,10.0,1.0,Finished,,,,0 days 00:01:22.065000,2021,10,British Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,11.0,11.0,0.0,Finished,,,,0 days 00:01:25.327000,2021,10,British Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,12.0,12.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15.0,13.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,17.0,14.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,13.0,15.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,16.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,18.0,0.0,+1 Lap,,,,,2021,10,British Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,8.0,19.0,0.0,Retired,,,,,2021,10,British Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,20.0,0.0,Collision,,,,,2021,10,British Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,8.0,1.0,25.0,Finished,,,,0 days 02:04:43.199000,2021,11,Hungarian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,2.0,18.0,Finished,,,,0 days 00:00:02.736000,2021,11,Hungarian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,15.0,3.0,15.0,Finished,,,,0 days 00:00:15.018000,2021,11,Hungarian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,4.0,12.0,Finished,,,,0 days 00:00:15.651000,2021,11,Hungarian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,5.0,11.0,Finished,,,,0 days 00:01:03.614000,2021,11,Hungarian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,6.0,8.0,Finished,,,,0 days 00:01:15.803000,2021,11,Hungarian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,7.0,6.0,Finished,,,,0 days 00:01:17.910000,2021,11,Hungarian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,17.0,8.0,4.0,Finished,,,,0 days 00:01:19.094000,2021,11,Hungarian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,9.0,2.0,Finished,,,,0 days 00:01:20.244000,2021,11,Hungarian Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,13.0,10.0,1.0,+1 Lap,,,,,2021,11,Hungarian Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,11.0,11.0,0.0,+1 Lap,,,,,2021,11,Hungarian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,20.0,12.0,0.0,+1 Lap,,,,,2021,11,Hungarian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,0.0,13.0,0.0,+1 Lap,,,,,2021,11,Hungarian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,14.0,0.0,Collision,,,,,2021,11,Hungarian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,6.0,15.0,0.0,Collision,,,,,2021,11,Hungarian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,2.0,16.0,0.0,Collision,,,,,2021,11,Hungarian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,17.0,0.0,Collision,,,,,2021,11,Hungarian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,18.0,0.0,Collision,,,,,2021,11,Hungarian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,12.0,19.0,0.0,Collision,,,,,2021,11,Hungarian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,20.0,0.0,Disqualified,,,,,2021,11,Hungarian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,12.5,Finished,,,,0 days 00:03:27.071000,2021,12,Belgian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,2.0,2.0,9.0,Finished,,,,0 days 00:00:01.995000,2021,12,Belgian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,3.0,3.0,7.5,Finished,,,,0 days 00:00:02.601000,2021,12,Belgian Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,4.0,4.0,6.0,Finished,,,,0 days 00:00:04.496000,2021,12,Belgian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,5.0,5.0,5.0,Finished,,,,0 days 00:00:07.479000,2021,12,Belgian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,6.0,4.0,Finished,,,,0 days 00:00:10.177000,2021,12,Belgian Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,8.0,7.0,3.0,Finished,,,,0 days 00:00:11.579000,2021,12,Belgian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,9.0,8.0,2.0,Finished,,,,0 days 00:00:12.608000,2021,12,Belgian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,10.0,9.0,1.0,Finished,,,,0 days 00:00:15.485000,2021,12,Belgian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,11.0,10.0,0.5,Finished,,,,0 days 00:00:16.166000,2021,12,Belgian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,12.0,11.0,0.0,Finished,,,,0 days 00:00:20.590000,2021,12,Belgian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,13.0,12.0,0.0,Finished,,,,0 days 00:00:22.414000,2021,12,Belgian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14.0,13.0,0.0,Finished,,,,0 days 00:00:24.163000,2021,12,Belgian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,15.0,14.0,0.0,Finished,,,,0 days 00:00:27.110000,2021,12,Belgian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,15.0,0.0,Finished,,,,0 days 00:00:28.329000,2021,12,Belgian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,17.0,16.0,0.0,Finished,,,,0 days 00:00:29.507000,2021,12,Belgian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,17.0,0.0,Finished,,,,0 days 00:00:31.993000,2021,12,Belgian Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,0.0,18.0,0.0,Finished,,,,0 days 00:00:36.054000,2021,12,Belgian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,19.0,0.0,Finished,,,,0 days 00:00:38.205000,2021,12,Belgian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,19.0,20.0,0.0,Finished,,,,0 days 00:00:44.108000,2021,12,Belgian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,0 days 01:30:05.395000,2021,13,Dutch Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,19.0,Finished,,,,0 days 00:00:20.932000,2021,13,Dutch Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,15.0,Finished,,,,0 days 00:00:56.460000,2021,13,Dutch Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,4.0,4.0,12.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,5.0,5.0,10.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,6.0,8.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,7.0,6.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,8.0,4.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,8.0,9.0,2.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,13.0,10.0,1.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,10.0,11.0,0.0,+1 Lap,,,,,2021,13,Dutch Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,12.0,12.0,0.0,+2 Laps,,,,,2021,13,Dutch Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,15.0,13.0,0.0,+2 Laps,,,,,2021,13,Dutch Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,7.0,14.0,0.0,+2 Laps,,,,,2021,13,Dutch Grand Prix
-88,R KUBICA,Robert Kubica,KUB,Alfa Romeo Racing,16.0,15.0,0.0,+2 Laps,,,,,2021,13,Dutch Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,0.0,16.0,0.0,+2 Laps,,,,,2021,13,Dutch Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,11.0,17.0,0.0,Gearbox,,,,,2021,13,Dutch Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,17.0,18.0,0.0,+3 Laps,,,,,2021,13,Dutch Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,14.0,19.0,0.0,Power Unit,,,,,2021,13,Dutch Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,20.0,0.0,Hydraulics,,,,,2021,13,Dutch Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,2.0,1.0,26.0,Finished,,,,0 days 01:21:54.365000,2021,14,Italian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,3.0,2.0,18.0,Finished,,,,0 days 00:00:01.747000,2021,14,Italian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,19.0,3.0,15.0,Finished,,,,0 days 00:00:04.921000,2021,14,Italian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,5.0,4.0,12.0,Finished,,,,0 days 00:00:07.309000,2021,14,Italian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,8.0,5.0,10.0,Finished,,,,0 days 00:00:08.723000,2021,14,Italian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,Finished,,,,0 days 00:00:10.535000,2021,14,Italian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,9.0,7.0,6.0,Finished,,,,0 days 00:00:15.804000,2021,14,Italian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,10.0,8.0,4.0,Finished,,,,0 days 00:00:17.201000,2021,14,Italian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,14.0,9.0,2.0,Finished,,,,0 days 00:00:19.742000,2021,14,Italian Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,12.0,10.0,1.0,Finished,,,,0 days 00:00:20.868000,2021,14,Italian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,13.0,11.0,0.0,Finished,,,,0 days 00:00:23.743000,2021,14,Italian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,11.0,12.0,0.0,Finished,,,,0 days 00:00:24.621000,2021,14,Italian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,7.0,13.0,0.0,Finished,,,,0 days 00:00:27.216000,2021,14,Italian Grand Prix
-88,R KUBICA,Robert Kubica,KUB,Alfa Romeo Racing,17.0,14.0,0.0,Finished,,,,0 days 00:00:29.769000,2021,14,Italian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,15.0,0.0,Finished,,,,0 days 00:00:51.088000,2021,14,Italian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,16.0,16.0,0.0,Power Unit,,,,,2021,14,Italian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,4.0,17.0,0.0,Collision,,,,,2021,14,Italian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,18.0,0.0,Collision,,,,,2021,14,Italian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,0.0,19.0,0.0,Suspension,,,,,2021,14,Italian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,0.0,20.0,0.0,Brakes,,,,,2021,14,Italian Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,4.0,1.0,25.0,Finished,,,,0 days 01:30:41.001000,2021,15,Russian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,20.0,2.0,18.0,Finished,,,,0 days 00:00:53.271000,2021,15,Russian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,2.0,3.0,15.0,Finished,,,,0 days 00:01:02.475000,2021,15,Russian Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,5.0,4.0,12.0,Finished,,,,0 days 00:01:05.607000,2021,15,Russian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,16.0,5.0,10.0,Finished,,,,0 days 00:01:07.533000,2021,15,Russian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,6.0,6.0,8.0,Finished,,,,0 days 00:01:21.321000,2021,15,Russian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,1.0,7.0,7.0,Finished,,,,0 days 00:01:27.224000,2021,15,Russian Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,13.0,8.0,4.0,Finished,,,,0 days 00:01:28.955000,2021,15,Russian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,8.0,9.0,2.0,Finished,,,,0 days 00:01:30.076000,2021,15,Russian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,3.0,10.0,1.0,Finished,,,,0 days 00:01:40.551000,2021,15,Russian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,7.0,11.0,0.0,Finished,,,,0 days 00:01:46.198000,2021,15,Russian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,12.0,0.0,+1 Lap,,,,,2021,15,Russian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,11.0,13.0,0.0,+1 Lap,,,,,2021,15,Russian Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,9.0,14.0,0.0,+1 Lap,,,,,2021,15,Russian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,19.0,15.0,0.0,+1 Lap,,,,,2021,15,Russian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,17.0,16.0,0.0,+1 Lap,,,,,2021,15,Russian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,12.0,17.0,0.0,+1 Lap,,,,,2021,15,Russian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,15.0,18.0,0.0,+2 Laps,,,,,2021,15,Russian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,19.0,0.0,Accident,,,,,2021,15,Russian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,14.0,20.0,0.0,Oil leak,,,,,2021,15,Russian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,1.0,26.0,Finished,,,,0 days 01:31:04.103000,2021,16,Turkish Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,,,,0 days 00:00:14.584000,2021,16,Turkish Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,6.0,3.0,15.0,Finished,,,,0 days 00:00:33.471000,2021,16,Turkish Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,0 days 00:00:37.814000,2021,16,Turkish Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,11.0,5.0,10.0,Finished,,,,0 days 00:00:41.812000,2021,16,Turkish Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,4.0,6.0,8.0,Finished,,,,0 days 00:00:44.292000,2021,16,Turkish Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,7.0,7.0,6.0,Finished,,,,0 days 00:00:47.213000,2021,16,Turkish Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,19.0,8.0,4.0,Finished,,,,0 days 00:00:51.526000,2021,16,Turkish Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,8.0,9.0,2.0,Finished,,,,0 days 00:01:22.018000,2021,16,Turkish Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,12.0,10.0,1.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,16.0,11.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,17.0,12.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,20.0,13.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,9.0,14.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,13.0,15.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,5.0,16.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,15.0,17.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,18.0,0.0,+1 Lap,,,,,2021,16,Turkish Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,14.0,19.0,0.0,+2 Laps,,,,,2021,16,Turkish Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,20.0,0.0,+2 Laps,,,,,2021,16,Turkish Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,0 days 01:34:36.552000,2021,17,United States Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,19.0,Finished,,,,0 days 00:00:01.333000,2021,17,United States Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,3.0,3.0,15.0,Finished,,,,0 days 00:00:42.223000,2021,17,United States Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,0 days 00:00:52.246000,2021,17,United States Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,5.0,10.0,Finished,,,,0 days 00:01:16.854000,2021,17,United States Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,9.0,6.0,8.0,Finished,,,,0 days 00:01:20.128000,2021,17,United States Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,7.0,6.0,Finished,,,,0 days 00:01:23.545000,2021,17,United States Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,7.0,8.0,4.0,Finished,,,,0 days 00:01:24.395000,2021,17,United States Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,10.0,9.0,2.0,+1 Lap,,,,,2021,17,United States Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,18.0,10.0,1.0,+1 Lap,,,,,2021,17,United States Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12.0,11.0,0.0,+1 Lap,,,,,2021,17,United States Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,13.0,12.0,0.0,+1 Lap,,,,,2021,17,United States Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,15.0,13.0,0.0,+1 Lap,,,,,2021,17,United States Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,20.0,14.0,0.0,+1 Lap,,,,,2021,17,United States Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,14.0,15.0,0.0,+1 Lap,,,,,2021,17,United States Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,16.0,16.0,0.0,+2 Laps,,,,,2021,17,United States Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,17.0,17.0,0.0,+2 Laps,,,,,2021,17,United States Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,19.0,18.0,0.0,Rear wing,,,,,2021,17,United States Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,11.0,19.0,0.0,Mechanical,,,,,2021,17,United States Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,8.0,20.0,0.0,Suspension,,,,,2021,17,United States Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,0 days 01:38:39.086000,2021,18,Mexico City Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,0 days 00:00:16.555000,2021,18,Mexico City Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,3.0,15.0,Finished,,,,0 days 00:00:17.752000,2021,18,Mexico City Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,4.0,12.0,Finished,,,,0 days 00:01:03.845000,2021,18,Mexico City Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,8.0,5.0,10.0,Finished,,,,0 days 00:01:21.037000,2021,18,Mexico City Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,9.0,7.0,6.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,10.0,8.0,4.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,12.0,9.0,2.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,18.0,10.0,1.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,11.0,11.0,0.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,7.0,12.0,0.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,19.0,13.0,0.0,+1 Lap,,,,,2021,18,Mexico City Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,20.0,14.0,0.0,+2 Laps,,,,,2021,18,Mexico City Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,15.0,0.0,+2 Laps,,,,,2021,18,Mexico City Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,16.0,16.0,0.0,+2 Laps,,,,,2021,18,Mexico City Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,13.0,17.0,0.0,+2 Laps,,,,,2021,18,Mexico City Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,15.0,18.0,0.0,+3 Laps,,,,,2021,18,Mexico City Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,14.0,19.0,0.0,Collision,,,,,2021,18,Mexico City Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,17.0,20.0,0.0,Collision,,,,,2021,18,Mexico City Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,10.0,1.0,25.0,Finished,,,,0 days 01:32:22.851000,2021,19,São Paulo Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,,,,0 days 00:00:10.496000,2021,19,São Paulo Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,3.0,15.0,Finished,,,,0 days 00:00:13.576000,2021,19,São Paulo Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,4.0,13.0,Finished,,,,0 days 00:00:39.940000,2021,19,São Paulo Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,6.0,5.0,10.0,Finished,,,,0 days 00:00:49.517000,2021,19,São Paulo Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,3.0,6.0,8.0,Finished,,,,0 days 00:00:51.820000,2021,19,São Paulo Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,7.0,7.0,6.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,8.0,8.0,4.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,12.0,9.0,2.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,5.0,10.0,1.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,9.0,11.0,0.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,0.0,12.0,0.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,17.0,13.0,0.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,13.0,14.0,0.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,15.0,15.0,0.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,16.0,0.0,+1 Lap,,,,,2021,19,São Paulo Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+2 Laps,,,,,2021,19,São Paulo Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,18.0,0.0,+2 Laps,,,,,2021,19,São Paulo Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,11.0,19.0,0.0,Power loss,,,,,2021,19,São Paulo Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,14.0,20.0,0.0,Collision damage,,,,,2021,19,São Paulo Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,1.0,25.0,Finished,,,,0 days 01:24:28.471000,2021,20,Qatar Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,7.0,2.0,19.0,Finished,,,,0 days 00:00:25.743000,2021,20,Qatar Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,3.0,3.0,15.0,Finished,,,,0 days 00:00:59.457000,2021,20,Qatar Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,11.0,4.0,12.0,Finished,,,,0 days 00:01:02.306000,2021,20,Qatar Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,9.0,5.0,10.0,Finished,,,,0 days 00:01:20.570000,2021,20,Qatar Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,12.0,6.0,8.0,Finished,,,,0 days 00:01:21.274000,2021,20,Qatar Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,7.0,6.0,Finished,,,,0 days 00:01:21.911000,2021,20,Qatar Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,13.0,8.0,4.0,Finished,,,,0 days 00:01:23.126000,2021,20,Qatar Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,4.0,9.0,2.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,10.0,1.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,2.0,11.0,0.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,14.0,12.0,0.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,8.0,13.0,0.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,16.0,14.0,0.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,18.0,15.0,0.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,16.0,0.0,+1 Lap,,,,,2021,20,Qatar Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,15.0,17.0,0.0,+2 Laps,,,,,2021,20,Qatar Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,18.0,0.0,+2 Laps,,,,,2021,20,Qatar Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,17.0,19.0,0.0,Puncture,,,,,2021,20,Qatar Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,6.0,20.0,0.0,Damage,,,,,2021,20,Qatar Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,1.0,26.0,Finished,,,,0 days 02:06:15.118000,2021,21,Saudi Arabian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,0 days 00:00:11.825000,2021,21,Saudi Arabian Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,2.0,3.0,15.0,Finished,,,,0 days 00:00:27.531000,2021,21,Saudi Arabian Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,9.0,4.0,12.0,Finished,,,,0 days 00:00:27.633000,2021,21,Saudi Arabian Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,11.0,5.0,10.0,Finished,,,,0 days 00:00:40.121000,2021,21,Saudi Arabian Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,6.0,8.0,Finished,,,,0 days 00:00:41.613000,2021,21,Saudi Arabian Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,7.0,6.0,Finished,,,,0 days 00:00:44.475000,2021,21,Saudi Arabian Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,15.0,8.0,4.0,Finished,,,,0 days 00:00:46.606000,2021,21,Saudi Arabian Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,10.0,9.0,2.0,Finished,,,,0 days 00:00:58.505000,2021,21,Saudi Arabian Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,7.0,10.0,1.0,Finished,,,,0 days 00:01:01.358000,2021,21,Saudi Arabian Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,18.0,11.0,0.0,Finished,,,,0 days 00:01:17.212000,2021,21,Saudi Arabian Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,12.0,0.0,Finished,,,,0 days 00:01:23.249000,2021,21,Saudi Arabian Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,13.0,13.0,0.0,+1 Lap,,,,,2021,21,Saudi Arabian Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,8.0,14.0,0.0,+1 Lap,,,,,2021,21,Saudi Arabian Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,12.0,15.0,0.0,+1 Lap,,,,,2021,21,Saudi Arabian Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,17.0,16.0,0.0,Collision damage,,,,,2021,21,Saudi Arabian Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,5.0,17.0,0.0,Collision,,,,,2021,21,Saudi Arabian Grand Prix
-9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,18.0,0.0,Collision,,,,,2021,21,Saudi Arabian Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,14.0,19.0,0.0,Collision,,,,,2021,21,Saudi Arabian Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,20.0,0.0,Accident,,,,,2021,21,Saudi Arabian Grand Prix
-33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,0 days 01:30:17.345000,2021,22,Abu Dhabi Grand Prix
-44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,0 days 00:00:02.256000,2021,22,Abu Dhabi Grand Prix
-55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,3.0,15.0,Finished,,,,0 days 00:00:05.173000,2021,22,Abu Dhabi Grand Prix
-22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,8.0,4.0,12.0,Finished,,,,0 days 00:00:05.692000,2021,22,Abu Dhabi Grand Prix
-10,P GASLY,Pierre Gasly,GAS,AlphaTauri,12.0,5.0,10.0,Finished,,,,0 days 00:00:06.531000,2021,22,Abu Dhabi Grand Prix
-77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,6.0,6.0,8.0,Finished,,,,0 days 00:00:07.463000,2021,22,Abu Dhabi Grand Prix
-4,L NORRIS,Lando Norris,NOR,McLaren,3.0,7.0,6.0,Finished,,,,0 days 00:00:59.200000,2021,22,Abu Dhabi Grand Prix
-14,F ALONSO,Fernando Alonso,ALO,Alpine,11.0,8.0,4.0,Finished,,,,0 days 00:01:01.708000,2021,22,Abu Dhabi Grand Prix
-31,E OCON,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,,,,0 days 00:01:04.026000,2021,22,Abu Dhabi Grand Prix
-16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,10.0,1.0,Finished,,,,0 days 00:01:06.057000,2021,22,Abu Dhabi Grand Prix
-5,S VETTEL,Sebastian Vettel,VET,Aston Martin,15.0,11.0,0.0,Finished,,,,0 days 00:01:07.527000,2021,22,Abu Dhabi Grand Prix
-3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,10.0,12.0,0.0,+1 Lap,,,,,2021,22,Abu Dhabi Grand Prix
-18,L STROLL,Lance Stroll,STR,Aston Martin,13.0,13.0,0.0,+1 Lap,,,,,2021,22,Abu Dhabi Grand Prix
-47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,14.0,0.0,+1 Lap,,,,,2021,22,Abu Dhabi Grand Prix
-11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,15.0,0.0,Engine,,,,,2021,22,Abu Dhabi Grand Prix
-6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,16.0,0.0,Accident,,,,,2021,22,Abu Dhabi Grand Prix
-99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14.0,17.0,0.0,Gearbox,,,,,2021,22,Abu Dhabi Grand Prix
-63,G RUSSELL,George Russell,RUS,Williams,17.0,18.0,0.0,Gearbox,,,,,2021,22,Abu Dhabi Grand Prix
-7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,18.0,19.0,0.0,Brakes,,,,,2021,22,Abu Dhabi Grand Prix
-9,nan,Nikita Mazepin,MAZ,Haas F1 Team,,,0.0,Illness,,,,,2021,22,Abu Dhabi Grand Prix
+DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName,SprintPoints
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,1.0,25.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,2.0,18.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,16.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,7.0,4.0,12.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,5.0,10.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,6.0,8.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,7.0,6.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,8.0,8.0,4.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,13.0,9.0,2.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,10.0,10.0,1.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,14.0,11.0,0.0,Finished,,,,2021,1,Bahrain Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12.0,12.0,0.0,+1 Lap,,,,2021,1,Bahrain Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,16.0,13.0,0.0,+1 Lap,,,,2021,1,Bahrain Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,15.0,14.0,0.0,+1 Lap,,,,2021,1,Bahrain Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,20.0,15.0,0.0,+1 Lap,,,,2021,1,Bahrain Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,16.0,0.0,+1 Lap,,,,2021,1,Bahrain Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,17.0,0.0,Retired,,,,2021,1,Bahrain Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,17.0,18.0,0.0,Retired,,,,2021,1,Bahrain Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,19.0,0.0,Brakes,,,,2021,1,Bahrain Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,20.0,0.0,Accident,,,,2021,1,Bahrain Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,2.0,19.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,7.0,3.0,15.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,11.0,5.0,10.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,6.0,8.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,7.0,6.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,10.0,8.0,4.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,15.0,10.0,1.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,2.0,11.0,0.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,20.0,12.0,0.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,16.0,13.0,0.0,Finished,,,,2021,2,Emilia Romagna Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,17.0,14.0,0.0,+1 Lap,,,,2021,2,Emilia Romagna Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,0.0,15.0,0.0,Gearbox,,,,2021,2,Emilia Romagna Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,16.0,0.0,+2 Laps,,,,2021,2,Emilia Romagna Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+2 Laps,,,,2021,2,Emilia Romagna Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,8.0,18.0,0.0,Collision,,,,2021,2,Emilia Romagna Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,12.0,19.0,0.0,Collision,,,,2021,2,Emilia Romagna Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,14.0,20.0,0.0,Collision,,,,2021,2,Emilia Romagna Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,1.0,25.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,3.0,16.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,7.0,5.0,10.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,8.0,6.0,8.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,6.0,7.0,6.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,13.0,8.0,4.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,16.0,9.0,2.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,9.0,10.0,1.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,11.0,0.0,Finished,,,,2021,3,Portuguese Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12.0,12.0,0.0,+1 Lap,,,,2021,3,Portuguese Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,13.0,0.0,+1 Lap,,,,2021,3,Portuguese Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,17.0,14.0,0.0,+1 Lap,,,,2021,3,Portuguese Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,14.0,15.0,0.0,+1 Lap,,,,2021,3,Portuguese Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,11.0,16.0,0.0,+1 Lap,,,,2021,3,Portuguese Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,17.0,0.0,+2 Laps,,,,2021,3,Portuguese Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,18.0,0.0,+2 Laps,,,,2021,3,Portuguese Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,19.0,0.0,+2 Laps,,,,2021,3,Portuguese Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,15.0,20.0,0.0,Collision damage,,,,2021,3,Portuguese Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,1.0,25.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,2.0,19.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,15.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,8.0,5.0,10.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,7.0,6.0,8.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,7.0,6.0,Finished,,,,2021,4,Spanish Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,9.0,8.0,4.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,5.0,9.0,2.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,12.0,10.0,1.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,11.0,11.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,17.0,12.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,13.0,13.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,15.0,14.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14.0,15.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,19.0,16.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,10.0,17.0,0.0,+1 Lap,,,,2021,4,Spanish Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,18.0,0.0,+2 Laps,,,,2021,4,Spanish Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,19.0,0.0,+2 Laps,,,,2021,4,Spanish Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,20.0,0.0,Electrical,,,,2021,4,Spanish Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,4.0,2.0,18.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,5.0,3.0,15.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,9.0,4.0,12.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,8.0,5.0,10.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,6.0,8.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,7.0,7.0,7.0,Finished,,,,2021,5,Monaco Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,13.0,8.0,4.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,11.0,9.0,2.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,10.0,10.0,1.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,14.0,11.0,0.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,12.0,12.0,0.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,17.0,13.0,0.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,15.0,14.0,0.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,15.0,0.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,16.0,0.0,+1 Lap,,,,2021,5,Monaco Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+3 Laps,,,,2021,5,Monaco Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,20.0,18.0,0.0,+3 Laps,,,,2021,5,Monaco Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,19.0,0.0,Wheel nut,,,,2021,5,Monaco Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,1.0,20.0,0.0,Driveshaft,,,,2021,5,Monaco Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,6.0,1.0,25.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,11.0,2.0,18.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,4.0,3.0,15.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,1.0,4.0,12.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,9.0,5.0,10.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,8.0,6.0,8.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,7.0,7.0,6.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,8.0,4.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,13.0,9.0,2.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,14.0,10.0,1.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,20.0,11.0,0.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,10.0,12.0,0.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,17.0,13.0,0.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,14.0,0.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,15.0,0.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,16.0,0.0,Finished,,,,2021,6,Azerbaijan Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,15.0,17.0,0.0,Gearbox,,,,2021,6,Azerbaijan Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,18.0,0.0,Accident,,,,2021,6,Azerbaijan Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,19.0,19.0,0.0,Accident,,,,2021,6,Azerbaijan Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,12.0,20.0,0.0,Turbo,,,,2021,6,Azerbaijan Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,2021,7,French Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,2021,7,French Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,3.0,15.0,Finished,,,,2021,7,French Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,4.0,12.0,Finished,,,,2021,7,French Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,8.0,5.0,10.0,Finished,,,,2021,7,French Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,10.0,6.0,8.0,Finished,,,,2021,7,French Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,7.0,6.0,Finished,,,,2021,7,French Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,8.0,4.0,Finished,,,,2021,7,French Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,12.0,9.0,2.0,Finished,,,,2021,7,French Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,19.0,10.0,1.0,Finished,,,,2021,7,French Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,11.0,0.0,Finished,,,,2021,7,French Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,14.0,12.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,0.0,13.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,11.0,14.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,13.0,15.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,16.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,17.0,17.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,18.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,15.0,19.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,20.0,0.0,+1 Lap,,,,2021,7,French Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2021,8,Styrian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,19.0,Finished,,,,2021,8,Styrian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,5.0,3.0,15.0,Finished,,,,2021,8,Styrian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,2021,8,Styrian Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,3.0,5.0,10.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,12.0,6.0,8.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,7.0,6.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,9.0,8.0,4.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,8.0,9.0,2.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,11.0,10.0,1.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,18.0,11.0,0.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,14.0,12.0,0.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,13.0,13.0,0.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,17.0,14.0,0.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15.0,15.0,0.0,+1 Lap,,,,2021,8,Styrian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,16.0,0.0,+2 Laps,,,,2021,8,Styrian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,17.0,0.0,+3 Laps,,,,2021,8,Styrian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,18.0,0.0,+3 Laps,,,,2021,8,Styrian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,10.0,19.0,0.0,Engine,,,,2021,8,Styrian Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,20.0,0.0,Collision,,,,2021,8,Styrian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,5.0,2.0,18.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,2.0,3.0,15.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,4.0,4.0,12.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,10.0,5.0,10.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,3.0,6.0,8.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,13.0,7.0,6.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,12.0,8.0,4.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,9.0,2.0,Finished,,,,2021,9,Austrian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,14.0,10.0,1.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,8.0,11.0,0.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,7.0,12.0,0.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,9.0,13.0,0.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15.0,14.0,0.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,16.0,15.0,0.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,16.0,0.0,+1 Lap,,,,2021,9,Austrian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,11.0,17.0,0.0,Collision,,,,2021,9,Austrian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,18.0,0.0,+2 Laps,,,,2021,9,Austrian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,19.0,0.0,+2 Laps,,,,2021,9,Austrian Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,17.0,20.0,0.0,Collision,,,,2021,9,Austrian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,1.0,27.0,Finished,,,,2021,10,British Grand Prix,2.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,2.0,18.0,Finished,,,,2021,10,British Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,16.0,Finished,,,,2021,10,British Grand Prix,1.0
+4,L NORRIS,Lando Norris,NOR,McLaren,5.0,4.0,12.0,Finished,,,,2021,10,British Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,5.0,10.0,Finished,,,,2021,10,British Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,10.0,6.0,8.0,Finished,,,,2021,10,British Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,7.0,7.0,6.0,Finished,,,,2021,10,British Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,14.0,8.0,4.0,Finished,,,,2021,10,British Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,,,,2021,10,British Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,10.0,1.0,Finished,,,,2021,10,British Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,11.0,11.0,0.0,Finished,,,,2021,10,British Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,12.0,12.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15.0,13.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,17.0,14.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,13.0,15.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,16.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,18.0,0.0,+1 Lap,,,,2021,10,British Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,8.0,19.0,0.0,Retired,,,,2021,10,British Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,20.0,3.0,Collision,,,,2021,10,British Grand Prix,3.0
+31,E OCON,Esteban Ocon,OCO,Alpine,8.0,1.0,25.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,2.0,18.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,15.0,3.0,15.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,4.0,12.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,5.0,11.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,6.0,8.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,7.0,6.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,17.0,8.0,4.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,9.0,2.0,Finished,,,,2021,11,Hungarian Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,13.0,10.0,1.0,+1 Lap,,,,2021,11,Hungarian Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,11.0,11.0,0.0,+1 Lap,,,,2021,11,Hungarian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,20.0,12.0,0.0,+1 Lap,,,,2021,11,Hungarian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,0.0,13.0,0.0,+1 Lap,,,,2021,11,Hungarian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,14.0,0.0,Collision,,,,2021,11,Hungarian Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,6.0,15.0,0.0,Collision,,,,2021,11,Hungarian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,2.0,16.0,0.0,Collision,,,,2021,11,Hungarian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,17.0,0.0,Collision,,,,2021,11,Hungarian Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,18.0,0.0,Collision,,,,2021,11,Hungarian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,12.0,19.0,0.0,Collision,,,,2021,11,Hungarian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,20.0,0.0,Disqualified,,,,2021,11,Hungarian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,12.5,Finished,,,,2021,12,Belgian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,2.0,2.0,9.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,3.0,3.0,7.5,Finished,,,,2021,12,Belgian Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,4.0,4.0,6.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,5.0,5.0,5.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,6.0,4.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,8.0,7.0,3.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,9.0,8.0,2.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,10.0,9.0,1.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,11.0,10.0,0.5,Finished,,,,2021,12,Belgian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,12.0,11.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,13.0,12.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14.0,13.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,15.0,14.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,16.0,15.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,17.0,16.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,17.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,0.0,18.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,19.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,19.0,20.0,0.0,Finished,,,,2021,12,Belgian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2021,13,Dutch Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,19.0,Finished,,,,2021,13,Dutch Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,3.0,3.0,15.0,Finished,,,,2021,13,Dutch Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,4.0,4.0,12.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,5.0,5.0,10.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,9.0,6.0,8.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,7.0,6.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,0.0,8.0,4.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,8.0,9.0,2.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,13.0,10.0,1.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,10.0,11.0,0.0,+1 Lap,,,,2021,13,Dutch Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,12.0,12.0,0.0,+2 Laps,,,,2021,13,Dutch Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,15.0,13.0,0.0,+2 Laps,,,,2021,13,Dutch Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,7.0,14.0,0.0,+2 Laps,,,,2021,13,Dutch Grand Prix,0.0
+88,R KUBICA,Robert Kubica,KUB,Alfa Romeo Racing,16.0,15.0,0.0,+2 Laps,,,,2021,13,Dutch Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,0.0,16.0,0.0,+2 Laps,,,,2021,13,Dutch Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,11.0,17.0,0.0,Gearbox,,,,2021,13,Dutch Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,17.0,18.0,0.0,+3 Laps,,,,2021,13,Dutch Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,14.0,19.0,0.0,Power Unit,,,,2021,13,Dutch Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,20.0,0.0,Hydraulics,,,,2021,13,Dutch Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,2.0,1.0,27.0,Finished,,,,2021,14,Italian Grand Prix,1.0
+4,L NORRIS,Lando Norris,NOR,McLaren,3.0,2.0,18.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,19.0,3.0,18.0,Finished,,,,2021,14,Italian Grand Prix,3.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,5.0,4.0,12.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,8.0,5.0,10.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,9.0,7.0,6.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,10.0,8.0,4.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,14.0,9.0,2.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,12.0,10.0,1.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,13.0,11.0,0.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,11.0,12.0,0.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,7.0,13.0,0.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+88,R KUBICA,Robert Kubica,KUB,Alfa Romeo Racing,17.0,14.0,0.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,15.0,0.0,Finished,,,,2021,14,Italian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,16.0,16.0,0.0,Power Unit,,,,2021,14,Italian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,4.0,17.0,0.0,Collision,,,,2021,14,Italian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,18.0,2.0,Collision,,,,2021,14,Italian Grand Prix,2.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,0.0,19.0,0.0,Suspension,,,,2021,14,Italian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,0.0,20.0,0.0,Brakes,,,,2021,14,Italian Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,4.0,1.0,25.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,20.0,2.0,18.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,2.0,3.0,15.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,5.0,4.0,12.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,16.0,5.0,10.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,6.0,6.0,8.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,1.0,7.0,7.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,13.0,8.0,4.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,8.0,9.0,2.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,3.0,10.0,1.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,7.0,11.0,0.0,Finished,,,,2021,15,Russian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,12.0,0.0,+1 Lap,,,,2021,15,Russian Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,11.0,13.0,0.0,+1 Lap,,,,2021,15,Russian Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,9.0,14.0,0.0,+1 Lap,,,,2021,15,Russian Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,19.0,15.0,0.0,+1 Lap,,,,2021,15,Russian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,17.0,16.0,0.0,+1 Lap,,,,2021,15,Russian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,12.0,17.0,0.0,+1 Lap,,,,2021,15,Russian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,15.0,18.0,0.0,+2 Laps,,,,2021,15,Russian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,18.0,19.0,0.0,Accident,,,,2021,15,Russian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,14.0,20.0,0.0,Oil leak,,,,2021,15,Russian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,1.0,26.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,2.0,18.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,6.0,3.0,15.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,11.0,5.0,10.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,4.0,6.0,8.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,7.0,7.0,6.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,19.0,8.0,4.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,8.0,9.0,2.0,Finished,,,,2021,16,Turkish Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,12.0,10.0,1.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,16.0,11.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,17.0,12.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,20.0,13.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,9.0,14.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,13.0,15.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,5.0,16.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,15.0,17.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,18.0,0.0,+1 Lap,,,,2021,16,Turkish Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,14.0,19.0,0.0,+2 Laps,,,,2021,16,Turkish Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,18.0,20.0,0.0,+2 Laps,,,,2021,16,Turkish Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2021,17,United States Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,19.0,Finished,,,,2021,17,United States Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,3.0,3.0,15.0,Finished,,,,2021,17,United States Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2021,17,United States Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,6.0,5.0,10.0,Finished,,,,2021,17,United States Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,9.0,6.0,8.0,Finished,,,,2021,17,United States Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,7.0,6.0,Finished,,,,2021,17,United States Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,7.0,8.0,4.0,Finished,,,,2021,17,United States Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,10.0,9.0,2.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,18.0,10.0,1.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12.0,11.0,0.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,13.0,12.0,0.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,15.0,13.0,0.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,20.0,14.0,0.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,14.0,15.0,0.0,+1 Lap,,,,2021,17,United States Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,16.0,16.0,0.0,+2 Laps,,,,2021,17,United States Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,17.0,17.0,0.0,+2 Laps,,,,2021,17,United States Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,19.0,18.0,0.0,Rear wing,,,,2021,17,United States Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,11.0,19.0,0.0,Mechanical,,,,2021,17,United States Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,8.0,20.0,0.0,Suspension,,,,2021,17,United States Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,2021,18,Mexico City Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,2021,18,Mexico City Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,3.0,15.0,Finished,,,,2021,18,Mexico City Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,5.0,4.0,12.0,Finished,,,,2021,18,Mexico City Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,8.0,5.0,10.0,Finished,,,,2021,18,Mexico City Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,6.0,6.0,8.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,9.0,7.0,6.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,10.0,8.0,4.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,12.0,9.0,2.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,18.0,10.0,1.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,11.0,11.0,0.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,7.0,12.0,0.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,19.0,13.0,0.0,+1 Lap,,,,2021,18,Mexico City Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,20.0,14.0,0.0,+2 Laps,,,,2021,18,Mexico City Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,15.0,0.0,+2 Laps,,,,2021,18,Mexico City Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,16.0,16.0,0.0,+2 Laps,,,,2021,18,Mexico City Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,13.0,17.0,0.0,+2 Laps,,,,2021,18,Mexico City Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,15.0,18.0,0.0,+3 Laps,,,,2021,18,Mexico City Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,14.0,19.0,0.0,Collision,,,,2021,18,Mexico City Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,17.0,20.0,0.0,Collision,,,,2021,18,Mexico City Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,10.0,1.0,25.0,Finished,,,,2021,19,São Paulo Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,2.0,2.0,20.0,Finished,,,,2021,19,São Paulo Grand Prix,2.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,1.0,3.0,18.0,Finished,,,,2021,19,São Paulo Grand Prix,3.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,4.0,13.0,Finished,,,,2021,19,São Paulo Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,6.0,5.0,10.0,Finished,,,,2021,19,São Paulo Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,3.0,6.0,9.0,Finished,,,,2021,19,São Paulo Grand Prix,1.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,7.0,7.0,6.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,8.0,8.0,4.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,12.0,9.0,2.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,5.0,10.0,1.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,9.0,11.0,0.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,0.0,12.0,0.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,17.0,13.0,0.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,13.0,14.0,0.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,15.0,15.0,0.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,16.0,0.0,+1 Lap,,,,2021,19,São Paulo Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,19.0,17.0,0.0,+2 Laps,,,,2021,19,São Paulo Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,18.0,18.0,0.0,+2 Laps,,,,2021,19,São Paulo Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,11.0,19.0,0.0,Power loss,,,,2021,19,São Paulo Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,14.0,20.0,0.0,Collision damage,,,,2021,19,São Paulo Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,1.0,25.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,7.0,2.0,19.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,3.0,3.0,15.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,11.0,4.0,12.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,9.0,5.0,10.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,12.0,6.0,8.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,7.0,6.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,13.0,8.0,4.0,Finished,,,,2021,20,Qatar Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,4.0,9.0,2.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,10.0,10.0,1.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,2.0,11.0,0.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,14.0,12.0,0.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,8.0,13.0,0.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,16.0,14.0,0.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,18.0,15.0,0.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,16.0,0.0,+1 Lap,,,,2021,20,Qatar Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,15.0,17.0,0.0,+2 Laps,,,,2021,20,Qatar Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,18.0,0.0,+2 Laps,,,,2021,20,Qatar Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,17.0,19.0,0.0,Puncture,,,,2021,20,Qatar Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,6.0,20.0,0.0,Damage,,,,2021,20,Qatar Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,1.0,1.0,26.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,2.0,3.0,15.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,9.0,4.0,12.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,11.0,5.0,10.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,6.0,6.0,8.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,4.0,7.0,6.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,15.0,8.0,4.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,10.0,9.0,2.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,7.0,10.0,1.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,18.0,11.0,0.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,12.0,0.0,Finished,,,,2021,21,Saudi Arabian Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,13.0,13.0,0.0,+1 Lap,,,,2021,21,Saudi Arabian Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,8.0,14.0,0.0,+1 Lap,,,,2021,21,Saudi Arabian Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,12.0,15.0,0.0,+1 Lap,,,,2021,21,Saudi Arabian Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,17.0,16.0,0.0,Collision damage,,,,2021,21,Saudi Arabian Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,5.0,17.0,0.0,Collision,,,,2021,21,Saudi Arabian Grand Prix,0.0
+9,N MAZEPIN,Nikita Mazepin,MAZ,Haas F1 Team,20.0,18.0,0.0,Collision,,,,2021,21,Saudi Arabian Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,14.0,19.0,0.0,Collision,,,,2021,21,Saudi Arabian Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,20.0,0.0,Accident,,,,2021,21,Saudi Arabian Grand Prix,0.0
+33,M VERSTAPPEN,Max Verstappen,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+44,L HAMILTON,Lewis Hamilton,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+55,C SAINZ,Carlos Sainz,SAI,Ferrari,5.0,3.0,15.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+22,Y TSUNODA,Yuki Tsunoda,TSU,AlphaTauri,8.0,4.0,12.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+10,P GASLY,Pierre Gasly,GAS,AlphaTauri,12.0,5.0,10.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+77,V BOTTAS,Valtteri Bottas,BOT,Mercedes,6.0,6.0,8.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+4,L NORRIS,Lando Norris,NOR,McLaren,3.0,7.0,6.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+14,F ALONSO,Fernando Alonso,ALO,Alpine,11.0,8.0,4.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+31,E OCON,Esteban Ocon,OCO,Alpine,9.0,9.0,2.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+16,C LECLERC,Charles Leclerc,LEC,Ferrari,7.0,10.0,1.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+5,S VETTEL,Sebastian Vettel,VET,Aston Martin,15.0,11.0,0.0,Finished,,,,2021,22,Abu Dhabi Grand Prix,0.0
+3,D RICCIARDO,Daniel Ricciardo,RIC,McLaren,10.0,12.0,0.0,+1 Lap,,,,2021,22,Abu Dhabi Grand Prix,0.0
+18,L STROLL,Lance Stroll,STR,Aston Martin,13.0,13.0,0.0,+1 Lap,,,,2021,22,Abu Dhabi Grand Prix,0.0
+47,M SCHUMACHER,Mick Schumacher,MSC,Haas F1 Team,19.0,14.0,0.0,+1 Lap,,,,2021,22,Abu Dhabi Grand Prix,0.0
+11,S PEREZ,Sergio Perez,PER,Red Bull Racing,4.0,15.0,0.0,Engine,,,,2021,22,Abu Dhabi Grand Prix,0.0
+6,N LATIFI,Nicholas Latifi,LAT,Williams,16.0,16.0,0.0,Accident,,,,2021,22,Abu Dhabi Grand Prix,0.0
+99,A GIOVINAZZI,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14.0,17.0,0.0,Gearbox,,,,2021,22,Abu Dhabi Grand Prix,0.0
+63,G RUSSELL,George Russell,RUS,Williams,17.0,18.0,0.0,Gearbox,,,,2021,22,Abu Dhabi Grand Prix,0.0
+7,K RAIKKONEN,Kimi Räikkönen,RAI,Alfa Romeo Racing,18.0,19.0,0.0,Brakes,,,,2021,22,Abu Dhabi Grand Prix,0.0
+9,nan,Nikita Mazepin,MAZ,Haas F1 Team,,,0.0,Illness,,,,2021,22,Abu Dhabi Grand Prix,0.0
