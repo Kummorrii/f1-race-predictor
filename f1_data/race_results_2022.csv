@@ -1,0 +1,441 @@
+DriverNumber,BroadcastName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName
+16,C LECLERC,LEC,Ferrari,1.0,1.0,26.0,Finished,,,,2022,1,Bahrain Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,2.0,18.0,Finished,,,,2022,1,Bahrain Grand Prix
+44,L HAMILTON,HAM,Mercedes,5.0,3.0,15.0,Finished,,,,2022,1,Bahrain Grand Prix
+63,G RUSSELL,RUS,Mercedes,9.0,4.0,12.0,Finished,,,,2022,1,Bahrain Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,7.0,5.0,10.0,Finished,,,,2022,1,Bahrain Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,6.0,6.0,8.0,Finished,,,,2022,1,Bahrain Grand Prix
+31,E OCON,OCO,Alpine,11.0,7.0,6.0,Finished,,,,2022,1,Bahrain Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,16.0,8.0,4.0,Finished,,,,2022,1,Bahrain Grand Prix
+14,F ALONSO,ALO,Alpine,8.0,9.0,2.0,Finished,,,,2022,1,Bahrain Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,15.0,10.0,1.0,Finished,,,,2022,1,Bahrain Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,12.0,11.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+18,L STROLL,STR,Aston Martin,19.0,12.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+23,A ALBON,ALB,Williams,14.0,13.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+3,D RICCIARDO,RIC,McLaren,18.0,14.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+4,L NORRIS,NOR,McLaren,13.0,15.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+6,N LATIFI,LAT,Williams,20.0,16.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+27,N HULKENBERG,HUL,Aston Martin,17.0,17.0,0.0,Finished,,,,2022,1,Bahrain Grand Prix
+11,S PEREZ,PER,Red Bull Racing,4.0,18.0,0.0,Fuel pressure,,,,2022,1,Bahrain Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,2.0,19.0,0.0,Fuel pressure,,,,2022,1,Bahrain Grand Prix
+10,P GASLY,GAS,AlphaTauri,10.0,20.0,0.0,Power Unit,,,,2022,1,Bahrain Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,4.0,1.0,25.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,2.0,19.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,3.0,15.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,1.0,4.0,12.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,5.0,10.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+31,E OCON,OCO,Alpine,5.0,6.0,8.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+4,L NORRIS,NOR,McLaren,11.0,7.0,6.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+10,P GASLY,GAS,AlphaTauri,9.0,8.0,4.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,10.0,9.0,2.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+44,L HAMILTON,HAM,Mercedes,15.0,10.0,1.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,12.0,11.0,0.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+27,N HULKENBERG,HUL,Aston Martin,17.0,12.0,0.0,Finished,,,,2022,2,Saudi Arabian Grand Prix
+18,L STROLL,STR,Aston Martin,13.0,13.0,0.0,+1 Lap,,,,2022,2,Saudi Arabian Grand Prix
+23,A ALBON,ALB,Williams,16.0,14.0,0.0,Collision damage,,,,2022,2,Saudi Arabian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,8.0,15.0,0.0,Cooling system,,,,2022,2,Saudi Arabian Grand Prix
+14,F ALONSO,ALO,Alpine,7.0,16.0,0.0,Water pump,,,,2022,2,Saudi Arabian Grand Prix
+3,D RICCIARDO,RIC,McLaren,14.0,17.0,0.0,Gearbox,,,,2022,2,Saudi Arabian Grand Prix
+6,N LATIFI,LAT,Williams,18.0,18.0,0.0,Accident,,,,2022,2,Saudi Arabian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,19.0,19.0,0.0,Power Unit,,,,2022,2,Saudi Arabian Grand Prix
+47,nan,MSC,Haas F1 Team,,,0.0,Withdrew,,,,2022,2,Saudi Arabian Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,1.0,26.0,Finished,,,,2022,3,Australian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,2022,3,Australian Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,3.0,15.0,Finished,,,,2022,3,Australian Grand Prix
+44,L HAMILTON,HAM,Mercedes,5.0,4.0,12.0,Finished,,,,2022,3,Australian Grand Prix
+4,L NORRIS,NOR,McLaren,4.0,5.0,10.0,Finished,,,,2022,3,Australian Grand Prix
+3,D RICCIARDO,RIC,McLaren,7.0,6.0,8.0,Finished,,,,2022,3,Australian Grand Prix
+31,E OCON,OCO,Alpine,8.0,7.0,6.0,Finished,,,,2022,3,Australian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,12.0,8.0,4.0,Finished,,,,2022,3,Australian Grand Prix
+10,P GASLY,GAS,AlphaTauri,11.0,9.0,2.0,Finished,,,,2022,3,Australian Grand Prix
+23,A ALBON,ALB,Williams,20.0,10.0,1.0,Finished,,,,2022,3,Australian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,14.0,11.0,0.0,Finished,,,,2022,3,Australian Grand Prix
+18,L STROLL,STR,Aston Martin,19.0,12.0,0.0,Finished,,,,2022,3,Australian Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,15.0,13.0,0.0,+1 Lap,,,,2022,3,Australian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,16.0,14.0,0.0,+1 Lap,,,,2022,3,Australian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,13.0,15.0,0.0,+1 Lap,,,,2022,3,Australian Grand Prix
+6,N LATIFI,LAT,Williams,18.0,16.0,0.0,+1 Lap,,,,2022,3,Australian Grand Prix
+14,F ALONSO,ALO,Alpine,10.0,17.0,0.0,+1 Lap,,,,2022,3,Australian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,2.0,18.0,0.0,Fuel leak,,,,2022,3,Australian Grand Prix
+5,S VETTEL,VET,Aston Martin,17.0,19.0,0.0,Accident,,,,2022,3,Australian Grand Prix
+55,C SAINZ,SAI,Ferrari,9.0,20.0,0.0,Spun off,,,,2022,3,Australian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+4,L NORRIS,NOR,McLaren,5.0,3.0,15.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+63,G RUSSELL,RUS,Mercedes,11.0,4.0,12.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,7.0,5.0,10.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,6.0,8.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,12.0,7.0,6.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+5,S VETTEL,VET,Aston Martin,13.0,8.0,4.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,8.0,9.0,2.0,Finished,,,,2022,4,Emilia Romagna Grand Prix
+18,L STROLL,STR,Aston Martin,15.0,10.0,1.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+23,A ALBON,ALB,Williams,18.0,11.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+10,P GASLY,GAS,AlphaTauri,17.0,12.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+44,L HAMILTON,HAM,Mercedes,14.0,13.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+31,E OCON,OCO,Alpine,16.0,14.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,0.0,15.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+6,N LATIFI,LAT,Williams,19.0,16.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,10.0,17.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+3,D RICCIARDO,RIC,McLaren,6.0,18.0,0.0,+1 Lap,,,,2022,4,Emilia Romagna Grand Prix
+14,F ALONSO,ALO,Alpine,9.0,19.0,0.0,Collision damage,,,,2022,4,Emilia Romagna Grand Prix
+55,C SAINZ,SAI,Ferrari,4.0,20.0,0.0,Collision,,,,2022,4,Emilia Romagna Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3.0,1.0,26.0,Finished,,,,2022,5,Miami Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,2.0,18.0,Finished,,,,2022,5,Miami Grand Prix
+55,C SAINZ,SAI,Ferrari,2.0,3.0,15.0,Finished,,,,2022,5,Miami Grand Prix
+11,S PEREZ,PER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,2022,5,Miami Grand Prix
+63,G RUSSELL,RUS,Mercedes,12.0,5.0,10.0,Finished,,,,2022,5,Miami Grand Prix
+44,L HAMILTON,HAM,Mercedes,6.0,6.0,8.0,Finished,,,,2022,5,Miami Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,5.0,7.0,6.0,Finished,,,,2022,5,Miami Grand Prix
+31,E OCON,OCO,Alpine,20.0,8.0,4.0,Finished,,,,2022,5,Miami Grand Prix
+23,A ALBON,ALB,Williams,18.0,9.0,2.0,Finished,,,,2022,5,Miami Grand Prix
+18,L STROLL,STR,Aston Martin,0.0,10.0,1.0,Finished,,,,2022,5,Miami Grand Prix
+14,F ALONSO,ALO,Alpine,11.0,11.0,0.0,Finished,,,,2022,5,Miami Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,9.0,12.0,0.0,Finished,,,,2022,5,Miami Grand Prix
+3,D RICCIARDO,RIC,McLaren,14.0,13.0,0.0,Finished,,,,2022,5,Miami Grand Prix
+6,N LATIFI,LAT,Williams,19.0,14.0,0.0,Finished,,,,2022,5,Miami Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,15.0,15.0,0.0,Finished,,,,2022,5,Miami Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,16.0,16.0,0.0,Front wing,,,,2022,5,Miami Grand Prix
+5,S VETTEL,VET,Aston Martin,0.0,17.0,0.0,Collision,,,,2022,5,Miami Grand Prix
+10,P GASLY,GAS,AlphaTauri,7.0,18.0,0.0,Suspension,,,,2022,5,Miami Grand Prix
+4,L NORRIS,NOR,McLaren,8.0,19.0,0.0,Collision,,,,2022,5,Miami Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,17.0,20.0,0.0,Water leak,,,,2022,5,Miami Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2022,6,Spanish Grand Prix
+11,S PEREZ,PER,Red Bull Racing,5.0,2.0,19.0,Finished,,,,2022,6,Spanish Grand Prix
+63,G RUSSELL,RUS,Mercedes,4.0,3.0,15.0,Finished,,,,2022,6,Spanish Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,4.0,12.0,Finished,,,,2022,6,Spanish Grand Prix
+44,L HAMILTON,HAM,Mercedes,6.0,5.0,10.0,Finished,,,,2022,6,Spanish Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,7.0,6.0,8.0,Finished,,,,2022,6,Spanish Grand Prix
+31,E OCON,OCO,Alpine,12.0,7.0,6.0,Finished,,,,2022,6,Spanish Grand Prix
+4,L NORRIS,NOR,McLaren,11.0,8.0,4.0,Finished,,,,2022,6,Spanish Grand Prix
+14,F ALONSO,ALO,Alpine,20.0,9.0,2.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,13.0,10.0,1.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+5,S VETTEL,VET,Aston Martin,16.0,11.0,0.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+3,D RICCIARDO,RIC,McLaren,9.0,12.0,0.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+10,P GASLY,GAS,AlphaTauri,14.0,13.0,0.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,10.0,14.0,0.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+18,L STROLL,STR,Aston Martin,17.0,15.0,0.0,+1 Lap,,,,2022,6,Spanish Grand Prix
+6,N LATIFI,LAT,Williams,19.0,16.0,0.0,+2 Laps,,,,2022,6,Spanish Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,8.0,17.0,0.0,+2 Laps,,,,2022,6,Spanish Grand Prix
+23,A ALBON,ALB,Williams,18.0,18.0,0.0,+2 Laps,,,,2022,6,Spanish Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,15.0,19.0,0.0,Power loss,,,,2022,6,Spanish Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,20.0,0.0,Turbo,,,,2022,6,Spanish Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,2022,7,Monaco Grand Prix
+55,C SAINZ,SAI,Ferrari,2.0,2.0,18.0,Finished,,,,2022,7,Monaco Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,4.0,3.0,15.0,Finished,,,,2022,7,Monaco Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,4.0,12.0,Finished,,,,2022,7,Monaco Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,5.0,10.0,Finished,,,,2022,7,Monaco Grand Prix
+4,L NORRIS,NOR,McLaren,5.0,6.0,9.0,Finished,,,,2022,7,Monaco Grand Prix
+14,F ALONSO,ALO,Alpine,7.0,7.0,6.0,Finished,,,,2022,7,Monaco Grand Prix
+44,L HAMILTON,HAM,Mercedes,8.0,8.0,4.0,Finished,,,,2022,7,Monaco Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,12.0,9.0,2.0,Finished,,,,2022,7,Monaco Grand Prix
+5,S VETTEL,VET,Aston Martin,9.0,10.0,1.0,Finished,,,,2022,7,Monaco Grand Prix
+10,P GASLY,GAS,AlphaTauri,17.0,11.0,0.0,Finished,,,,2022,7,Monaco Grand Prix
+31,E OCON,OCO,Alpine,10.0,12.0,0.0,Finished,,,,2022,7,Monaco Grand Prix
+3,D RICCIARDO,RIC,McLaren,14.0,13.0,0.0,Finished,,,,2022,7,Monaco Grand Prix
+18,L STROLL,STR,Aston Martin,18.0,14.0,0.0,Finished,,,,2022,7,Monaco Grand Prix
+6,N LATIFI,LAT,Williams,19.0,15.0,0.0,+1 Lap,,,,2022,7,Monaco Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,20.0,16.0,0.0,+1 Lap,,,,2022,7,Monaco Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,11.0,17.0,0.0,+1 Lap,,,,2022,7,Monaco Grand Prix
+23,A ALBON,ALB,Williams,16.0,18.0,0.0,Mechanical,,,,2022,7,Monaco Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,15.0,19.0,0.0,Accident,,,,2022,7,Monaco Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,13.0,20.0,0.0,Water pressure,,,,2022,7,Monaco Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+11,S PEREZ,PER,Red Bull Racing,2.0,2.0,19.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+63,G RUSSELL,RUS,Mercedes,5.0,3.0,15.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+44,L HAMILTON,HAM,Mercedes,7.0,4.0,12.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+10,P GASLY,GAS,AlphaTauri,6.0,5.0,10.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+5,S VETTEL,VET,Aston Martin,9.0,6.0,8.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+14,F ALONSO,ALO,Alpine,10.0,7.0,6.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+3,D RICCIARDO,RIC,McLaren,12.0,8.0,4.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+4,L NORRIS,NOR,McLaren,11.0,9.0,2.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+31,E OCON,OCO,Alpine,13.0,10.0,1.0,Finished,,,,2022,8,Azerbaijan Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,15.0,11.0,0.0,+1 Lap,,,,2022,8,Azerbaijan Grand Prix
+23,A ALBON,ALB,Williams,17.0,12.0,0.0,+1 Lap,,,,2022,8,Azerbaijan Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,8.0,13.0,0.0,+1 Lap,,,,2022,8,Azerbaijan Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,20.0,14.0,0.0,+1 Lap,,,,2022,8,Azerbaijan Grand Prix
+6,N LATIFI,LAT,Williams,18.0,15.0,0.0,+1 Lap,,,,2022,8,Azerbaijan Grand Prix
+18,L STROLL,STR,Aston Martin,19.0,16.0,0.0,Vibrations,,,,2022,8,Azerbaijan Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,16.0,17.0,0.0,Power Unit,,,,2022,8,Azerbaijan Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,14.0,18.0,0.0,Hydraulics,,,,2022,8,Azerbaijan Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,19.0,0.0,Power Unit,,,,2022,8,Azerbaijan Grand Prix
+55,C SAINZ,SAI,Ferrari,4.0,20.0,0.0,Hydraulics,,,,2022,8,Azerbaijan Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2022,9,Canadian Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,2.0,19.0,Finished,,,,2022,9,Canadian Grand Prix
+44,L HAMILTON,HAM,Mercedes,4.0,3.0,15.0,Finished,,,,2022,9,Canadian Grand Prix
+63,G RUSSELL,RUS,Mercedes,8.0,4.0,12.0,Finished,,,,2022,9,Canadian Grand Prix
+16,C LECLERC,LEC,Ferrari,19.0,5.0,10.0,Finished,,,,2022,9,Canadian Grand Prix
+31,E OCON,OCO,Alpine,7.0,6.0,8.0,Finished,,,,2022,9,Canadian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,11.0,7.0,6.0,Finished,,,,2022,9,Canadian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,10.0,8.0,4.0,Finished,,,,2022,9,Canadian Grand Prix
+14,F ALONSO,ALO,Alpine,2.0,9.0,2.0,Finished,,,,2022,9,Canadian Grand Prix
+18,L STROLL,STR,Aston Martin,17.0,10.0,1.0,Finished,,,,2022,9,Canadian Grand Prix
+3,D RICCIARDO,RIC,McLaren,9.0,11.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+5,S VETTEL,VET,Aston Martin,16.0,12.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+23,A ALBON,ALB,Williams,12.0,13.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+10,P GASLY,GAS,AlphaTauri,15.0,14.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+4,L NORRIS,NOR,McLaren,14.0,15.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+6,N LATIFI,LAT,Williams,18.0,16.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,5.0,17.0,0.0,Finished,,,,2022,9,Canadian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,20.0,18.0,0.0,Accident,,,,2022,9,Canadian Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,6.0,19.0,0.0,Engine,,,,2022,9,Canadian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,13.0,20.0,0.0,Gearbox,,,,2022,9,Canadian Grand Prix
+55,C SAINZ,SAI,Ferrari,1.0,1.0,25.0,Finished,,,,2022,10,British Grand Prix
+11,S PEREZ,PER,Red Bull Racing,4.0,2.0,18.0,Finished,,,,2022,10,British Grand Prix
+44,L HAMILTON,HAM,Mercedes,5.0,3.0,16.0,Finished,,,,2022,10,British Grand Prix
+16,C LECLERC,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,2022,10,British Grand Prix
+14,F ALONSO,ALO,Alpine,7.0,5.0,10.0,Finished,,,,2022,10,British Grand Prix
+4,L NORRIS,NOR,McLaren,6.0,6.0,8.0,Finished,,,,2022,10,British Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,2.0,7.0,6.0,Finished,,,,2022,10,British Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,19.0,8.0,4.0,Finished,,,,2022,10,British Grand Prix
+5,S VETTEL,VET,Aston Martin,18.0,9.0,2.0,Finished,,,,2022,10,British Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,17.0,10.0,1.0,Finished,,,,2022,10,British Grand Prix
+18,L STROLL,STR,Aston Martin,20.0,11.0,0.0,Finished,,,,2022,10,British Grand Prix
+6,N LATIFI,LAT,Williams,10.0,12.0,0.0,Finished,,,,2022,10,British Grand Prix
+3,D RICCIARDO,RIC,McLaren,14.0,13.0,0.0,Finished,,,,2022,10,British Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,13.0,14.0,0.0,Finished,,,,2022,10,British Grand Prix
+31,E OCON,OCO,Alpine,15.0,15.0,0.0,Fuel pump,,,,2022,10,British Grand Prix
+10,P GASLY,GAS,AlphaTauri,11.0,16.0,0.0,Collision damage,,,,2022,10,British Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,12.0,17.0,0.0,Gearbox,,,,2022,10,British Grand Prix
+63,G RUSSELL,RUS,Mercedes,8.0,18.0,0.0,Collision,,,,2022,10,British Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,9.0,19.0,0.0,Collision,,,,2022,10,British Grand Prix
+23,A ALBON,ALB,Williams,16.0,20.0,0.0,Collision,,,,2022,10,British Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,1.0,25.0,Finished,,,,2022,11,Austrian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,2.0,19.0,Finished,,,,2022,11,Austrian Grand Prix
+44,L HAMILTON,HAM,Mercedes,8.0,3.0,15.0,Finished,,,,2022,11,Austrian Grand Prix
+63,G RUSSELL,RUS,Mercedes,4.0,4.0,12.0,Finished,,,,2022,11,Austrian Grand Prix
+31,E OCON,OCO,Alpine,6.0,5.0,10.0,Finished,,,,2022,11,Austrian Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,9.0,6.0,8.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+4,L NORRIS,NOR,McLaren,10.0,7.0,6.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,7.0,8.0,4.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+3,D RICCIARDO,RIC,McLaren,11.0,9.0,2.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+14,F ALONSO,ALO,Alpine,19.0,10.0,1.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,0.0,11.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+23,A ALBON,ALB,Williams,15.0,12.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+18,L STROLL,STR,Aston Martin,12.0,13.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,13.0,14.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+10,P GASLY,GAS,AlphaTauri,14.0,15.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,16.0,16.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+5,S VETTEL,VET,Aston Martin,18.0,17.0,0.0,+1 Lap,,,,2022,11,Austrian Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,18.0,0.0,Power Unit,,,,2022,11,Austrian Grand Prix
+6,N LATIFI,LAT,Williams,17.0,19.0,0.0,Undertray,,,,2022,11,Austrian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,5.0,20.0,0.0,Collision damage,,,,2022,11,Austrian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2022,12,French Grand Prix
+44,L HAMILTON,HAM,Mercedes,4.0,2.0,18.0,Finished,,,,2022,12,French Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,3.0,15.0,Finished,,,,2022,12,French Grand Prix
+11,S PEREZ,PER,Red Bull Racing,3.0,4.0,12.0,Finished,,,,2022,12,French Grand Prix
+55,C SAINZ,SAI,Ferrari,19.0,5.0,11.0,Finished,,,,2022,12,French Grand Prix
+14,F ALONSO,ALO,Alpine,7.0,6.0,8.0,Finished,,,,2022,12,French Grand Prix
+4,L NORRIS,NOR,McLaren,5.0,7.0,6.0,Finished,,,,2022,12,French Grand Prix
+31,E OCON,OCO,Alpine,10.0,8.0,4.0,Finished,,,,2022,12,French Grand Prix
+3,D RICCIARDO,RIC,McLaren,9.0,9.0,2.0,Finished,,,,2022,12,French Grand Prix
+18,L STROLL,STR,Aston Martin,15.0,10.0,1.0,Finished,,,,2022,12,French Grand Prix
+5,S VETTEL,VET,Aston Martin,12.0,11.0,0.0,Finished,,,,2022,12,French Grand Prix
+10,P GASLY,GAS,AlphaTauri,14.0,12.0,0.0,Finished,,,,2022,12,French Grand Prix
+23,A ALBON,ALB,Williams,13.0,13.0,0.0,Finished,,,,2022,12,French Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,11.0,14.0,0.0,Finished,,,,2022,12,French Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,17.0,15.0,0.0,Finished,,,,2022,12,French Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,16.0,16.0,0.0,+6 Laps,,,,2022,12,French Grand Prix
+6,N LATIFI,LAT,Williams,18.0,17.0,0.0,Collision damage,,,,2022,12,French Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,20.0,18.0,0.0,Collision damage,,,,2022,12,French Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,19.0,0.0,Accident,,,,2022,12,French Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,8.0,20.0,0.0,Undertray,,,,2022,12,French Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,10.0,1.0,25.0,Finished,,,,2022,13,Hungarian Grand Prix
+44,L HAMILTON,HAM,Mercedes,7.0,2.0,19.0,Finished,,,,2022,13,Hungarian Grand Prix
+63,G RUSSELL,RUS,Mercedes,1.0,3.0,15.0,Finished,,,,2022,13,Hungarian Grand Prix
+55,C SAINZ,SAI,Ferrari,2.0,4.0,12.0,Finished,,,,2022,13,Hungarian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,11.0,5.0,10.0,Finished,,,,2022,13,Hungarian Grand Prix
+16,C LECLERC,LEC,Ferrari,3.0,6.0,8.0,Finished,,,,2022,13,Hungarian Grand Prix
+4,L NORRIS,NOR,McLaren,4.0,7.0,6.0,Finished,,,,2022,13,Hungarian Grand Prix
+14,F ALONSO,ALO,Alpine,6.0,8.0,4.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+31,E OCON,OCO,Alpine,5.0,9.0,2.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+5,S VETTEL,VET,Aston Martin,18.0,10.0,1.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+18,L STROLL,STR,Aston Martin,14.0,11.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+10,P GASLY,GAS,AlphaTauri,0.0,12.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,12.0,13.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,15.0,14.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+3,D RICCIARDO,RIC,McLaren,9.0,15.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,13.0,16.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+23,A ALBON,ALB,Williams,17.0,17.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+6,N LATIFI,LAT,Williams,19.0,18.0,0.0,+1 Lap,,,,2022,13,Hungarian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,16.0,19.0,0.0,+2 Laps,,,,2022,13,Hungarian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,8.0,20.0,0.0,Power Unit,,,,2022,13,Hungarian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,14.0,1.0,26.0,Finished,,,,2022,14,Belgian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,2.0,2.0,18.0,Finished,,,,2022,14,Belgian Grand Prix
+55,C SAINZ,SAI,Ferrari,1.0,3.0,15.0,Finished,,,,2022,14,Belgian Grand Prix
+63,G RUSSELL,RUS,Mercedes,5.0,4.0,12.0,Finished,,,,2022,14,Belgian Grand Prix
+14,F ALONSO,ALO,Alpine,3.0,5.0,10.0,Finished,,,,2022,14,Belgian Grand Prix
+16,C LECLERC,LEC,Ferrari,15.0,6.0,8.0,Finished,,,,2022,14,Belgian Grand Prix
+31,E OCON,OCO,Alpine,16.0,7.0,6.0,Finished,,,,2022,14,Belgian Grand Prix
+5,S VETTEL,VET,Aston Martin,10.0,8.0,4.0,Finished,,,,2022,14,Belgian Grand Prix
+10,P GASLY,GAS,AlphaTauri,0.0,9.0,2.0,Finished,,,,2022,14,Belgian Grand Prix
+23,A ALBON,ALB,Williams,6.0,10.0,1.0,Finished,,,,2022,14,Belgian Grand Prix
+18,L STROLL,STR,Aston Martin,9.0,11.0,0.0,Finished,,,,2022,14,Belgian Grand Prix
+4,L NORRIS,NOR,McLaren,17.0,12.0,0.0,Finished,,,,2022,14,Belgian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,0.0,13.0,0.0,Finished,,,,2022,14,Belgian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,18.0,14.0,0.0,Finished,,,,2022,14,Belgian Grand Prix
+3,D RICCIARDO,RIC,McLaren,7.0,15.0,0.0,Finished,,,,2022,14,Belgian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,12.0,16.0,0.0,+1 Lap,,,,2022,14,Belgian Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,19.0,17.0,0.0,+1 Lap,,,,2022,14,Belgian Grand Prix
+6,N LATIFI,LAT,Williams,11.0,18.0,0.0,+1 Lap,,,,2022,14,Belgian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,13.0,19.0,0.0,Accident,,,,2022,14,Belgian Grand Prix
+44,L HAMILTON,HAM,Mercedes,4.0,20.0,0.0,Collision damage,,,,2022,14,Belgian Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,26.0,Finished,,,,2022,15,Dutch Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,2.0,18.0,Finished,,,,2022,15,Dutch Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,3.0,15.0,Finished,,,,2022,15,Dutch Grand Prix
+44,L HAMILTON,HAM,Mercedes,4.0,4.0,12.0,Finished,,,,2022,15,Dutch Grand Prix
+11,S PEREZ,PER,Red Bull Racing,5.0,5.0,10.0,Finished,,,,2022,15,Dutch Grand Prix
+14,F ALONSO,ALO,Alpine,13.0,6.0,8.0,Finished,,,,2022,15,Dutch Grand Prix
+4,L NORRIS,NOR,McLaren,7.0,7.0,6.0,Finished,,,,2022,15,Dutch Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,8.0,4.0,Finished,,,,2022,15,Dutch Grand Prix
+31,E OCON,OCO,Alpine,12.0,9.0,2.0,Finished,,,,2022,15,Dutch Grand Prix
+18,L STROLL,STR,Aston Martin,10.0,10.0,1.0,Finished,,,,2022,15,Dutch Grand Prix
+10,P GASLY,GAS,AlphaTauri,11.0,11.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+23,A ALBON,ALB,Williams,15.0,12.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,8.0,13.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+5,S VETTEL,VET,Aston Martin,19.0,14.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,18.0,15.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,14.0,16.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+3,D RICCIARDO,RIC,McLaren,17.0,17.0,0.0,Finished,,,,2022,15,Dutch Grand Prix
+6,N LATIFI,LAT,Williams,20.0,18.0,0.0,+1 Lap,,,,2022,15,Dutch Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,16.0,19.0,0.0,Engine,,,,2022,15,Dutch Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,9.0,20.0,0.0,Differential,,,,2022,15,Dutch Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,7.0,1.0,25.0,Finished,,,,2022,16,Italian Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,2.0,18.0,Finished,,,,2022,16,Italian Grand Prix
+63,G RUSSELL,RUS,Mercedes,2.0,3.0,15.0,Finished,,,,2022,16,Italian Grand Prix
+55,C SAINZ,SAI,Ferrari,18.0,4.0,12.0,Finished,,,,2022,16,Italian Grand Prix
+44,L HAMILTON,HAM,Mercedes,19.0,5.0,10.0,Finished,,,,2022,16,Italian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,13.0,6.0,9.0,Finished,,,,2022,16,Italian Grand Prix
+4,L NORRIS,NOR,McLaren,3.0,7.0,6.0,Finished,,,,2022,16,Italian Grand Prix
+10,P GASLY,GAS,AlphaTauri,5.0,8.0,4.0,Finished,,,,2022,16,Italian Grand Prix
+45,N DE VRIES,DEV,Williams,8.0,9.0,2.0,Finished,,,,2022,16,Italian Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,9.0,10.0,1.0,Finished,,,,2022,16,Italian Grand Prix
+31,E OCON,OCO,Alpine,14.0,11.0,0.0,Finished,,,,2022,16,Italian Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,17.0,12.0,0.0,Finished,,,,2022,16,Italian Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,15.0,13.0,0.0,+1 Lap,,,,2022,16,Italian Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,20.0,14.0,0.0,+1 Lap,,,,2022,16,Italian Grand Prix
+6,N LATIFI,LAT,Williams,10.0,15.0,0.0,+1 Lap,,,,2022,16,Italian Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,16.0,16.0,0.0,+1 Lap,,,,2022,16,Italian Grand Prix
+3,D RICCIARDO,RIC,McLaren,4.0,17.0,0.0,Oil leak,,,,2022,16,Italian Grand Prix
+18,L STROLL,STR,Aston Martin,12.0,18.0,0.0,Engine,,,,2022,16,Italian Grand Prix
+14,F ALONSO,ALO,Alpine,6.0,19.0,0.0,Water pressure,,,,2022,16,Italian Grand Prix
+5,S VETTEL,VET,Aston Martin,11.0,20.0,0.0,Engine,,,,2022,16,Italian Grand Prix
+11,S PEREZ,PER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2022,17,Singapore Grand Prix
+16,C LECLERC,LEC,Ferrari,1.0,2.0,18.0,Finished,,,,2022,17,Singapore Grand Prix
+55,C SAINZ,SAI,Ferrari,4.0,3.0,15.0,Finished,,,,2022,17,Singapore Grand Prix
+4,L NORRIS,NOR,McLaren,6.0,4.0,12.0,Finished,,,,2022,17,Singapore Grand Prix
+3,D RICCIARDO,RIC,McLaren,16.0,5.0,10.0,Finished,,,,2022,17,Singapore Grand Prix
+18,L STROLL,STR,Aston Martin,11.0,6.0,8.0,Finished,,,,2022,17,Singapore Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,8.0,7.0,6.0,Finished,,,,2022,17,Singapore Grand Prix
+5,S VETTEL,VET,Aston Martin,13.0,8.0,4.0,Finished,,,,2022,17,Singapore Grand Prix
+44,L HAMILTON,HAM,Mercedes,3.0,9.0,2.0,Finished,,,,2022,17,Singapore Grand Prix
+10,P GASLY,GAS,AlphaTauri,7.0,10.0,1.0,Finished,,,,2022,17,Singapore Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,15.0,11.0,0.0,Finished,,,,2022,17,Singapore Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,9.0,12.0,0.0,Finished,,,,2022,17,Singapore Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,12.0,13.0,0.0,+1 Lap,,,,2022,17,Singapore Grand Prix
+63,G RUSSELL,RUS,Mercedes,0.0,14.0,0.0,+2 Laps,,,,2022,17,Singapore Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,10.0,15.0,0.0,Accident,,,,2022,17,Singapore Grand Prix
+31,E OCON,OCO,Alpine,17.0,16.0,0.0,Engine,,,,2022,17,Singapore Grand Prix
+23,A ALBON,ALB,Williams,18.0,17.0,0.0,Collision damage,,,,2022,17,Singapore Grand Prix
+14,F ALONSO,ALO,Alpine,5.0,18.0,0.0,Engine,,,,2022,17,Singapore Grand Prix
+6,N LATIFI,LAT,Williams,19.0,19.0,0.0,Collision damage,,,,2022,17,Singapore Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,14.0,20.0,0.0,Collision,,,,2022,17,Singapore Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2022,18,Japanese Grand Prix
+11,S PEREZ,PER,Red Bull Racing,4.0,2.0,18.0,Finished,,,,2022,18,Japanese Grand Prix
+16,C LECLERC,LEC,Ferrari,2.0,3.0,15.0,Finished,,,,2022,18,Japanese Grand Prix
+31,E OCON,OCO,Alpine,5.0,4.0,12.0,Finished,,,,2022,18,Japanese Grand Prix
+44,L HAMILTON,HAM,Mercedes,6.0,5.0,10.0,Finished,,,,2022,18,Japanese Grand Prix
+5,S VETTEL,VET,Aston Martin,9.0,6.0,8.0,Finished,,,,2022,18,Japanese Grand Prix
+14,F ALONSO,ALO,Alpine,7.0,7.0,6.0,Finished,,,,2022,18,Japanese Grand Prix
+63,G RUSSELL,RUS,Mercedes,8.0,8.0,4.0,Finished,,,,2022,18,Japanese Grand Prix
+6,N LATIFI,LAT,Williams,20.0,9.0,2.0,Finished,,,,2022,18,Japanese Grand Prix
+4,L NORRIS,NOR,McLaren,10.0,10.0,1.0,Finished,,,,2022,18,Japanese Grand Prix
+3,D RICCIARDO,RIC,McLaren,11.0,11.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+18,L STROLL,STR,Aston Martin,19.0,12.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,13.0,13.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,18.0,14.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,12.0,15.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,14.0,16.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,15.0,17.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+10,P GASLY,GAS,AlphaTauri,17.0,18.0,0.0,Finished,,,,2022,18,Japanese Grand Prix
+55,C SAINZ,SAI,Ferrari,3.0,19.0,0.0,Accident,,,,2022,18,Japanese Grand Prix
+23,A ALBON,ALB,Williams,16.0,20.0,0.0,Hydraulics,,,,2022,18,Japanese Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2022,19,United States Grand Prix
+44,L HAMILTON,HAM,Mercedes,3.0,2.0,18.0,Finished,,,,2022,19,United States Grand Prix
+16,C LECLERC,LEC,Ferrari,12.0,3.0,15.0,Finished,,,,2022,19,United States Grand Prix
+11,S PEREZ,PER,Red Bull Racing,9.0,4.0,12.0,Finished,,,,2022,19,United States Grand Prix
+63,G RUSSELL,RUS,Mercedes,4.0,5.0,11.0,Finished,,,,2022,19,United States Grand Prix
+4,L NORRIS,NOR,McLaren,6.0,6.0,8.0,Finished,,,,2022,19,United States Grand Prix
+14,F ALONSO,ALO,Alpine,14.0,7.0,6.0,Finished,,,,2022,19,United States Grand Prix
+5,S VETTEL,VET,Aston Martin,10.0,8.0,4.0,Finished,,,,2022,19,United States Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,13.0,9.0,2.0,Finished,,,,2022,19,United States Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,19.0,10.0,1.0,Finished,,,,2022,19,United States Grand Prix
+31,E OCON,OCO,Alpine,0.0,11.0,0.0,Finished,,,,2022,19,United States Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,18.0,12.0,0.0,Finished,,,,2022,19,United States Grand Prix
+23,A ALBON,ALB,Williams,8.0,13.0,0.0,Finished,,,,2022,19,United States Grand Prix
+10,P GASLY,GAS,AlphaTauri,11.0,14.0,0.0,Finished,,,,2022,19,United States Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,16.0,15.0,0.0,Finished,,,,2022,19,United States Grand Prix
+3,D RICCIARDO,RIC,McLaren,15.0,16.0,0.0,Finished,,,,2022,19,United States Grand Prix
+6,N LATIFI,LAT,Williams,17.0,17.0,0.0,Finished,,,,2022,19,United States Grand Prix
+18,L STROLL,STR,Aston Martin,5.0,18.0,0.0,Collision,,,,2022,19,United States Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,7.0,19.0,0.0,Spun off,,,,2022,19,United States Grand Prix
+55,C SAINZ,SAI,Ferrari,1.0,20.0,0.0,Collision damage,,,,2022,19,United States Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2022,20,Mexico City Grand Prix
+44,L HAMILTON,HAM,Mercedes,3.0,2.0,18.0,Finished,,,,2022,20,Mexico City Grand Prix
+11,S PEREZ,PER,Red Bull Racing,4.0,3.0,15.0,Finished,,,,2022,20,Mexico City Grand Prix
+63,G RUSSELL,RUS,Mercedes,2.0,4.0,13.0,Finished,,,,2022,20,Mexico City Grand Prix
+55,C SAINZ,SAI,Ferrari,5.0,5.0,10.0,Finished,,,,2022,20,Mexico City Grand Prix
+16,C LECLERC,LEC,Ferrari,7.0,6.0,8.0,Finished,,,,2022,20,Mexico City Grand Prix
+3,D RICCIARDO,RIC,McLaren,11.0,7.0,6.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+31,E OCON,OCO,Alpine,10.0,8.0,4.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+4,L NORRIS,NOR,McLaren,8.0,9.0,2.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,6.0,10.0,1.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+10,P GASLY,GAS,AlphaTauri,14.0,11.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+23,A ALBON,ALB,Williams,17.0,12.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,12.0,13.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+5,S VETTEL,VET,Aston Martin,16.0,14.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+18,L STROLL,STR,Aston Martin,20.0,15.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,15.0,16.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,19.0,17.0,0.0,+1 Lap,,,,2022,20,Mexico City Grand Prix
+6,N LATIFI,LAT,Williams,18.0,18.0,0.0,+2 Laps,,,,2022,20,Mexico City Grand Prix
+14,F ALONSO,ALO,Alpine,9.0,19.0,0.0,Engine,,,,2022,20,Mexico City Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,13.0,20.0,0.0,Collision damage,,,,2022,20,Mexico City Grand Prix
+63,G RUSSELL,RUS,Mercedes,1.0,1.0,26.0,Finished,,,,2022,21,São Paulo Grand Prix
+44,L HAMILTON,HAM,Mercedes,2.0,2.0,18.0,Finished,,,,2022,21,São Paulo Grand Prix
+55,C SAINZ,SAI,Ferrari,7.0,3.0,15.0,Finished,,,,2022,21,São Paulo Grand Prix
+16,C LECLERC,LEC,Ferrari,5.0,4.0,12.0,Finished,,,,2022,21,São Paulo Grand Prix
+14,F ALONSO,ALO,Alpine,17.0,5.0,10.0,Finished,,,,2022,21,São Paulo Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,3.0,6.0,8.0,Finished,,,,2022,21,São Paulo Grand Prix
+11,S PEREZ,PER,Red Bull Racing,4.0,7.0,6.0,Finished,,,,2022,21,São Paulo Grand Prix
+31,E OCON,OCO,Alpine,16.0,8.0,4.0,Finished,,,,2022,21,São Paulo Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,14.0,9.0,2.0,Finished,,,,2022,21,São Paulo Grand Prix
+18,L STROLL,STR,Aston Martin,15.0,10.0,1.0,Finished,,,,2022,21,São Paulo Grand Prix
+5,S VETTEL,VET,Aston Martin,9.0,11.0,0.0,Finished,,,,2022,21,São Paulo Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,13.0,12.0,0.0,Finished,,,,2022,21,São Paulo Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,12.0,13.0,0.0,Finished,,,,2022,21,São Paulo Grand Prix
+10,P GASLY,GAS,AlphaTauri,10.0,14.0,0.0,Finished,,,,2022,21,São Paulo Grand Prix
+23,A ALBON,ALB,Williams,19.0,15.0,0.0,Finished,,,,2022,21,São Paulo Grand Prix
+6,N LATIFI,LAT,Williams,18.0,16.0,0.0,Finished,,,,2022,21,São Paulo Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,0.0,17.0,0.0,+1 Lap,,,,2022,21,São Paulo Grand Prix
+4,L NORRIS,NOR,McLaren,6.0,18.0,0.0,Gearbox,,,,2022,21,São Paulo Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,8.0,19.0,0.0,Collision,,,,2022,21,São Paulo Grand Prix
+3,D RICCIARDO,RIC,McLaren,11.0,20.0,0.0,Collision,,,,2022,21,São Paulo Grand Prix
+1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+16,C LECLERC,LEC,Ferrari,3.0,2.0,18.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+11,S PEREZ,PER,Red Bull Racing,2.0,3.0,15.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+55,C SAINZ,SAI,Ferrari,4.0,4.0,12.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+63,G RUSSELL,RUS,Mercedes,6.0,5.0,10.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+4,L NORRIS,NOR,McLaren,7.0,6.0,9.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+31,E OCON,OCO,Alpine,8.0,7.0,6.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+18,L STROLL,STR,Aston Martin,14.0,8.0,4.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+3,D RICCIARDO,RIC,McLaren,13.0,9.0,2.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+5,S VETTEL,VET,Aston Martin,9.0,10.0,1.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+22,Y TSUNODA,TSU,AlphaTauri,11.0,11.0,0.0,Finished,,,,2022,22,Abu Dhabi Grand Prix
+24,G ZHOU,ZHO,Alfa Romeo,15.0,12.0,0.0,+1 Lap,,,,2022,22,Abu Dhabi Grand Prix
+23,A ALBON,ALB,Williams,19.0,13.0,0.0,+1 Lap,,,,2022,22,Abu Dhabi Grand Prix
+10,P GASLY,GAS,AlphaTauri,17.0,14.0,0.0,+1 Lap,,,,2022,22,Abu Dhabi Grand Prix
+77,V BOTTAS,BOT,Alfa Romeo,18.0,15.0,0.0,+1 Lap,,,,2022,22,Abu Dhabi Grand Prix
+47,M SCHUMACHER,MSC,Haas F1 Team,12.0,16.0,0.0,+1 Lap,,,,2022,22,Abu Dhabi Grand Prix
+20,K MAGNUSSEN,MAG,Haas F1 Team,16.0,17.0,0.0,+1 Lap,,,,2022,22,Abu Dhabi Grand Prix
+44,L HAMILTON,HAM,Mercedes,5.0,18.0,0.0,Hydraulics,,,,2022,22,Abu Dhabi Grand Prix
+6,N LATIFI,LAT,Williams,20.0,19.0,0.0,Collision damage,,,,2022,22,Abu Dhabi Grand Prix
+14,F ALONSO,ALO,Alpine,10.0,20.0,0.0,Water leak,,,,2022,22,Abu Dhabi Grand Prix
