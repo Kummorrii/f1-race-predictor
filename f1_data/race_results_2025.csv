@@ -1,480 +1,161 @@
 DriverNumber,BroadcastName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName
-4,L NORRIS,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,1,Australian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,2025,1,Australian Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,3.0,15.0,Finished,,,,2025,1,Australian Grand Prix
-12,A ANTONELLI,ANT,Mercedes,16.0,4.0,12.0,Finished,,,,2025,1,Australian Grand Prix
-23,A ALBON,ALB,Williams,6.0,5.0,10.0,Finished,,,,2025,1,Australian Grand Prix
-18,L STROLL,STR,Aston Martin,13.0,6.0,8.0,Finished,,,,2025,1,Australian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,17.0,7.0,6.0,Finished,,,,2025,1,Australian Grand Prix
-16,C LECLERC,LEC,Ferrari,7.0,8.0,4.0,Finished,,,,2025,1,Australian Grand Prix
-81,O PIASTRI,PIA,McLaren,2.0,9.0,2.0,Finished,,,,2025,1,Australian Grand Prix
-44,L HAMILTON,HAM,Ferrari,8.0,10.0,1.0,Finished,,,,2025,1,Australian Grand Prix
-10,P GASLY,GAS,Alpine,9.0,11.0,0.0,Finished,,,,2025,1,Australian Grand Prix
-22,Y TSUNODA,TSU,Racing Bulls,5.0,12.0,0.0,Finished,,,,2025,1,Australian Grand Prix
-31,E OCON,OCO,Haas F1 Team,19.0,13.0,0.0,Finished,,,,2025,1,Australian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,20.0,14.0,0.0,Finished,,,,2025,1,Australian Grand Prix
-30,L LAWSON,LAW,Red Bull Racing,18.0,15.0,0.0,Retired,,,,2025,1,Australian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,15.0,16.0,0.0,Retired,,,,2025,1,Australian Grand Prix
-14,F ALONSO,ALO,Aston Martin,12.0,17.0,0.0,Retired,,,,2025,1,Australian Grand Prix
-55,C SAINZ,SAI,Williams,10.0,18.0,0.0,Retired,,,,2025,1,Australian Grand Prix
-7,J DOOHAN,DOO,Alpine,14.0,19.0,0.0,Retired,,,,2025,1,Australian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,11.0,20.0,0.0,Retired,,,,2025,1,Australian Grand Prix
-81,O PIASTRI,PIA,McLaren,1.0,1.0,25.0,Finished,,,,2025,2,Chinese Grand Prix
-4,L NORRIS,NOR,McLaren,3.0,2.0,18.0,Finished,,,,2025,2,Chinese Grand Prix
-63,G RUSSELL,RUS,Mercedes,2.0,3.0,15.0,Finished,,,,2025,2,Chinese Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,2025,2,Chinese Grand Prix
-31,E OCON,OCO,Haas F1 Team,11.0,5.0,10.0,Finished,,,,2025,2,Chinese Grand Prix
-12,K ANTONELLI,ANT,Mercedes,8.0,6.0,8.0,Finished,,,,2025,2,Chinese Grand Prix
-23,A ALBON,ALB,Williams,10.0,7.0,6.0,Finished,,,,2025,2,Chinese Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,17.0,8.0,4.0,Finished,,,,2025,2,Chinese Grand Prix
-18,L STROLL,STR,Aston Martin,14.0,9.0,2.0,Finished,,,,2025,2,Chinese Grand Prix
-55,C SAINZ,SAI,Williams,15.0,10.0,1.0,Finished,,,,2025,2,Chinese Grand Prix
-6,I HADJAR,HAD,Racing Bulls,7.0,11.0,0.0,Finished,,,,2025,2,Chinese Grand Prix
-30,L LAWSON,LAW,Red Bull Racing,20.0,12.0,0.0,Finished,,,,2025,2,Chinese Grand Prix
-7,J DOOHAN,DOO,Alpine,18.0,13.0,0.0,Finished,,,,2025,2,Chinese Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,19.0,14.0,0.0,Lapped,,,,2025,2,Chinese Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,12.0,15.0,0.0,Lapped,,,,2025,2,Chinese Grand Prix
-22,Y TSUNODA,TSU,Racing Bulls,9.0,16.0,0.0,Lapped,,,,2025,2,Chinese Grand Prix
-14,F ALONSO,ALO,Aston Martin,13.0,17.0,0.0,Retired,,,,2025,2,Chinese Grand Prix
-16,C LECLERC,LEC,Ferrari,6.0,18.0,0.0,Disqualified,,,,2025,2,Chinese Grand Prix
-44,L HAMILTON,HAM,Ferrari,5.0,19.0,0.0,Disqualified,,,,2025,2,Chinese Grand Prix
-10,P GASLY,GAS,Alpine,16.0,20.0,0.0,Disqualified,,,,2025,2,Chinese Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2025,3,Japanese Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,3,Japanese Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,3.0,15.0,Finished,,,,2025,3,Japanese Grand Prix
-16,C LECLERC,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2025,3,Japanese Grand Prix
-63,G RUSSELL,RUS,Mercedes,5.0,5.0,10.0,Finished,,,,2025,3,Japanese Grand Prix
-12,K ANTONELLI,ANT,Mercedes,6.0,6.0,8.0,Finished,,,,2025,3,Japanese Grand Prix
-44,L HAMILTON,HAM,Ferrari,8.0,7.0,6.0,Finished,,,,2025,3,Japanese Grand Prix
-6,I HADJAR,HAD,Racing Bulls,7.0,8.0,4.0,Finished,,,,2025,3,Japanese Grand Prix
-23,A ALBON,ALB,Williams,9.0,9.0,2.0,Finished,,,,2025,3,Japanese Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,10.0,10.0,1.0,Finished,,,,2025,3,Japanese Grand Prix
-14,F ALONSO,ALO,Aston Martin,12.0,11.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,14.0,12.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-10,P GASLY,GAS,Alpine,11.0,13.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-55,C SAINZ,SAI,Williams,15.0,14.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-7,J DOOHAN,DOO,Alpine,19.0,15.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,16.0,16.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-30,L LAWSON,LAW,Racing Bulls,13.0,17.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-31,E OCON,OCO,Haas F1 Team,18.0,18.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,17.0,19.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
-18,L STROLL,STR,Aston Martin,20.0,20.0,0.0,Lapped,,,,2025,3,Japanese Grand Prix
-81,O PIASTRI,PIA,McLaren,1.0,1.0,25.0,Finished,,,,2025,4,Bahrain Grand Prix
-63,G RUSSELL,RUS,Mercedes,3.0,2.0,18.0,Finished,,,,2025,4,Bahrain Grand Prix
-4,L NORRIS,NOR,McLaren,6.0,3.0,15.0,Finished,,,,2025,4,Bahrain Grand Prix
-16,C LECLERC,LEC,Ferrari,2.0,4.0,12.0,Finished,,,,2025,4,Bahrain Grand Prix
-44,L HAMILTON,HAM,Ferrari,9.0,5.0,10.0,Finished,,,,2025,4,Bahrain Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,7.0,6.0,8.0,Finished,,,,2025,4,Bahrain Grand Prix
-10,P GASLY,GAS,Alpine,4.0,7.0,6.0,Finished,,,,2025,4,Bahrain Grand Prix
-31,E OCON,OCO,Haas F1 Team,14.0,8.0,4.0,Finished,,,,2025,4,Bahrain Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,10.0,9.0,2.0,Finished,,,,2025,4,Bahrain Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,20.0,10.0,1.0,Finished,,,,2025,4,Bahrain Grand Prix
-12,K ANTONELLI,ANT,Mercedes,5.0,11.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-23,A ALBON,ALB,Williams,15.0,12.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-6,I HADJAR,HAD,Racing Bulls,12.0,13.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-7,J DOOHAN,DOO,Alpine,11.0,14.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-14,F ALONSO,ALO,Aston Martin,13.0,15.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-30,L LAWSON,LAW,Racing Bulls,17.0,16.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-18,L STROLL,STR,Aston Martin,19.0,17.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,18.0,18.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
-55,C SAINZ,SAI,Williams,8.0,19.0,0.0,Retired,,,,2025,4,Bahrain Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,16.0,20.0,0.0,Disqualified,,,,2025,4,Bahrain Grand Prix
-81,O PIASTRI,PIA,McLaren,2.0,1.0,25.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,2.0,18.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-16,C LECLERC,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-4,L NORRIS,NOR,McLaren,10.0,4.0,12.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-63,G RUSSELL,RUS,Mercedes,3.0,5.0,10.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-12,K ANTONELLI,ANT,Mercedes,5.0,6.0,8.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-44,L HAMILTON,HAM,Ferrari,7.0,7.0,6.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-55,C SAINZ,SAI,Williams,6.0,8.0,4.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-23,A ALBON,ALB,Williams,11.0,9.0,2.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,14.0,10.0,1.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-14,F ALONSO,ALO,Aston Martin,13.0,11.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-30,L LAWSON,LAW,Racing Bulls,12.0,12.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,15.0,13.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-31,E OCON,OCO,Haas F1 Team,19.0,14.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,18.0,15.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
-18,L STROLL,STR,Aston Martin,16.0,16.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
-7,J DOOHAN,DOO,Alpine,17.0,17.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,20.0,18.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,8.0,19.0,0.0,Retired,,,,2025,5,Saudi Arabian Grand Prix
-10,P GASLY,GAS,Alpine,9.0,20.0,0.0,Retired,,,,2025,5,Saudi Arabian Grand Prix
-81,O PIASTRI,PIA,McLaren,4.0,1.0,25.0,Finished,,,,2025,6,Miami Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,6,Miami Grand Prix
-63,G RUSSELL,RUS,Mercedes,5.0,3.0,15.0,Finished,,,,2025,6,Miami Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,4.0,12.0,Finished,,,,2025,6,Miami Grand Prix
-23,A ALBON,ALB,Williams,7.0,5.0,10.0,Finished,,,,2025,6,Miami Grand Prix
-12,K ANTONELLI,ANT,Mercedes,3.0,6.0,8.0,Finished,,,,2025,6,Miami Grand Prix
-16,C LECLERC,LEC,Ferrari,8.0,7.0,6.0,Finished,,,,2025,6,Miami Grand Prix
-44,L HAMILTON,HAM,Ferrari,12.0,8.0,4.0,Finished,,,,2025,6,Miami Grand Prix
-55,C SAINZ,SAI,Williams,6.0,9.0,2.0,Finished,,,,2025,6,Miami Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,10.0,10.0,1.0,Finished,,,,2025,6,Miami Grand Prix
-6,I HADJAR,HAD,Racing Bulls,11.0,11.0,0.0,Finished,,,,2025,6,Miami Grand Prix
-31,E OCON,OCO,Haas F1 Team,9.0,12.0,0.0,Finished,,,,2025,6,Miami Grand Prix
-10,P GASLY,GAS,Alpine,20.0,13.0,0.0,Finished,,,,2025,6,Miami Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,16.0,14.0,0.0,Lapped,,,,2025,6,Miami Grand Prix
-14,F ALONSO,ALO,Aston Martin,17.0,15.0,0.0,Lapped,,,,2025,6,Miami Grand Prix
-18,L STROLL,STR,Aston Martin,18.0,16.0,0.0,Lapped,,,,2025,6,Miami Grand Prix
-30,L LAWSON,LAW,Racing Bulls,15.0,17.0,0.0,Retired,,,,2025,6,Miami Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,13.0,18.0,0.0,Retired,,,,2025,6,Miami Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,19.0,19.0,0.0,Retired,,,,2025,6,Miami Grand Prix
-7,J DOOHAN,DOO,Alpine,14.0,20.0,0.0,Retired,,,,2025,6,Miami Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-4,L NORRIS,NOR,McLaren,4.0,2.0,18.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-81,O PIASTRI,PIA,McLaren,1.0,3.0,15.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-44,L HAMILTON,HAM,Ferrari,12.0,4.0,12.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-23,A ALBON,ALB,Williams,7.0,5.0,10.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-16,C LECLERC,LEC,Ferrari,11.0,6.0,8.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-63,G RUSSELL,RUS,Mercedes,3.0,7.0,6.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-55,C SAINZ,SAI,Williams,6.0,8.0,4.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-6,I HADJAR,HAD,Racing Bulls,9.0,9.0,2.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,20.0,10.0,1.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-14,F ALONSO,ALO,Aston Martin,5.0,11.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,17.0,12.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-10,P GASLY,GAS,Alpine,10.0,13.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-30,L LAWSON,LAW,Racing Bulls,15.0,14.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-18,L STROLL,STR,Aston Martin,8.0,15.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-43,F COLAPINTO,COL,Alpine,16.0,16.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,19.0,17.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,14.0,18.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
-12,K ANTONELLI,ANT,Mercedes,13.0,19.0,0.0,Retired,,,,2025,7,Emilia Romagna Grand Prix
-31,E OCON,OCO,Haas F1 Team,18.0,20.0,0.0,Retired,,,,2025,7,Emilia Romagna Grand Prix
-4,L NORRIS,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,8,Monaco Grand Prix
-16,C LECLERC,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,2025,8,Monaco Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,3.0,15.0,Finished,,,,2025,8,Monaco Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,2025,8,Monaco Grand Prix
-44,L HAMILTON,HAM,Ferrari,7.0,5.0,10.0,Finished,,,,2025,8,Monaco Grand Prix
-6,I HADJAR,HAD,Racing Bulls,5.0,6.0,8.0,Lapped,,,,2025,8,Monaco Grand Prix
-31,E OCON,OCO,Haas F1 Team,8.0,7.0,6.0,Lapped,,,,2025,8,Monaco Grand Prix
-30,L LAWSON,LAW,Racing Bulls,9.0,8.0,4.0,Lapped,,,,2025,8,Monaco Grand Prix
-23,A ALBON,ALB,Williams,10.0,9.0,2.0,Lapped,,,,2025,8,Monaco Grand Prix
-55,C SAINZ,SAI,Williams,11.0,10.0,1.0,Lapped,,,,2025,8,Monaco Grand Prix
-63,G RUSSELL,RUS,Mercedes,14.0,11.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,20.0,12.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-43,F COLAPINTO,COL,Alpine,18.0,13.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,16.0,14.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-18,L STROLL,STR,Aston Martin,19.0,15.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,13.0,16.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,12.0,17.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-12,K ANTONELLI,ANT,Mercedes,15.0,18.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
-14,F ALONSO,ALO,Aston Martin,6.0,19.0,0.0,Retired,,,,2025,8,Monaco Grand Prix
-10,P GASLY,GAS,Alpine,17.0,20.0,0.0,Retired,,,,2025,8,Monaco Grand Prix
-81,O PIASTRI,PIA,McLaren,1.0,1.0,25.0,Finished,,,,2025,9,Spanish Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,9,Spanish Grand Prix
-16,C LECLERC,LEC,Ferrari,7.0,3.0,15.0,Finished,,,,2025,9,Spanish Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,4.0,12.0,Finished,,,,2025,9,Spanish Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,15.0,5.0,10.0,Finished,,,,2025,9,Spanish Grand Prix
-44,L HAMILTON,HAM,Ferrari,5.0,6.0,8.0,Finished,,,,2025,9,Spanish Grand Prix
-6,I HADJAR,HAD,Racing Bulls,9.0,7.0,6.0,Finished,,,,2025,9,Spanish Grand Prix
-10,P GASLY,GAS,Alpine,8.0,8.0,4.0,Finished,,,,2025,9,Spanish Grand Prix
-14,F ALONSO,ALO,Aston Martin,10.0,9.0,2.0,Finished,,,,2025,9,Spanish Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,3.0,10.0,1.0,Finished,,,,2025,9,Spanish Grand Prix
-30,L LAWSON,LAW,Racing Bulls,13.0,11.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,12.0,12.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,19.0,13.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-55,C SAINZ,SAI,Williams,17.0,14.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-43,F COLAPINTO,COL,Alpine,18.0,15.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-31,E OCON,OCO,Haas F1 Team,16.0,16.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,14.0,17.0,0.0,Finished,,,,2025,9,Spanish Grand Prix
-12,K ANTONELLI,ANT,Mercedes,6.0,18.0,0.0,Retired,,,,2025,9,Spanish Grand Prix
-23,A ALBON,ALB,Williams,11.0,19.0,0.0,Retired,,,,2025,9,Spanish Grand Prix
-63,G RUSSELL,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2025,10,Canadian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,2.0,2.0,18.0,Finished,,,,2025,10,Canadian Grand Prix
-12,K ANTONELLI,ANT,Mercedes,4.0,3.0,15.0,Finished,,,,2025,10,Canadian Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,4.0,12.0,Finished,,,,2025,10,Canadian Grand Prix
-16,C LECLERC,LEC,Ferrari,8.0,5.0,10.0,Finished,,,,2025,10,Canadian Grand Prix
-44,L HAMILTON,HAM,Ferrari,5.0,6.0,8.0,Finished,,,,2025,10,Canadian Grand Prix
-14,F ALONSO,ALO,Aston Martin,6.0,7.0,6.0,Finished,,,,2025,10,Canadian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,11.0,8.0,4.0,Finished,,,,2025,10,Canadian Grand Prix
-31,E OCON,OCO,Haas F1 Team,14.0,9.0,2.0,Lapped,,,,2025,10,Canadian Grand Prix
-55,C SAINZ,SAI,Williams,16.0,10.0,1.0,Lapped,,,,2025,10,Canadian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,13.0,11.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,18.0,12.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-43,F COLAPINTO,COL,Alpine,10.0,13.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,15.0,14.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-10,P GASLY,GAS,Alpine,20.0,15.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,12.0,16.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-18,L STROLL,STR,Aston Martin,17.0,17.0,0.0,Lapped,,,,2025,10,Canadian Grand Prix
-4,L NORRIS,NOR,McLaren,7.0,18.0,0.0,Retired,,,,2025,10,Canadian Grand Prix
-30,L LAWSON,LAW,Racing Bulls,19.0,19.0,0.0,Retired,,,,2025,10,Canadian Grand Prix
-23,A ALBON,ALB,Williams,9.0,20.0,0.0,Retired,,,,2025,10,Canadian Grand Prix
-4,L NORRIS,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,11,Austrian Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,2.0,18.0,Finished,,,,2025,11,Austrian Grand Prix
-16,C LECLERC,LEC,Ferrari,2.0,3.0,15.0,Finished,,,,2025,11,Austrian Grand Prix
-44,L HAMILTON,HAM,Ferrari,4.0,4.0,12.0,Finished,,,,2025,11,Austrian Grand Prix
-63,G RUSSELL,RUS,Mercedes,5.0,5.0,10.0,Finished,,,,2025,11,Austrian Grand Prix
-30,L LAWSON,LAW,Racing Bulls,6.0,6.0,8.0,Finished,,,,2025,11,Austrian Grand Prix
-14,F ALONSO,ALO,Aston Martin,11.0,7.0,6.0,Lapped,,,,2025,11,Austrian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,8.0,8.0,4.0,Lapped,,,,2025,11,Austrian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,20.0,9.0,2.0,Lapped,,,,2025,11,Austrian Grand Prix
-31,E OCON,OCO,Haas F1 Team,17.0,10.0,1.0,Lapped,,,,2025,11,Austrian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,15.0,11.0,0.0,Lapped,,,,2025,11,Austrian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,13.0,12.0,0.0,Lapped,,,,2025,11,Austrian Grand Prix
-10,P GASLY,GAS,Alpine,10.0,13.0,0.0,Lapped,,,,2025,11,Austrian Grand Prix
-18,L STROLL,STR,Aston Martin,16.0,14.0,0.0,Lapped,,,,2025,11,Austrian Grand Prix
-43,F COLAPINTO,COL,Alpine,14.0,15.0,0.0,Lapped,,,,2025,11,Austrian Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,18.0,16.0,0.0,Lapped,,,,2025,11,Austrian Grand Prix
-23,A ALBON,ALB,Williams,12.0,17.0,0.0,Retired,,,,2025,11,Austrian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,7.0,18.0,0.0,Retired,,,,2025,11,Austrian Grand Prix
-12,K ANTONELLI,ANT,Mercedes,9.0,19.0,0.0,Retired,,,,2025,11,Austrian Grand Prix
-55,C SAINZ,SAI,Williams,19.0,20.0,0.0,Did not start,,,,2025,11,Austrian Grand Prix
-4,L NORRIS,NOR,McLaren,3.0,1.0,25.0,Finished,,,,2025,12,British Grand Prix
-81,O PIASTRI,PIA,McLaren,2.0,2.0,18.0,Finished,,,,2025,12,British Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,19.0,3.0,15.0,Finished,,,,2025,12,British Grand Prix
-44,L HAMILTON,HAM,Ferrari,5.0,4.0,12.0,Finished,,,,2025,12,British Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,5.0,10.0,Finished,,,,2025,12,British Grand Prix
-10,P GASLY,GAS,Alpine,8.0,6.0,8.0,Finished,,,,2025,12,British Grand Prix
-18,L STROLL,STR,Aston Martin,17.0,7.0,6.0,Finished,,,,2025,12,British Grand Prix
-23,A ALBON,ALB,Williams,13.0,8.0,4.0,Finished,,,,2025,12,British Grand Prix
-14,F ALONSO,ALO,Aston Martin,7.0,9.0,2.0,Finished,,,,2025,12,British Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,10.0,1.0,Finished,,,,2025,12,British Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,18.0,11.0,0.0,Finished,,,,2025,12,British Grand Prix
-55,C SAINZ,SAI,Williams,9.0,12.0,0.0,Finished,,,,2025,12,British Grand Prix
-31,E OCON,OCO,Haas F1 Team,14.0,13.0,0.0,Finished,,,,2025,12,British Grand Prix
-16,C LECLERC,LEC,Ferrari,6.0,14.0,0.0,Finished,,,,2025,12,British Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,11.0,15.0,0.0,Lapped,,,,2025,12,British Grand Prix
-12,K ANTONELLI,ANT,Mercedes,10.0,16.0,0.0,Retired,,,,2025,12,British Grand Prix
-6,I HADJAR,HAD,Racing Bulls,12.0,17.0,0.0,Retired,,,,2025,12,British Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,16.0,18.0,0.0,Retired,,,,2025,12,British Grand Prix
-30,L LAWSON,LAW,Racing Bulls,15.0,19.0,0.0,Retired,,,,2025,12,British Grand Prix
-43,F COLAPINTO,COL,Alpine,20.0,20.0,0.0,Did not start,,,,2025,12,British Grand Prix
-81,O PIASTRI,PIA,McLaren,2.0,1.0,25.0,Finished,,,,2025,13,Belgian Grand Prix
-4,L NORRIS,NOR,McLaren,1.0,2.0,18.0,Finished,,,,2025,13,Belgian Grand Prix
-16,C LECLERC,LEC,Ferrari,3.0,3.0,15.0,Finished,,,,2025,13,Belgian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,4.0,4.0,12.0,Finished,,,,2025,13,Belgian Grand Prix
-63,G RUSSELL,RUS,Mercedes,6.0,5.0,10.0,Finished,,,,2025,13,Belgian Grand Prix
-23,A ALBON,ALB,Williams,5.0,6.0,8.0,Finished,,,,2025,13,Belgian Grand Prix
-44,L HAMILTON,HAM,Ferrari,18.0,7.0,6.0,Finished,,,,2025,13,Belgian Grand Prix
-30,L LAWSON,LAW,Racing Bulls,9.0,8.0,4.0,Finished,,,,2025,13,Belgian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,10.0,9.0,2.0,Finished,,,,2025,13,Belgian Grand Prix
-10,P GASLY,GAS,Alpine,13.0,10.0,1.0,Finished,,,,2025,13,Belgian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,12.0,11.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,14.0,12.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,7.0,13.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-18,L STROLL,STR,Aston Martin,16.0,14.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-31,E OCON,OCO,Haas F1 Team,11.0,15.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-12,K ANTONELLI,ANT,Mercedes,19.0,16.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-14,F ALONSO,ALO,Aston Martin,20.0,17.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-55,C SAINZ,SAI,Williams,17.0,18.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-43,F COLAPINTO,COL,Alpine,15.0,19.0,0.0,Finished,,,,2025,13,Belgian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,8.0,20.0,0.0,Lapped,,,,2025,13,Belgian Grand Prix
-4,L NORRIS,NOR,McLaren,3.0,1.0,25.0,Finished,,,,2025,14,Hungarian Grand Prix
-81,O PIASTRI,PIA,McLaren,2.0,2.0,18.0,Finished,,,,2025,14,Hungarian Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,3.0,15.0,Finished,,,,2025,14,Hungarian Grand Prix
-16,C LECLERC,LEC,Ferrari,1.0,4.0,12.0,Finished,,,,2025,14,Hungarian Grand Prix
-14,F ALONSO,ALO,Aston Martin,5.0,5.0,10.0,Finished,,,,2025,14,Hungarian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,7.0,6.0,8.0,Finished,,,,2025,14,Hungarian Grand Prix
-18,L STROLL,STR,Aston Martin,6.0,7.0,6.0,Finished,,,,2025,14,Hungarian Grand Prix
-30,L LAWSON,LAW,Racing Bulls,9.0,8.0,4.0,Finished,,,,2025,14,Hungarian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,8.0,9.0,2.0,Finished,,,,2025,14,Hungarian Grand Prix
-12,K ANTONELLI,ANT,Mercedes,15.0,10.0,1.0,Lapped,,,,2025,14,Hungarian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,10.0,11.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-44,L HAMILTON,HAM,Ferrari,12.0,12.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,18.0,13.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-55,C SAINZ,SAI,Williams,13.0,14.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-23,A ALBON,ALB,Williams,19.0,15.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-31,E OCON,OCO,Haas F1 Team,17.0,16.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,20.0,17.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-43,F COLAPINTO,COL,Alpine,14.0,18.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-10,P GASLY,GAS,Alpine,16.0,19.0,0.0,Lapped,,,,2025,14,Hungarian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,11.0,20.0,0.0,Retired,,,,2025,14,Hungarian Grand Prix
-81,O PIASTRI,PIA,McLaren,1.0,1.0,25.0,Finished,,,,2025,15,Dutch Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,3.0,2.0,18.0,Finished,,,,2025,15,Dutch Grand Prix
-6,I HADJAR,HAD,Racing Bulls,4.0,3.0,15.0,Finished,,,,2025,15,Dutch Grand Prix
-63,G RUSSELL,RUS,Mercedes,5.0,4.0,12.0,Finished,,,,2025,15,Dutch Grand Prix
-23,A ALBON,ALB,Williams,15.0,5.0,10.0,Finished,,,,2025,15,Dutch Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,20.0,6.0,8.0,Finished,,,,2025,15,Dutch Grand Prix
-18,L STROLL,STR,Aston Martin,19.0,7.0,6.0,Finished,,,,2025,15,Dutch Grand Prix
-14,F ALONSO,ALO,Aston Martin,10.0,8.0,4.0,Finished,,,,2025,15,Dutch Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,12.0,9.0,2.0,Finished,,,,2025,15,Dutch Grand Prix
-31,E OCON,OCO,Haas F1 Team,18.0,10.0,1.0,Finished,,,,2025,15,Dutch Grand Prix
-43,F COLAPINTO,COL,Alpine,16.0,11.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-30,L LAWSON,LAW,Racing Bulls,8.0,12.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-55,C SAINZ,SAI,Williams,9.0,13.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,17.0,14.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,13.0,15.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-12,K ANTONELLI,ANT,Mercedes,11.0,16.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-10,P GASLY,GAS,Alpine,14.0,17.0,0.0,Finished,,,,2025,15,Dutch Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,18.0,0.0,Retired,,,,2025,15,Dutch Grand Prix
-16,C LECLERC,LEC,Ferrari,6.0,19.0,0.0,Retired,,,,2025,15,Dutch Grand Prix
-44,L HAMILTON,HAM,Ferrari,7.0,20.0,0.0,Retired,,,,2025,15,Dutch Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2025,16,Italian Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,16,Italian Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,3.0,15.0,Finished,,,,2025,16,Italian Grand Prix
-16,C LECLERC,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2025,16,Italian Grand Prix
-63,G RUSSELL,RUS,Mercedes,5.0,5.0,10.0,Finished,,,,2025,16,Italian Grand Prix
-44,L HAMILTON,HAM,Ferrari,10.0,6.0,8.0,Finished,,,,2025,16,Italian Grand Prix
-23,A ALBON,ALB,Williams,14.0,7.0,6.0,Finished,,,,2025,16,Italian Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,7.0,8.0,4.0,Finished,,,,2025,16,Italian Grand Prix
-12,K ANTONELLI,ANT,Mercedes,6.0,9.0,2.0,Finished,,,,2025,16,Italian Grand Prix
-6,I HADJAR,HAD,Racing Bulls,19.0,10.0,1.0,Finished,,,,2025,16,Italian Grand Prix
-55,C SAINZ,SAI,Williams,13.0,11.0,0.0,Finished,,,,2025,16,Italian Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,11.0,12.0,0.0,Finished,,,,2025,16,Italian Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,9.0,13.0,0.0,Finished,,,,2025,16,Italian Grand Prix
-30,L LAWSON,LAW,Racing Bulls,18.0,14.0,0.0,Finished,,,,2025,16,Italian Grand Prix
-31,E OCON,OCO,Haas F1 Team,15.0,15.0,0.0,Lapped,,,,2025,16,Italian Grand Prix
-10,P GASLY,GAS,Alpine,20.0,16.0,0.0,Lapped,,,,2025,16,Italian Grand Prix
-43,F COLAPINTO,COL,Alpine,17.0,17.0,0.0,Lapped,,,,2025,16,Italian Grand Prix
-18,L STROLL,STR,Aston Martin,16.0,18.0,0.0,Lapped,,,,2025,16,Italian Grand Prix
-14,F ALONSO,ALO,Aston Martin,8.0,19.0,0.0,Retired,,,,2025,16,Italian Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,12.0,20.0,0.0,Did not start,,,,2025,16,Italian Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-63,G RUSSELL,RUS,Mercedes,5.0,2.0,18.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-55,C SAINZ,SAI,Williams,2.0,3.0,15.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-12,K ANTONELLI,ANT,Mercedes,4.0,4.0,12.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-30,L LAWSON,LAW,Racing Bulls,3.0,5.0,10.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,6.0,6.0,8.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-4,L NORRIS,NOR,McLaren,7.0,7.0,6.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-44,L HAMILTON,HAM,Ferrari,12.0,8.0,4.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-16,C LECLERC,LEC,Ferrari,10.0,9.0,2.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-6,I HADJAR,HAD,Racing Bulls,8.0,10.0,1.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,13.0,11.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,15.0,12.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-23,A ALBON,ALB,Williams,19.0,13.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-31,E OCON,OCO,Haas F1 Team,20.0,14.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-14,F ALONSO,ALO,Aston Martin,11.0,15.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,17.0,16.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-18,L STROLL,STR,Aston Martin,14.0,17.0,0.0,Finished,,,,2025,17,Azerbaijan Grand Prix
-10,P GASLY,GAS,Alpine,18.0,18.0,0.0,Lapped,,,,2025,17,Azerbaijan Grand Prix
-43,F COLAPINTO,COL,Alpine,16.0,19.0,0.0,Lapped,,,,2025,17,Azerbaijan Grand Prix
-81,O PIASTRI,PIA,McLaren,9.0,20.0,0.0,Retired,,,,2025,17,Azerbaijan Grand Prix
-63,G RUSSELL,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2025,18,Singapore Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,2.0,2.0,18.0,Finished,,,,2025,18,Singapore Grand Prix
-4,L NORRIS,NOR,McLaren,5.0,3.0,15.0,Finished,,,,2025,18,Singapore Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,4.0,12.0,Finished,,,,2025,18,Singapore Grand Prix
-12,K ANTONELLI,ANT,Mercedes,4.0,5.0,10.0,Finished,,,,2025,18,Singapore Grand Prix
-16,C LECLERC,LEC,Ferrari,7.0,6.0,8.0,Finished,,,,2025,18,Singapore Grand Prix
-14,F ALONSO,ALO,Aston Martin,10.0,7.0,6.0,Finished,,,,2025,18,Singapore Grand Prix
-44,L HAMILTON,HAM,Ferrari,6.0,8.0,4.0,Finished,,,,2025,18,Singapore Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,9.0,9.0,2.0,Finished,,,,2025,18,Singapore Grand Prix
-55,C SAINZ,SAI,Williams,18.0,10.0,1.0,Lapped,,,,2025,18,Singapore Grand Prix
-6,I HADJAR,HAD,Racing Bulls,8.0,11.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,13.0,12.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-18,L STROLL,STR,Aston Martin,15.0,13.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-23,A ALBON,ALB,Williams,20.0,14.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-30,L LAWSON,LAW,Racing Bulls,12.0,15.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-43,F COLAPINTO,COL,Alpine,16.0,16.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,14.0,17.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-31,E OCON,OCO,Haas F1 Team,17.0,18.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-10,P GASLY,GAS,Alpine,19.0,19.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,11.0,20.0,0.0,Lapped,,,,2025,18,Singapore Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2025,19,United States Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,19,United States Grand Prix
-16,C LECLERC,LEC,Ferrari,3.0,3.0,15.0,Finished,,,,2025,19,United States Grand Prix
-44,L HAMILTON,HAM,Ferrari,5.0,4.0,12.0,Finished,,,,2025,19,United States Grand Prix
-81,O PIASTRI,PIA,McLaren,6.0,5.0,10.0,Finished,,,,2025,19,United States Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,6.0,8.0,Finished,,,,2025,19,United States Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,13.0,7.0,6.0,Finished,,,,2025,19,United States Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,11.0,8.0,4.0,Finished,,,,2025,19,United States Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,8.0,9.0,2.0,Finished,,,,2025,19,United States Grand Prix
-14,F ALONSO,ALO,Aston Martin,10.0,10.0,1.0,Finished,,,,2025,19,United States Grand Prix
-30,L LAWSON,LAW,Racing Bulls,12.0,11.0,0.0,Finished,,,,2025,19,United States Grand Prix
-18,L STROLL,STR,Aston Martin,19.0,12.0,0.0,Finished,,,,2025,19,United States Grand Prix
-12,K ANTONELLI,ANT,Mercedes,7.0,13.0,0.0,Finished,,,,2025,19,United States Grand Prix
-23,A ALBON,ALB,Williams,18.0,14.0,0.0,Finished,,,,2025,19,United States Grand Prix
-31,E OCON,OCO,Haas F1 Team,17.0,15.0,0.0,Finished,,,,2025,19,United States Grand Prix
-6,I HADJAR,HAD,Racing Bulls,20.0,16.0,0.0,Finished,,,,2025,19,United States Grand Prix
-43,F COLAPINTO,COL,Alpine,15.0,17.0,0.0,Lapped,,,,2025,19,United States Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,16.0,18.0,0.0,Lapped,,,,2025,19,United States Grand Prix
-10,P GASLY,GAS,Alpine,14.0,19.0,0.0,Lapped,,,,2025,19,United States Grand Prix
-55,C SAINZ,SAI,Williams,9.0,20.0,0.0,Retired,,,,2025,19,United States Grand Prix
-4,L NORRIS,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,20,Mexico City Grand Prix
-16,C LECLERC,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,2025,20,Mexico City Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,5.0,3.0,15.0,Finished,,,,2025,20,Mexico City Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,9.0,4.0,12.0,Finished,,,,2025,20,Mexico City Grand Prix
-81,O PIASTRI,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2025,20,Mexico City Grand Prix
-12,K ANTONELLI,ANT,Mercedes,6.0,6.0,8.0,Finished,,,,2025,20,Mexico City Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,7.0,6.0,Finished,,,,2025,20,Mexico City Grand Prix
-44,L HAMILTON,HAM,Ferrari,3.0,8.0,4.0,Finished,,,,2025,20,Mexico City Grand Prix
-31,E OCON,OCO,Haas F1 Team,11.0,9.0,2.0,Finished,,,,2025,20,Mexico City Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,16.0,10.0,1.0,Finished,,,,2025,20,Mexico City Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,10.0,11.0,0.0,Finished,,,,2025,20,Mexico City Grand Prix
-23,A ALBON,ALB,Williams,17.0,12.0,0.0,Lapped,,,,2025,20,Mexico City Grand Prix
-6,I HADJAR,HAD,Racing Bulls,8.0,13.0,0.0,Lapped,,,,2025,20,Mexico City Grand Prix
-18,L STROLL,STR,Aston Martin,19.0,14.0,0.0,Lapped,,,,2025,20,Mexico City Grand Prix
-10,P GASLY,GAS,Alpine,18.0,15.0,0.0,Lapped,,,,2025,20,Mexico City Grand Prix
-43,F COLAPINTO,COL,Alpine,20.0,16.0,0.0,Lapped,,,,2025,20,Mexico City Grand Prix
-55,C SAINZ,SAI,Williams,12.0,17.0,0.0,Retired,,,,2025,20,Mexico City Grand Prix
-14,F ALONSO,ALO,Aston Martin,14.0,18.0,0.0,Retired,,,,2025,20,Mexico City Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,13.0,19.0,0.0,Retired,,,,2025,20,Mexico City Grand Prix
-30,L LAWSON,LAW,Racing Bulls,15.0,20.0,0.0,Retired,,,,2025,20,Mexico City Grand Prix
-4,L NORRIS,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,21,São Paulo Grand Prix
-12,K ANTONELLI,ANT,Mercedes,2.0,2.0,18.0,Finished,,,,2025,21,São Paulo Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,19.0,3.0,15.0,Finished,,,,2025,21,São Paulo Grand Prix
-63,G RUSSELL,RUS,Mercedes,6.0,4.0,12.0,Finished,,,,2025,21,São Paulo Grand Prix
-81,O PIASTRI,PIA,McLaren,4.0,5.0,10.0,Finished,,,,2025,21,São Paulo Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,8.0,6.0,8.0,Finished,,,,2025,21,São Paulo Grand Prix
-30,L LAWSON,LAW,Racing Bulls,7.0,7.0,6.0,Finished,,,,2025,21,São Paulo Grand Prix
-6,I HADJAR,HAD,Racing Bulls,5.0,8.0,4.0,Finished,,,,2025,21,São Paulo Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,10.0,9.0,2.0,Finished,,,,2025,21,São Paulo Grand Prix
-10,P GASLY,GAS,Alpine,9.0,10.0,1.0,Finished,,,,2025,21,São Paulo Grand Prix
-23,A ALBON,ALB,Williams,12.0,11.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-31,E OCON,OCO,Haas F1 Team,20.0,12.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-55,C SAINZ,SAI,Williams,15.0,13.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-14,F ALONSO,ALO,Aston Martin,11.0,14.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-43,F COLAPINTO,COL,Alpine,16.0,15.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-18,L STROLL,STR,Aston Martin,14.0,16.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,17.0,17.0,0.0,Finished,,,,2025,21,São Paulo Grand Prix
-44,L HAMILTON,HAM,Ferrari,13.0,18.0,0.0,Retired,,,,2025,21,São Paulo Grand Prix
-16,C LECLERC,LEC,Ferrari,3.0,19.0,0.0,Retired,,,,2025,21,São Paulo Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,18.0,20.0,0.0,Retired,,,,2025,21,São Paulo Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,2.0,1.0,25.0,Finished,,,,2025,22,Las Vegas Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,2.0,18.0,Finished,,,,2025,22,Las Vegas Grand Prix
-12,K ANTONELLI,ANT,Mercedes,17.0,3.0,15.0,Finished,,,,2025,22,Las Vegas Grand Prix
-16,C LECLERC,LEC,Ferrari,9.0,4.0,12.0,Finished,,,,2025,22,Las Vegas Grand Prix
-55,C SAINZ,SAI,Williams,3.0,5.0,10.0,Finished,,,,2025,22,Las Vegas Grand Prix
-6,I HADJAR,HAD,Racing Bulls,8.0,6.0,8.0,Finished,,,,2025,22,Las Vegas Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,11.0,7.0,6.0,Finished,,,,2025,22,Las Vegas Grand Prix
-44,L HAMILTON,HAM,Ferrari,19.0,8.0,4.0,Finished,,,,2025,22,Las Vegas Grand Prix
-31,E OCON,OCO,Haas F1 Team,13.0,9.0,2.0,Finished,,,,2025,22,Las Vegas Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,14.0,10.0,1.0,Finished,,,,2025,22,Las Vegas Grand Prix
-14,F ALONSO,ALO,Aston Martin,7.0,11.0,0.0,Finished,,,,2025,22,Las Vegas Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,20.0,12.0,0.0,Finished,,,,2025,22,Las Vegas Grand Prix
-10,P GASLY,GAS,Alpine,10.0,13.0,0.0,Finished,,,,2025,22,Las Vegas Grand Prix
-30,L LAWSON,LAW,Racing Bulls,6.0,14.0,0.0,Lapped,,,,2025,22,Las Vegas Grand Prix
-43,F COLAPINTO,COL,Alpine,15.0,15.0,0.0,Lapped,,,,2025,22,Las Vegas Grand Prix
-23,A ALBON,ALB,Williams,16.0,16.0,0.0,Retired,,,,2025,22,Las Vegas Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,18.0,17.0,0.0,Retired,,,,2025,22,Las Vegas Grand Prix
-18,L STROLL,STR,Aston Martin,12.0,18.0,0.0,Retired,,,,2025,22,Las Vegas Grand Prix
-4,L NORRIS,NOR,McLaren,1.0,19.0,0.0,Disqualified,,,,2025,22,Las Vegas Grand Prix
-81,O PIASTRI,PIA,McLaren,5.0,20.0,0.0,Disqualified,,,,2025,22,Las Vegas Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,3.0,1.0,25.0,Finished,,,,2025,23,Qatar Grand Prix
-81,O PIASTRI,PIA,McLaren,1.0,2.0,18.0,Finished,,,,2025,23,Qatar Grand Prix
-55,C SAINZ,SAI,Williams,7.0,3.0,15.0,Finished,,,,2025,23,Qatar Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,4.0,12.0,Finished,,,,2025,23,Qatar Grand Prix
-12,K ANTONELLI,ANT,Mercedes,5.0,5.0,10.0,Finished,,,,2025,23,Qatar Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,6.0,8.0,Finished,,,,2025,23,Qatar Grand Prix
-14,F ALONSO,ALO,Aston Martin,8.0,7.0,6.0,Finished,,,,2025,23,Qatar Grand Prix
-16,C LECLERC,LEC,Ferrari,10.0,8.0,4.0,Finished,,,,2025,23,Qatar Grand Prix
-30,L LAWSON,LAW,Racing Bulls,12.0,9.0,2.0,Finished,,,,2025,23,Qatar Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,15.0,10.0,1.0,Finished,,,,2025,23,Qatar Grand Prix
-23,A ALBON,ALB,Williams,14.0,11.0,0.0,Finished,,,,2025,23,Qatar Grand Prix
-44,L HAMILTON,HAM,Ferrari,17.0,12.0,0.0,Finished,,,,2025,23,Qatar Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,19.0,13.0,0.0,Finished,,,,2025,23,Qatar Grand Prix
-43,F COLAPINTO,COL,Alpine,20.0,14.0,0.0,Lapped,,,,2025,23,Qatar Grand Prix
-31,E OCON,OCO,Haas F1 Team,16.0,15.0,0.0,Lapped,,,,2025,23,Qatar Grand Prix
-10,P GASLY,GAS,Alpine,9.0,16.0,0.0,Lapped,,,,2025,23,Qatar Grand Prix
-18,L STROLL,STR,Aston Martin,18.0,17.0,0.0,Retired,,,,2025,23,Qatar Grand Prix
-6,I HADJAR,HAD,Racing Bulls,6.0,18.0,0.0,Retired,,,,2025,23,Qatar Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,13.0,19.0,0.0,Retired,,,,2025,23,Qatar Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,11.0,20.0,0.0,Retired,,,,2025,23,Qatar Grand Prix
-1,M VERSTAPPEN,VER,Red Bull Racing,1.0,1.0,25.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-81,O PIASTRI,PIA,McLaren,3.0,2.0,18.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-4,L NORRIS,NOR,McLaren,2.0,3.0,15.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-16,C LECLERC,LEC,Ferrari,5.0,4.0,12.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-63,G RUSSELL,RUS,Mercedes,4.0,5.0,10.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-14,F ALONSO,ALO,Aston Martin,6.0,6.0,8.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-31,E OCON,OCO,Haas F1 Team,8.0,7.0,6.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-44,L HAMILTON,HAM,Ferrari,16.0,8.0,4.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-27,N HULKENBERG,HUL,Kick Sauber,18.0,9.0,2.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-18,L STROLL,STR,Aston Martin,15.0,10.0,1.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-5,G BORTOLETO,BOR,Kick Sauber,7.0,11.0,0.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-87,O BEARMAN,BEA,Haas F1 Team,11.0,12.0,0.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-55,C SAINZ,SAI,Williams,12.0,13.0,0.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-22,Y TSUNODA,TSU,Red Bull Racing,10.0,14.0,0.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-12,K ANTONELLI,ANT,Mercedes,14.0,15.0,0.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-23,A ALBON,ALB,Williams,17.0,16.0,0.0,Finished,,,,2025,24,Abu Dhabi Grand Prix
-6,I HADJAR,HAD,Racing Bulls,9.0,17.0,0.0,Lapped,,,,2025,24,Abu Dhabi Grand Prix
-30,L LAWSON,LAW,Racing Bulls,13.0,18.0,0.0,Lapped,,,,2025,24,Abu Dhabi Grand Prix
-10,P GASLY,GAS,Alpine,19.0,19.0,0.0,Lapped,,,,2025,24,Abu Dhabi Grand Prix
-43,F COLAPINTO,COL,Alpine,20.0,20.0,0.0,Lapped,,,,2025,24,Abu Dhabi Grand Prix
+4,,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,1,Australian Grand Prix
+1,,VER,Red Bull,3.0,2.0,18.0,Finished,,,,2025,1,Australian Grand Prix
+63,,RUS,Mercedes,4.0,3.0,15.0,Finished,,,,2025,1,Australian Grand Prix
+12,,ANT,Mercedes,16.0,4.0,12.0,Finished,,,,2025,1,Australian Grand Prix
+23,,ALB,Williams,6.0,5.0,10.0,Finished,,,,2025,1,Australian Grand Prix
+18,,STR,Aston Martin,13.0,6.0,8.0,Finished,,,,2025,1,Australian Grand Prix
+27,,HUL,Sauber,17.0,7.0,6.0,Finished,,,,2025,1,Australian Grand Prix
+16,,LEC,Ferrari,7.0,8.0,4.0,Finished,,,,2025,1,Australian Grand Prix
+81,,PIA,McLaren,2.0,9.0,2.0,Finished,,,,2025,1,Australian Grand Prix
+44,,HAM,Ferrari,8.0,10.0,1.0,Finished,,,,2025,1,Australian Grand Prix
+10,,GAS,Alpine F1 Team,9.0,11.0,0.0,Finished,,,,2025,1,Australian Grand Prix
+22,,TSU,RB F1 Team,5.0,12.0,0.0,Finished,,,,2025,1,Australian Grand Prix
+31,,OCO,Haas F1 Team,19.0,13.0,0.0,Finished,,,,2025,1,Australian Grand Prix
+87,,BEA,Haas F1 Team,20.0,14.0,0.0,Finished,,,,2025,1,Australian Grand Prix
+30,,LAW,Red Bull,18.0,15.0,0.0,Retired,,,,2025,1,Australian Grand Prix
+5,,BOR,Sauber,15.0,16.0,0.0,Retired,,,,2025,1,Australian Grand Prix
+14,,ALO,Aston Martin,12.0,17.0,0.0,Retired,,,,2025,1,Australian Grand Prix
+55,,SAI,Williams,10.0,18.0,0.0,Retired,,,,2025,1,Australian Grand Prix
+7,,DOO,Alpine F1 Team,14.0,19.0,0.0,Retired,,,,2025,1,Australian Grand Prix
+6,,HAD,RB F1 Team,11.0,20.0,0.0,Retired,,,,2025,1,Australian Grand Prix
+81,,PIA,McLaren,1.0,1.0,25.0,Finished,,,,2025,2,Chinese Grand Prix
+4,,NOR,McLaren,3.0,2.0,18.0,Finished,,,,2025,2,Chinese Grand Prix
+63,,RUS,Mercedes,2.0,3.0,15.0,Finished,,,,2025,2,Chinese Grand Prix
+1,,VER,Red Bull,4.0,4.0,12.0,Finished,,,,2025,2,Chinese Grand Prix
+31,,OCO,Haas F1 Team,11.0,5.0,10.0,Finished,,,,2025,2,Chinese Grand Prix
+12,,ANT,Mercedes,8.0,6.0,8.0,Finished,,,,2025,2,Chinese Grand Prix
+23,,ALB,Williams,10.0,7.0,6.0,Finished,,,,2025,2,Chinese Grand Prix
+87,,BEA,Haas F1 Team,17.0,8.0,4.0,Finished,,,,2025,2,Chinese Grand Prix
+18,,STR,Aston Martin,14.0,9.0,2.0,Finished,,,,2025,2,Chinese Grand Prix
+55,,SAI,Williams,15.0,10.0,1.0,Finished,,,,2025,2,Chinese Grand Prix
+6,,HAD,RB F1 Team,7.0,11.0,0.0,Finished,,,,2025,2,Chinese Grand Prix
+30,,LAW,Red Bull,20.0,12.0,0.0,Finished,,,,2025,2,Chinese Grand Prix
+7,,DOO,Alpine F1 Team,18.0,13.0,0.0,Finished,,,,2025,2,Chinese Grand Prix
+5,,BOR,Sauber,19.0,14.0,0.0,Lapped,,,,2025,2,Chinese Grand Prix
+27,,HUL,Sauber,12.0,15.0,0.0,Lapped,,,,2025,2,Chinese Grand Prix
+22,,TSU,RB F1 Team,9.0,16.0,0.0,Lapped,,,,2025,2,Chinese Grand Prix
+14,,ALO,Aston Martin,13.0,17.0,0.0,Retired,,,,2025,2,Chinese Grand Prix
+16,,LEC,Ferrari,6.0,18.0,0.0,Disqualified,,,,2025,2,Chinese Grand Prix
+44,,HAM,Ferrari,5.0,19.0,0.0,Disqualified,,,,2025,2,Chinese Grand Prix
+10,,GAS,Alpine F1 Team,16.0,20.0,0.0,Disqualified,,,,2025,2,Chinese Grand Prix
+1,,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2025,3,Japanese Grand Prix
+4,,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,3,Japanese Grand Prix
+81,,PIA,McLaren,3.0,3.0,15.0,Finished,,,,2025,3,Japanese Grand Prix
+16,,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2025,3,Japanese Grand Prix
+63,,RUS,Mercedes,5.0,5.0,10.0,Finished,,,,2025,3,Japanese Grand Prix
+12,,ANT,Mercedes,6.0,6.0,8.0,Finished,,,,2025,3,Japanese Grand Prix
+44,,HAM,Ferrari,8.0,7.0,6.0,Finished,,,,2025,3,Japanese Grand Prix
+6,,HAD,RB F1 Team,7.0,8.0,4.0,Finished,,,,2025,3,Japanese Grand Prix
+23,,ALB,Williams,9.0,9.0,2.0,Finished,,,,2025,3,Japanese Grand Prix
+87,,BEA,Haas F1 Team,10.0,10.0,1.0,Finished,,,,2025,3,Japanese Grand Prix
+14,,ALO,Aston Martin,12.0,11.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+22,,TSU,Red Bull,14.0,12.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+10,,GAS,Alpine F1 Team,11.0,13.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+55,,SAI,Williams,15.0,14.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+7,,DOO,Alpine F1 Team,19.0,15.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+27,,HUL,Sauber,16.0,16.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+30,,LAW,RB F1 Team,13.0,17.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+31,,OCO,Haas F1 Team,18.0,18.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+5,,BOR,Sauber,17.0,19.0,0.0,Finished,,,,2025,3,Japanese Grand Prix
+18,,STR,Aston Martin,20.0,20.0,0.0,Lapped,,,,2025,3,Japanese Grand Prix
+81,,PIA,McLaren,1.0,1.0,25.0,Finished,,,,2025,4,Bahrain Grand Prix
+63,,RUS,Mercedes,3.0,2.0,18.0,Finished,,,,2025,4,Bahrain Grand Prix
+4,,NOR,McLaren,6.0,3.0,15.0,Finished,,,,2025,4,Bahrain Grand Prix
+16,,LEC,Ferrari,2.0,4.0,12.0,Finished,,,,2025,4,Bahrain Grand Prix
+44,,HAM,Ferrari,9.0,5.0,10.0,Finished,,,,2025,4,Bahrain Grand Prix
+1,,VER,Red Bull,7.0,6.0,8.0,Finished,,,,2025,4,Bahrain Grand Prix
+10,,GAS,Alpine F1 Team,4.0,7.0,6.0,Finished,,,,2025,4,Bahrain Grand Prix
+31,,OCO,Haas F1 Team,14.0,8.0,4.0,Finished,,,,2025,4,Bahrain Grand Prix
+22,,TSU,Red Bull,10.0,9.0,2.0,Finished,,,,2025,4,Bahrain Grand Prix
+87,,BEA,Haas F1 Team,20.0,10.0,1.0,Finished,,,,2025,4,Bahrain Grand Prix
+12,,ANT,Mercedes,5.0,11.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+23,,ALB,Williams,15.0,12.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+6,,HAD,RB F1 Team,12.0,13.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+7,,DOO,Alpine F1 Team,11.0,14.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+14,,ALO,Aston Martin,13.0,15.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+30,,LAW,RB F1 Team,17.0,16.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+18,,STR,Aston Martin,19.0,17.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+5,,BOR,Sauber,18.0,18.0,0.0,Finished,,,,2025,4,Bahrain Grand Prix
+55,,SAI,Williams,8.0,19.0,0.0,Retired,,,,2025,4,Bahrain Grand Prix
+27,,HUL,Sauber,16.0,20.0,0.0,Disqualified,,,,2025,4,Bahrain Grand Prix
+81,,PIA,McLaren,2.0,1.0,25.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+1,,VER,Red Bull,1.0,2.0,18.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+16,,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+4,,NOR,McLaren,10.0,4.0,12.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+63,,RUS,Mercedes,3.0,5.0,10.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+12,,ANT,Mercedes,5.0,6.0,8.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+44,,HAM,Ferrari,7.0,7.0,6.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+55,,SAI,Williams,6.0,8.0,4.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+23,,ALB,Williams,11.0,9.0,2.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+6,,HAD,RB F1 Team,14.0,10.0,1.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+14,,ALO,Aston Martin,13.0,11.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+30,,LAW,RB F1 Team,12.0,12.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+87,,BEA,Haas F1 Team,15.0,13.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+31,,OCO,Haas F1 Team,19.0,14.0,0.0,Finished,,,,2025,5,Saudi Arabian Grand Prix
+27,,HUL,Sauber,18.0,15.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
+18,,STR,Aston Martin,16.0,16.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
+7,,DOO,Alpine F1 Team,17.0,17.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
+5,,BOR,Sauber,20.0,18.0,0.0,Lapped,,,,2025,5,Saudi Arabian Grand Prix
+22,,TSU,Red Bull,8.0,19.0,0.0,Retired,,,,2025,5,Saudi Arabian Grand Prix
+10,,GAS,Alpine F1 Team,9.0,20.0,0.0,Retired,,,,2025,5,Saudi Arabian Grand Prix
+81,,PIA,McLaren,4.0,1.0,25.0,Finished,,,,2025,6,Miami Grand Prix
+4,,NOR,McLaren,2.0,2.0,18.0,Finished,,,,2025,6,Miami Grand Prix
+63,,RUS,Mercedes,5.0,3.0,15.0,Finished,,,,2025,6,Miami Grand Prix
+1,,VER,Red Bull,1.0,4.0,12.0,Finished,,,,2025,6,Miami Grand Prix
+23,,ALB,Williams,7.0,5.0,10.0,Finished,,,,2025,6,Miami Grand Prix
+12,,ANT,Mercedes,3.0,6.0,8.0,Finished,,,,2025,6,Miami Grand Prix
+16,,LEC,Ferrari,8.0,7.0,6.0,Finished,,,,2025,6,Miami Grand Prix
+44,,HAM,Ferrari,12.0,8.0,4.0,Finished,,,,2025,6,Miami Grand Prix
+55,,SAI,Williams,6.0,9.0,2.0,Finished,,,,2025,6,Miami Grand Prix
+22,,TSU,Red Bull,10.0,10.0,1.0,Finished,,,,2025,6,Miami Grand Prix
+6,,HAD,RB F1 Team,11.0,11.0,0.0,Finished,,,,2025,6,Miami Grand Prix
+31,,OCO,Haas F1 Team,9.0,12.0,0.0,Finished,,,,2025,6,Miami Grand Prix
+10,,GAS,Alpine F1 Team,20.0,13.0,0.0,Finished,,,,2025,6,Miami Grand Prix
+27,,HUL,Sauber,16.0,14.0,0.0,Lapped,,,,2025,6,Miami Grand Prix
+14,,ALO,Aston Martin,17.0,15.0,0.0,Lapped,,,,2025,6,Miami Grand Prix
+18,,STR,Aston Martin,18.0,16.0,0.0,Lapped,,,,2025,6,Miami Grand Prix
+30,,LAW,RB F1 Team,15.0,17.0,0.0,Retired,,,,2025,6,Miami Grand Prix
+5,,BOR,Sauber,13.0,18.0,0.0,Retired,,,,2025,6,Miami Grand Prix
+87,,BEA,Haas F1 Team,19.0,19.0,0.0,Retired,,,,2025,6,Miami Grand Prix
+7,,DOO,Alpine F1 Team,14.0,20.0,0.0,Retired,,,,2025,6,Miami Grand Prix
+1,,VER,Red Bull,2.0,1.0,25.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+4,,NOR,McLaren,4.0,2.0,18.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+81,,PIA,McLaren,1.0,3.0,15.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+44,,HAM,Ferrari,12.0,4.0,12.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+23,,ALB,Williams,7.0,5.0,10.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+16,,LEC,Ferrari,11.0,6.0,8.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+63,,RUS,Mercedes,3.0,7.0,6.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+55,,SAI,Williams,6.0,8.0,4.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+6,,HAD,RB F1 Team,9.0,9.0,2.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+22,,TSU,Red Bull,20.0,10.0,1.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+14,,ALO,Aston Martin,5.0,11.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+27,,HUL,Sauber,17.0,12.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+10,,GAS,Alpine F1 Team,10.0,13.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+30,,LAW,RB F1 Team,15.0,14.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+18,,STR,Aston Martin,8.0,15.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+43,,COL,Alpine F1 Team,16.0,16.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+87,,BEA,Haas F1 Team,19.0,17.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+5,,BOR,Sauber,14.0,18.0,0.0,Finished,,,,2025,7,Emilia Romagna Grand Prix
+12,,ANT,Mercedes,13.0,19.0,0.0,Retired,,,,2025,7,Emilia Romagna Grand Prix
+31,,OCO,Haas F1 Team,18.0,20.0,0.0,Retired,,,,2025,7,Emilia Romagna Grand Prix
+4,,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2025,8,Monaco Grand Prix
+16,,LEC,Ferrari,2.0,2.0,18.0,Finished,,,,2025,8,Monaco Grand Prix
+81,,PIA,McLaren,3.0,3.0,15.0,Finished,,,,2025,8,Monaco Grand Prix
+1,,VER,Red Bull,4.0,4.0,12.0,Finished,,,,2025,8,Monaco Grand Prix
+44,,HAM,Ferrari,7.0,5.0,10.0,Finished,,,,2025,8,Monaco Grand Prix
+6,,HAD,RB F1 Team,5.0,6.0,8.0,Lapped,,,,2025,8,Monaco Grand Prix
+31,,OCO,Haas F1 Team,8.0,7.0,6.0,Lapped,,,,2025,8,Monaco Grand Prix
+30,,LAW,RB F1 Team,9.0,8.0,4.0,Lapped,,,,2025,8,Monaco Grand Prix
+23,,ALB,Williams,10.0,9.0,2.0,Lapped,,,,2025,8,Monaco Grand Prix
+55,,SAI,Williams,11.0,10.0,1.0,Lapped,,,,2025,8,Monaco Grand Prix
+63,,RUS,Mercedes,14.0,11.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+87,,BEA,Haas F1 Team,20.0,12.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+43,,COL,Alpine F1 Team,18.0,13.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+5,,BOR,Sauber,16.0,14.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+18,,STR,Aston Martin,19.0,15.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+27,,HUL,Sauber,13.0,16.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+22,,TSU,Red Bull,12.0,17.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+12,,ANT,Mercedes,15.0,18.0,0.0,Lapped,,,,2025,8,Monaco Grand Prix
+14,,ALO,Aston Martin,6.0,19.0,0.0,Retired,,,,2025,8,Monaco Grand Prix
+10,,GAS,Alpine F1 Team,17.0,20.0,0.0,Retired,,,,2025,8,Monaco Grand Prix
