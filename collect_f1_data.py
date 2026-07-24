@@ -61,10 +61,14 @@ def collect_race_results(year: int, round_number: int):
 
     # Keep only the columns we actually need for modeling later.
     # (Full results has ~20 columns, most of it isn't useful yet.)
+    # NOTE: "Time" is each driver's race duration (for the winner) or gap
+    # to the winner (everyone else), as a pandas Timedelta. "FullName" is
+    # just for nicer display later — Abbreviation stays the primary key
+    # used throughout the pipeline.
     keep_cols = [
-        "DriverNumber", "BroadcastName", "Abbreviation", "TeamName",
+        "DriverNumber", "BroadcastName", "FullName", "Abbreviation", "TeamName",
         "GridPosition", "Position", "Points", "Status",
-        "Q1", "Q2", "Q3",
+        "Q1", "Q2", "Q3", "Time",
     ]
     results = results[[c for c in keep_cols if c in results.columns]]
 

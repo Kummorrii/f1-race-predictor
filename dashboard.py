@@ -2,7 +2,7 @@
 F1 Prediction Dashboard — Phase 5 (Visualization)
 ====================================================
 An interactive, professionally styled dashboard for exploring your
-simulation results.
+simulation results AND real season standings.
 
 This is a STREAMLIT app, not a normal Python script — it runs a small
 local web server and opens in your browser. You don't "run" it with
@@ -34,10 +34,6 @@ st.set_page_config(
 # ============================================================
 # STYLING
 # ============================================================
-# Everything in this block is cosmetic — it doesn't touch any of the
-# data or model logic. It: (1) pulls in two Google Fonts, (2) hides
-# Streamlit's default chrome (hamburger menu, footer, colored top bar)
-# for a cleaner look, and (3) defines reusable "card" styles used below.
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Inter:wght@400;500;600&display=swap');
@@ -54,17 +50,9 @@ h1, h2, h3, h4 { font-family: 'Rajdhani', sans-serif !important; font-weight: 70
     border: 1px solid #2A2F3A;
     margin-bottom: 1.5rem;
 }
-.hero h1 {
-    font-size: 2.4rem;
-    margin: 0;
-    color: #F5F5F7;
-}
+.hero h1 { font-size: 2.4rem; margin: 0; color: #F5F5F7; }
 .hero .accent { color: #EF4444; }
-.hero p {
-    color: #9CA3AF;
-    margin: 0.4rem 0 0 0;
-    font-size: 0.95rem;
-}
+.hero p { color: #9CA3AF; margin: 0.4rem 0 0 0; font-size: 0.95rem; }
 .badge {
     display: inline-block;
     margin-top: 0.75rem;
@@ -89,6 +77,13 @@ h1, h2, h3, h4 { font-family: 'Rajdhani', sans-serif !important; font-weight: 70
 .podium-card .stat { color: #EF4444; font-size: 1.8rem; font-weight: 700; font-family: 'Rajdhani', sans-serif; }
 .podium-card .label { color: #9CA3AF; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; }
 
+.section-note {
+    color: #9CA3AF;
+    font-size: 0.85rem;
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+}
+
 .footer-note {
     margin-top: 2rem;
     padding-top: 1rem;
@@ -101,12 +96,7 @@ h1, h2, h3, h4 { font-family: 'Rajdhani', sans-serif !important; font-weight: 70
 
 
 def styled_bar_chart(data: pd.Series, label: str, color: str = "#EF4444"):
-    """
-    A dark-theme-matched, properly sorted bar chart. st.bar_chart on its
-    own always alphabetizes categories no matter how the data was sorted
-    beforehand, so we use Altair directly for control over both sorting
-    and the visual theme.
-    """
+    """Sorted, dark-theme-matched bar chart (Altair, not st.bar_chart, for sort control)."""
     chart_df = data.reset_index()
     chart_df.columns = ["Driver", label]
     chart = (
@@ -124,6 +114,12 @@ def styled_bar_chart(data: pd.Series, label: str, color: str = "#EF4444"):
     return chart
 
 
+def format_gap(seconds):
+    if pd.isna(seconds):
+        return None
+    return f"+{seconds:.1f}s"
+
+
 # ============================================================
 # LOAD DATA
 # ============================================================
@@ -139,8 +135,14 @@ except FileNotFoundError:
 
 summary = summary.sort_values("AvgFinish").reset_index(drop=True)
 
-# Last-updated timestamp, pulled straight from the file itself — this
-# updates automatically every time your GitHub Action re-runs the pipeline.
+# Full race history — used for real season standings. This is optional:
+# if it's missing for some reason, the Standings tab just shows a notice
+# instead of crashing the whole dashboard.
+try:
+    history = pd.read_csv("f1_data/processed_features.csv")
+except FileNotFoundError:
+    history = None
+
 try:
     updated = datetime.fromtimestamp(Path("simulation_results.csv").stat().st_mtime)
     updated_str = updated.strftime("%B %d, %Y")
@@ -153,14 +155,14 @@ except Exception:
 st.markdown(f"""
 <div class="hero">
     <h1>🏁 F1 RACE <span class="accent">PREDICTOR</span></h1>
-    <p>Machine learning predictions from a 5,000-race Monte Carlo simulation,
-    trained on real historical race data.</p>
+    <p>Real season standings, plus machine learning predictions from a
+    5,000-race Monte Carlo simulation trained on historical race data.</p>
     <span class="badge">● Auto-updates weekly · Last updated {updated_str}</span>
 </div>
 """, unsafe_allow_html=True)
 
 # ============================================================
-# TOP 3 FAVORITES — quick-glance cards
+# TOP 3 — NEXT RACE FAVORITES (model prediction, not standings)
 # ============================================================
 top3 = summary.sort_values("WinProb%", ascending=False).head(3).reset_index(drop=True)
 medals = ["🥇", "🥈", "🥉"]
@@ -175,7 +177,7 @@ for i, col in enumerate(cols):
                 <div class="medal">{medals[i]}</div>
                 <div class="driver">{row['Driver']}</div>
                 <div class="stat">{row['WinProb%']:.1f}%</div>
-                <div class="label">Win Probability</div>
+                <div class="label">Next Race Win Chance</div>
             </div>
             """, unsafe_allow_html=True)
 
@@ -184,9 +186,116 @@ st.write("")
 # ============================================================
 # TABS
 # ============================================================
-tab1, tab2, tab3 = st.tabs(["📊 Probabilities", "📋 Full Table", "🔍 Driver Deep Dive"])
+tab0, tab1, tab2, tab3 = st.tabs([
+    "🏆 Standings", "📊 Next Race Predictions", "📋 Full Table", "🔍 Driver Deep Dive"
+])
 
+# ------------------------------------------------------------
+# TAB 0 — Real season standings (actual points, not predictions)
+# ------------------------------------------------------------
+with tab0:
+    st.subheader("Championship Standings")
+
+    if history is None or history.empty:
+        st.info(
+            "No historical race data found (f1_data/processed_features.csv). "
+            "Run the data pipeline first to populate standings."
+        )
+    else:
+        current_season = int(history["Season"].max())
+        st.markdown(
+            f'<div class="section-note">Season {current_season} — actual results '
+            f'from every completed race, not predictions.</div>',
+            unsafe_allow_html=True,
+        )
+
+        season_df = history[history["Season"] == current_season].copy()
+        season_df = season_df.sort_values(["Round"])
+
+        agg_dict = {
+            "Points": ("Points", "sum"),
+            "Races": ("Round", "nunique"),
+            "AvgFinish": ("Position", "mean"),
+            "BestFinish": ("Position", "min"),
+        }
+        # Win/Podium columns only exist if build_features.py's target step ran.
+        if "Win" in season_df.columns:
+            agg_dict["Wins"] = ("Win", "sum")
+        if "Podium" in season_df.columns:
+            agg_dict["Podiums"] = ("Podium", "sum")
+
+        standings = season_df.groupby("Abbreviation", as_index=False).agg(**agg_dict)
+
+        # Most recent team on record for each driver (handles mid-season swaps).
+        latest_team = season_df.sort_values(["Round"]).groupby("Abbreviation")["TeamName"].last()
+        standings["Team"] = standings["Abbreviation"].map(latest_team)
+
+        if "FullName" in season_df.columns:
+            latest_name = season_df.sort_values(["Round"]).groupby("Abbreviation")["FullName"].last()
+            standings["Driver"] = standings["Abbreviation"].map(latest_name).fillna(standings["Abbreviation"])
+        else:
+            standings["Driver"] = standings["Abbreviation"]
+
+        # Average gap to the race winner, in seconds — only meaningful for
+        # races where the driver didn't win. Requires the "Time" column,
+        # which only exists in data collected after this feature was added.
+        if "Time" in season_df.columns:
+            def _gap_seconds(row):
+                try:
+                    if pd.isna(row["Time"]) or row["Position"] == 1:
+                        return None
+                    return pd.to_timedelta(row["Time"]).total_seconds()
+                except Exception:
+                    return None
+
+            season_df["GapSeconds"] = season_df.apply(_gap_seconds, axis=1)
+            avg_gap = season_df.groupby("Abbreviation")["GapSeconds"].mean()
+            standings["AvgGapToWinner"] = standings["Abbreviation"].map(avg_gap).apply(format_gap)
+
+        standings = standings.sort_values("Points", ascending=False).reset_index(drop=True)
+        standings.insert(0, "Rank", range(1, len(standings) + 1))
+
+        display_cols = ["Rank", "Driver", "Team", "Points"]
+        if "Wins" in standings.columns:
+            display_cols.append("Wins")
+        if "Podiums" in standings.columns:
+            display_cols.append("Podiums")
+        display_cols += ["AvgFinish", "BestFinish"]
+        if "AvgGapToWinner" in standings.columns:
+            display_cols.append("AvgGapToWinner")
+
+        column_config = {
+            "Points": st.column_config.ProgressColumn(
+                "Points", min_value=0, max_value=int(standings["Points"].max()), format="%d"
+            ),
+            "AvgFinish": st.column_config.NumberColumn("Avg. Finish", format="%.1f"),
+            "BestFinish": st.column_config.NumberColumn("Best Finish", format="%d"),
+        }
+        if "AvgGapToWinner" in standings.columns:
+            column_config["AvgGapToWinner"] = st.column_config.TextColumn("Avg. Gap to Winner")
+
+        st.dataframe(
+            standings[display_cols],
+            width='stretch',
+            hide_index=True,
+            column_config=column_config,
+        )
+
+        if "Time" not in season_df.columns:
+            st.caption(
+                "⏱️ Time-gap stats aren't available yet — re-run the data "
+                "collection pipeline to backfill them for existing races."
+            )
+
+# ------------------------------------------------------------
+# TAB 1 — Model predictions for the next race
+# ------------------------------------------------------------
 with tab1:
+    st.markdown(
+        '<div class="section-note">Predicted probabilities for the next race, '
+        'from the simulation — not season standings.</div>',
+        unsafe_allow_html=True,
+    )
     col1, col2, col3 = st.columns(3)
     with col1:
         st.subheader("Win Probability")
@@ -224,10 +333,7 @@ with tab3:
     st.subheader("Predicted Finish Spread")
     st.caption(
         "Pick a driver to see the full range of finishing positions the "
-        "simulation produced for them, not just their single average. "
-        "This reflects finishing position across 5,000 simulated races — "
-        "not lap times, since detailed timing data isn't part of the "
-        "current dataset."
+        "simulation produced for them, not just their single average."
     )
 
     chosen_driver = st.selectbox("Driver", summary["Driver"].tolist())
@@ -237,7 +343,6 @@ with tab3:
     full_range = pd.Series(0, index=range(1, raw["Position"].max() + 1))
     position_counts = (position_counts + full_range).fillna(full_range).astype(int)
 
-    # Altair needs the count column named explicitly
     position_df = position_counts.reset_index()
     position_df.columns = ["Position", "count"]
     spread_chart = (
@@ -264,8 +369,8 @@ with tab3:
 # ============================================================
 st.markdown(f"""
 <div class="footer-note">
-    Predictions are generated from historical data and should be read as
-    probabilities, not certainties — motorsport is inherently unpredictable.
-    Pipeline auto-updates weekly via GitHub Actions.
+    Standings reflect actual race results. Predictions are model-generated
+    probabilities for the next race, not certainties — motorsport is
+    inherently unpredictable. Pipeline auto-updates weekly via GitHub Actions.
 </div>
 """, unsafe_allow_html=True)
