@@ -31,6 +31,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Cache FastF1 data between runs
+        uses: actions/cache@v4
+        with:
+          path: f1_cache
+          key: fastf1-cache-${{ github.run_id }}
+          restore-keys: |
+            fastf1-cache-
+
       - name: Collect latest race data
         run: python collect_f1_data.py
 

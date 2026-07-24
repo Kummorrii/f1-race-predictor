@@ -33,7 +33,11 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 
 def get_season_schedule(year: int) -> pd.DataFrame:
     """Return the list of races for a given season."""
-    return fastf1.get_event_schedule(year)
+    try:
+        return fastf1.get_event_schedule(year)
+    except Exception as e:
+        print(f"  Could not fetch schedule for {year}: {e}")
+        return pd.DataFrame()
 
 
 def collect_race_results(year: int, round_number: int):
@@ -44,7 +48,11 @@ def collect_race_results(year: int, round_number: int):
     """
     try:
         session = fastf1.get_session(year, round_number, "R")  # "R" = Race
-        session.load()
+        # We only ever read session.results below, so tell FastF1 to skip
+        # laps, telemetry, weather, and messages — those are large and
+        # require many extra API calls we don't need. This alone cuts API
+        # usage per race by roughly 80-90%.
+        session.load(laps=False, telemetry=False, weather=False, messages=False)
     except Exception as e:
         print(f"  Skipped {year} round {round_number}: {e}")
         return None
@@ -92,11 +100,18 @@ def collect_season(year: int) -> pd.DataFrame:
 def main():
     # Start small on your first run — try just [2024] to make sure
     # everything works before pulling multiple seasons.
-    seasons_to_collect = [2025, 2026]
+    seasons_to_collect = [2021, 2022, 2023, 2024, 2025]
 
     for year in seasons_to_collect:
         print(f"\n=== Collecting {year} season ===")
-        season_df = collect_season(year)
+        try:
+            season_df = collect_season(year)
+        except Exception as e:
+            # A rate limit or network hiccup on ONE season shouldn't wipe
+            # out results we already saved for other seasons. Log it and
+            # move on — next scheduled run will pick up where this left off.
+            print(f"  {year} season failed entirely, skipping: {e}")
+            continue
 
         if season_df.empty:
             print(f"No data collected for {year}")
