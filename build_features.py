@@ -81,7 +81,47 @@ def add_driver_form_features(df: pd.DataFrame) -> pd.DataFrame:
         lambda x: (1 - x.shift(1)).rolling(5, min_periods=1).mean()
     )
 
+    # Rolling qualifying pace trend — only computed if qualifying data was
+    # collected. Uses the SAME shift(1) pattern as everything else, so a
+    # driver's rolling qualifying form only reflects races before this one.
+    if "QualiGapSeconds" in df.columns:
+        df["RecentAvgQualiGap"] = grouped["QualiGapSeconds"].transform(
+            lambda x: x.shift(1).rolling(5, min_periods=1).mean()
+        )
+
     return df.sort_values(["Season", "Round"]).reset_index(drop=True)
+
+
+def add_session_gap_features(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Converts raw qualifying/practice lap TIMES into GAPS to the fastest
+    time set that same round — comparable across different tracks and
+    lengths, unlike a raw lap time. These are same-weekend features (not
+    rolling averages): qualifying and practice happen BEFORE the race, so
+    using them to help predict that race's result isn't a leak of future
+    information — it's the same idea as using grid position.
+
+    NOTE: qualifying data tends to be reliably collected, so
+    QualiGapSeconds is used directly as a model feature. Practice session
+    data is structurally less certain (results aren't always populated
+    the same way, especially in bad weather), so PracticeGapSeconds is
+    computed and saved here for future use, but isn't wired into the
+    model's required features yet — safer to inspect real fill rates
+    first before depending on it.
+    """
+    df = df.copy()
+
+    if "QualiTimeSeconds" in df.columns:
+        session_min = df.groupby(["Season", "Round"])["QualiTimeSeconds"].transform("min")
+        df["QualiGapSeconds"] = df["QualiTimeSeconds"] - session_min
+
+    practice_cols = [c for c in ["FP1TimeSeconds", "FP2TimeSeconds", "FP3TimeSeconds"] if c in df.columns]
+    if practice_cols:
+        df["PracticeBestTimeSeconds"] = df[practice_cols].min(axis=1, skipna=True)
+        practice_min = df.groupby(["Season", "Round"])["PracticeBestTimeSeconds"].transform("min")
+        df["PracticeGapSeconds"] = df["PracticeBestTimeSeconds"] - practice_min
+
+    return df
 
 
 def add_team_form_features(df: pd.DataFrame) -> pd.DataFrame:
@@ -162,6 +202,7 @@ def main():
     df = df[df["Season"] == current_season].reset_index(drop=True)
     print(f"Focusing on season {current_season} only: {len(df)} rows")
 
+    df = add_session_gap_features(df)
     df = add_driver_form_features(df)
     df = add_team_form_features(df)
     df = df.merge(track_history_lookup, on=["Abbreviation", "Season", "Round"], how="left")

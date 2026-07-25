@@ -23,11 +23,12 @@ import joblib
 
 MODEL_PATH = "f1_model.joblib"
 DATA_PATH = "f1_data/processed_features.csv"
-N_SIMULATIONS = 5000
+N_SIMULATIONS = 50000
 
 # Must match the exact column order the model was trained on.
 FEATURE_COLUMNS = [
     "GridPosition",
+    "QualiGapSeconds",
     "RecentAvgFinish",
     "RecentAvgGrid",
     "RecentAvgPoints",
@@ -81,6 +82,17 @@ def build_driver_profiles(df: pd.DataFrame, drivers, upcoming_track: str = None)
             # by qualifying), so we use recent average grid as our best
             # guess until you plug in real qualifying results.
             "GridPosition": recent["GridPosition"].mean(),
+            # Same idea for qualifying pace: we don't know their actual
+            # gap-to-pole for a race that hasn't happened, so we use how
+            # their qualifying gap has trended recently as the estimate.
+            # Falls back to a small neutral gap if this column doesn't
+            # exist yet (e.g. the pipeline hasn't been re-run since this
+            # feature was added).
+            "QualiGapSeconds": (
+                recent["RecentAvgQualiGap"].dropna().iloc[-1]
+                if "RecentAvgQualiGap" in recent.columns and not recent["RecentAvgQualiGap"].dropna().empty
+                else 0.5
+            ),
             "RecentAvgFinish": recent["Position"].mean(),
             "RecentAvgGrid": recent["GridPosition"].mean(),
             "RecentAvgPoints": recent["Points"].mean(),
@@ -183,17 +195,25 @@ def main():
     summary.to_csv("simulation_results.csv", index=False)
     print("\nSaved full results to simulation_results.csv")
 
-    # Also save the RAW per-simulation results (not just the summary).
-    # The dashboard needs this to draw each driver's full "spread" of
-    # possible finishes, not just their average.
+    # Save each driver's finish-position FREQUENCY (how many times out of
+    # N_SIMULATIONS they finished in each position), rather than one row
+    # per individual simulation. The dashboard only ever needs "how often
+    # did this driver finish P5" — never which specific simulation number
+    # produced it — so aggregating first keeps this file tiny (a few
+    # hundred rows) no matter how high N_SIMULATIONS goes, instead of
+    # growing linearly with it.
     n_sim, n_drivers = all_results.shape
-    raw_df = pd.DataFrame({
-        "Simulation": np.repeat(np.arange(n_sim), n_drivers),
+    long_df = pd.DataFrame({
         "Driver": np.tile(driver_list, n_sim),
         "Position": all_results.flatten().astype(int),
     })
+    raw_df = (
+        long_df.groupby(["Driver", "Position"])
+        .size()
+        .reset_index(name="Count")
+    )
     raw_df.to_csv("raw_simulation_results.csv", index=False)
-    print("Saved raw simulation data to raw_simulation_results.csv")
+    print(f"Saved aggregated simulation data ({len(raw_df)} rows) to raw_simulation_results.csv")
 
 
 if __name__ == "__main__":

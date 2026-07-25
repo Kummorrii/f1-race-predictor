@@ -75,12 +75,103 @@ def collect_race_results(year: int, round_number: int):
     return results
 
 
-def collect_sprint_points(year: int, round_number: int):
+def _to_seconds(value):
+    """Convert a lap/session time (pandas Timedelta, or its string form) to
+    plain seconds, or None if it's missing/unparseable. Used for turning
+    qualifying and practice lap times into a single comparable number."""
+    try:
+        if pd.isna(value) or value == "":
+            return None
+        return pd.to_timedelta(value).total_seconds()
+    except Exception:
+        return None
+
+
+def collect_qualifying(year: int, round_number: int):
+    """
+    Qualifying sets the grid and happens BEFORE the race, so it's
+    legitimate same-weekend predictive signal (not a leak of future
+    information) — much like grid position already is.
+
+    Returns a DataFrame of [Abbreviation, QualiPosition, QualiTimeSeconds]
+    or None if the session can't be loaded.
+    """
+    try:
+        session = fastf1.get_session(year, round_number, "Q")  # "Q" = Qualifying
+        session.load(laps=False, telemetry=False, weather=False, messages=False)
+    except Exception:
+        return None
+
+    results = session.results.copy()
+    if "Abbreviation" not in results.columns:
+        return None
+
+    # A driver's best time is whichever of Q1/Q2/Q3 they set — drivers
+    # eliminated early only have a Q1 time, drivers who reach Q3 have all
+    # three. Taking the minimum of whatever exists gives their best lap
+    # regardless of how far they advanced.
+    time_cols = [c for c in ["Q1", "Q2", "Q3"] if c in results.columns]
+    if time_cols:
+        results["QualiTimeSeconds"] = results[time_cols].apply(
+            lambda row: min([s for s in (_to_seconds(v) for v in row) if s is not None], default=None),
+            axis=1,
+        )
+    else:
+        results["QualiTimeSeconds"] = None
+
+    out_cols = ["Abbreviation", "QualiTimeSeconds"]
+    if "Position" in results.columns:
+        results = results.rename(columns={"Position": "QualiPosition"})
+        out_cols.insert(1, "QualiPosition")
+
+    return results[out_cols]
+
+
+def collect_practice(year: int, round_number: int, session_code: str):
+    """
+    Practice session best lap time, as a rough pre-race pace indicator.
+    NOTE: this is the least certain part of data collection — FastF1's
+    results table is well-documented for Race/Qualifying/Sprint, but
+    practice session results can be sparser (not every driver sets a
+    representative lap, e.g. if a session is rain-affected). Treat this
+    column as a useful-but-noisy signal, not a fully reliable one.
+
+    session_code: "FP1", "FP2", or "FP3"
+    Returns [Abbreviation, "{session_code}TimeSeconds"] or None.
+    """
+    try:
+        session = fastf1.get_session(year, round_number, session_code)
+        session.load(laps=False, telemetry=False, weather=False, messages=False)
+    except Exception:
+        return None  # Common on sprint weekends — FP2/FP3 don't exist then
+
+    results = session.results.copy()
+    if "Abbreviation" not in results.columns:
+        return None
+
+    time_col = None
+    for candidate in ["Time", "Q1"]:  # some FastF1 versions reuse "Q1" for best-lap in practice
+        if candidate in results.columns:
+            time_col = candidate
+            break
+    if time_col is None:
+        return None
+
+    col_name = f"{session_code}TimeSeconds"
+    results[col_name] = results[time_col].apply(_to_seconds)
+    valid = results[["Abbreviation", col_name]].dropna()
+    return valid if not valid.empty else None
+
+
+def collect_sprint(year: int, round_number: int):
     """
     Some race weekends include a Sprint race worth extra championship
     points (up to 8 for the winner) — a completely separate session from
-    the main Race. Not every round has one, so a failure here is the
-    NORMAL case for a non-sprint weekend, not an error.
+    the main Race, and one that happens BEFORE it. Not every round has
+    one, so a failure here is the NORMAL case for a non-sprint weekend,
+    not an error.
+
+    Returns [Abbreviation, SprintPosition, SprintPoints] or None.
     """
     try:
         session = fastf1.get_session(year, round_number, "S")  # "S" = Sprint
@@ -92,11 +183,15 @@ def collect_sprint_points(year: int, round_number: int):
     if "Abbreviation" not in results.columns or "Points" not in results.columns:
         return None
 
-    return results[["Abbreviation", "Points"]].rename(columns={"Points": "SprintPoints"})
+    out = results[["Abbreviation", "Points"]].rename(columns={"Points": "SprintPoints"})
+    if "Position" in results.columns:
+        out["SprintPosition"] = results["Position"]
+    return out
 
 
 def collect_season(year: int) -> pd.DataFrame:
-    """Collect every race in a season into one DataFrame."""
+    """Collect every race weekend — race, qualifying, practice, and sprint
+    (where it exists) — into one DataFrame, one row per driver per round."""
     schedule = get_season_schedule(year)
     all_results = []
 
@@ -108,16 +203,32 @@ def collect_season(year: int) -> pd.DataFrame:
         print(f"Collecting {year} Round {round_number}: {event['EventName']}")
         race_df = collect_race_results(year, round_number)
 
-        if race_df is not None:
-            sprint_points = collect_sprint_points(year, round_number)
-            if sprint_points is not None:
-                race_df = race_df.merge(sprint_points, on="Abbreviation", how="left")
-                race_df["SprintPoints"] = race_df["SprintPoints"].fillna(0)
-                race_df["Points"] = race_df["Points"] + race_df["SprintPoints"]
-                print(f"  + Sprint found for round {round_number}, points added")
-            else:
-                race_df["SprintPoints"] = 0
-            all_results.append(race_df)
+        if race_df is None:
+            continue
+
+        # --- Sprint (points + position), where it exists ---
+        sprint = collect_sprint(year, round_number)
+        if sprint is not None:
+            race_df = race_df.merge(sprint, on="Abbreviation", how="left")
+            race_df["SprintPoints"] = race_df["SprintPoints"].fillna(0)
+            race_df["Points"] = race_df["Points"] + race_df["SprintPoints"]
+            print(f"  + Sprint found for round {round_number}, points added")
+        else:
+            race_df["SprintPoints"] = 0
+
+        # --- Qualifying: sets the grid, happens before the race ---
+        quali = collect_qualifying(year, round_number)
+        if quali is not None:
+            race_df = race_df.merge(quali, on="Abbreviation", how="left")
+            print(f"  + Qualifying data found for round {round_number}")
+
+        # --- Practice: rough pre-race pace indicator ---
+        for session_code in ["FP1", "FP2", "FP3"]:
+            practice = collect_practice(year, round_number, session_code)
+            if practice is not None:
+                race_df = race_df.merge(practice, on="Abbreviation", how="left")
+
+        all_results.append(race_df)
 
     if not all_results:
         return pd.DataFrame()

@@ -23,8 +23,12 @@ import joblib
 # Notice GridPosition IS included — where you start is a huge predictor of
 # where you finish — but Position, Points, Status are NOT included, since
 # those are the answer we're trying to predict, not an input.
+# QualiGapSeconds is also fair game even though it's from THIS race weekend
+# — qualifying happens before the race, so it's pre-race information, not
+# a leak of the result we're trying to predict (same logic as GridPosition).
 FEATURE_COLUMNS = [
     "GridPosition",
+    "QualiGapSeconds",
     "RecentAvgFinish",
     "RecentAvgGrid",
     "RecentAvgPoints",

@@ -460,11 +460,15 @@ with tab1:
     with col_side:
         st.markdown('<div class="panel"><h4>Outcome Breakdown — Top Favorite</h4>', unsafe_allow_html=True)
         favorite = win_ranked.iloc[0]
-        fav_positions = raw[raw["Driver"] == favorite["Driver"]]["Position"]
-        if len(fav_positions) > 0:
-            win_pct = (fav_positions == 1).mean() * 100
-            podium_pct = ((fav_positions <= 3) & (fav_positions > 1)).mean() * 100
-            points_pct = ((fav_positions <= 10) & (fav_positions > 3)).mean() * 100
+        fav_counts = raw[raw["Driver"] == favorite["Driver"]][["Position", "Count"]]
+        total_sims = fav_counts["Count"].sum()
+        if total_sims > 0:
+            def _pct(mask):
+                return fav_counts.loc[mask, "Count"].sum() / total_sims * 100
+
+            win_pct = _pct(fav_counts["Position"] == 1)
+            podium_pct = _pct((fav_counts["Position"] <= 3) & (fav_counts["Position"] > 1))
+            points_pct = _pct((fav_counts["Position"] <= 10) & (fav_counts["Position"] > 3))
             other_pct = max(100 - win_pct - podium_pct - points_pct, 0)
 
             segments = [
@@ -475,7 +479,7 @@ with tab1:
             ]
             components.html(
                 animated_donut_html(segments, center_label=str(favorite["DriverName"]).split()[0],
-                                     center_sub="5,000 sims", size=190),
+                                     center_sub=f"{total_sims:,} sims", size=190),
                 height=250, scrolling=False,
             )
         st.markdown('</div>', unsafe_allow_html=True)
@@ -536,10 +540,9 @@ with tab3:
     chosen_name = st.selectbox("Driver", summary["DriverName"].tolist())
     chosen_driver = name_to_abbr[chosen_name]
 
-    driver_positions = raw[raw["Driver"] == chosen_driver]["Position"]
-    position_counts = driver_positions.value_counts().sort_index()
-    full_range = pd.Series(0, index=range(1, raw["Position"].max() + 1))
-    position_counts = (position_counts + full_range).fillna(full_range).astype(int)
+    driver_counts = raw[raw["Driver"] == chosen_driver][["Position", "Count"]].set_index("Position")["Count"]
+    full_range = pd.Series(0, index=range(1, int(raw["Position"].max()) + 1))
+    position_counts = (driver_counts.reindex(full_range.index, fill_value=0)).astype(int)
 
     bar_data = [(f"P{pos}", count) for pos, count in position_counts.items()]
 
@@ -548,10 +551,11 @@ with tab3:
                      height=32 * len(bar_data) + 20, scrolling=False)
     st.markdown('</div>', unsafe_allow_html=True)
 
+    nonzero = position_counts[position_counts > 0]
     col_a, col_b, col_c = st.columns(3)
-    col_a.metric("Most likely finish", int(driver_positions.mode()[0]))
-    col_b.metric("Best simulated finish", int(driver_positions.min()))
-    col_c.metric("Worst simulated finish", int(driver_positions.max()))
+    col_a.metric("Most likely finish", int(position_counts.idxmax()))
+    col_b.metric("Best simulated finish", int(nonzero.index.min()))
+    col_c.metric("Worst simulated finish", int(nonzero.index.max()))
 
 # ------------------------------------------------------------
 # TAB 4 — 2025 season archive
