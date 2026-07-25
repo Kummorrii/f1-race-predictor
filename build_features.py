@@ -135,6 +135,20 @@ def build_train_test_split(df: pd.DataFrame, test_races: int = 5):
 def main():
     df = load_all_races()
     print(f"Loaded {len(df)} driver-race rows total across all collected seasons")
+    df = add_target_columns(df)
+
+    # Track history is inherently a multi-season idea — "this driver has
+    # historically been strong at this track" — and each Grand Prix only
+    # happens once per season, so within a single season there's never a
+    # "prior visit" to look back at. We compute it from the FULL history
+    # (all seasons) here, before filtering, then carry just that one
+    # column forward. Recent-form and team-form features, by contrast,
+    # SHOULD stay season-scoped (see below) since we don't want those
+    # blending in patterns from before the 2026 regulation change.
+    track_history_full = add_track_history_features(df.copy())
+    track_history_lookup = track_history_full[
+        ["Abbreviation", "Season", "Round", "TrackHistoryAvgFinish"]
+    ]
 
     # Focus the model on the CURRENT season only. Older seasons (like
     # 2025) may have run under different technical regulations, so
@@ -148,10 +162,9 @@ def main():
     df = df[df["Season"] == current_season].reset_index(drop=True)
     print(f"Focusing on season {current_season} only: {len(df)} rows")
 
-    df = add_target_columns(df)
     df = add_driver_form_features(df)
     df = add_team_form_features(df)
-    df = add_track_history_features(df)
+    df = df.merge(track_history_lookup, on=["Abbreviation", "Season", "Round"], how="left")
 
     # Early-season rows won't have enough history for some features —
     # that's expected, not a bug. We leave the NaNs in the saved file so
