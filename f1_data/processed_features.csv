@@ -1,221 +1,221 @@
-DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName,SprintPoints,DidFinish,Podium,Win,RecentAvgFinish,RecentAvgGrid,RecentAvgPoints,RecentDNFRate,TeamRecentAvgPoints,TrackHistoryAvgFinish
-43,,Franco Colapinto,COL,Alpine F1 Team,16.0,14.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,
-10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,10.0,1.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,0.0,11.5
-14,,Fernando Alonso,ALO,Aston Martin,17.0,18.0,0.0,Retired,,,,2026,1,Australian Grand Prix,0.0,0,0,0,,,,,,11.25
-18,,Lance Stroll,STR,Aston Martin,22.0,17.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,0.0,7.0
-5,,Gabriel Bortoleto,BOR,Audi,10.0,9.0,2.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,16.0
-27,,Nico Hülkenberg,HUL,Audi,11.0,22.0,0.0,Did not start,,,,2026,1,Australian Grand Prix,0.0,0,0,0,,,,,2.0,7.666666666666667
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,19.0,0.0,Retired,,,,2026,1,Australian Grand Prix,0.0,0,0,0,,,,,,11.0
-11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,16.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,0.0,4.0
-44,,Lewis Hamilton,HAM,Ferrari,7.0,4.0,12.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,8.5
-16,,Charles Leclerc,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1,1,0,,,,,12.0,7.75
-87,,Oliver Bearman,BEA,Haas F1 Team,12.0,7.0,6.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,14.0
-31,,Esteban Ocon,OCO,Haas F1 Team,13.0,11.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,6.0,12.5
-1,,Lando Norris,NOR,McLaren,6.0,5.0,10.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,3.75
-81,,Oscar Piastri,PIA,McLaren,5.0,21.0,0.0,Did not start,,,,2026,1,Australian Grand Prix,0.0,0,0,0,,,,,10.0,7.0
-12,,Andrea Kimi Antonelli,ANT,Mercedes,2.0,2.0,18.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1,1,0,,,,,,4.0
-63,,George Russell,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1,1,1,,,,,18.0,10.25
-30,,Liam Lawson,LAW,RB F1 Team,8.0,13.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,15.0
-41,,Arvid Lindblad,LIN,RB F1 Team,9.0,8.0,4.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,0.0,
-6,,Isack Hadjar,HAD,Red Bull,3.0,20.0,0.0,Retired,,,,2026,1,Australian Grand Prix,0.0,0,0,0,,,,,,20.0
-3,,Max Verstappen,VER,Red Bull,20.0,6.0,8.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,0.0,10.0
-23,,Alexander Albon,ALB,Williams,15.0,12.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,,11.25
-55,,Carlos Sainz,SAI,Williams,21.0,15.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,1,0,0,,,,,0.0,12.75
-43,,Franco Colapinto,COL,Alpine F1 Team,12.0,10.0,1.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,14.0,16.0,0.0,0.0,0.5,
-10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,6.0,8.0,Finished,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,10.0,14.0,1.0,0.0,0.6666666666666666,16.5
-14,,Fernando Alonso,ALO,Aston Martin,18.0,17.0,0.0,Retired,,,,2026,2,Chinese Grand Prix,0.0,0,0,0,18.0,17.0,0.0,1.0,0.0,12.0
-18,,Lance Stroll,STR,Aston Martin,20.0,18.0,0.0,Retired,,,,2026,2,Chinese Grand Prix,0.0,0,0,0,17.0,22.0,0.0,0.0,0.0,12.0
-5,,Gabriel Bortoleto,BOR,Audi,16.0,21.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix,0.0,0,0,0,9.0,10.0,2.0,0.0,1.0,14.0
-27,,Nico Hülkenberg,HUL,Audi,11.0,11.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,22.0,11.0,0.0,1.0,0.6666666666666666,12.5
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,13.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,19.0,19.0,0.0,1.0,0.0,20.0
-11,,Sergio Pérez,PER,Cadillac F1 Team,21.0,15.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,16.0,18.0,0.0,0.0,0.0,3.0
-44,,Lewis Hamilton,HAM,Ferrari,3.0,3.0,21.0,Finished,,,,2026,2,Chinese Grand Prix,6.0,1,1,0,4.0,7.0,12.0,0.0,13.5,14.0
-16,,Charles Leclerc,LEC,Ferrari,4.0,4.0,19.0,Finished,,,,2026,2,Chinese Grand Prix,7.0,1,0,0,3.0,4.0,15.0,0.0,16.0,11.0
-87,,Oliver Bearman,BEA,Haas F1 Team,10.0,5.0,11.0,Finished,,,,2026,2,Chinese Grand Prix,1.0,1,0,0,7.0,12.0,6.0,0.0,3.0,8.0
-31,,Esteban Ocon,OCO,Haas F1 Team,13.0,14.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,11.0,13.0,0.0,0.0,5.666666666666667,8.0
-1,,Lando Norris,NOR,McLaren,6.0,20.0,5.0,Did not start,,,,2026,2,Chinese Grand Prix,5.0,0,0,0,5.0,6.0,10.0,0.0,5.0,2.0
-81,,Oscar Piastri,PIA,McLaren,5.0,19.0,3.0,Did not start,,,,2026,2,Chinese Grand Prix,3.0,0,0,0,21.0,5.0,0.0,1.0,5.0,4.5
-12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,29.0,Finished,,,,2026,2,Chinese Grand Prix,4.0,1,1,1,2.0,2.0,18.0,0.0,21.5,6.0
-63,,George Russell,RUS,Mercedes,2.0,2.0,26.0,Finished,,,,2026,2,Chinese Grand Prix,8.0,1,1,0,1.0,1.0,25.0,0.0,24.0,4.5
-30,,Liam Lawson,LAW,RB F1 Team,14.0,7.0,8.0,Finished,,,,2026,2,Chinese Grand Prix,2.0,1,0,0,13.0,8.0,0.0,0.0,2.0,12.0
-41,,Arvid Lindblad,LIN,RB F1 Team,15.0,12.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,8.0,9.0,4.0,0.0,4.0,
-6,,Isack Hadjar,HAD,Red Bull,9.0,8.0,4.0,Finished,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,20.0,3.0,0.0,1.0,4.0,11.0
-3,,Max Verstappen,VER,Red Bull,8.0,16.0,0.0,Retired,,,,2026,2,Chinese Grand Prix,0.0,0,0,0,6.0,20.0,8.0,0.0,4.0,2.5
-23,,Alexander Albon,ALB,Williams,22.0,22.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix,0.0,0,0,0,12.0,15.0,0.0,0.0,0.0,9.5
-55,,Carlos Sainz,SAI,Williams,17.0,9.0,2.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,1,0,0,15.0,21.0,0.0,0.0,0.0,7.5
-43,,Franco Colapinto,COL,Alpine F1 Team,15.0,16.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,12.0,14.0,0.5,0.0,2.5,
-10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,7.0,6.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,8.0,10.5,4.5,0.0,2.0,14.25
-14,,Fernando Alonso,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,17.5,17.5,0.0,1.0,0.0,8.0
-18,,Lance Stroll,STR,Aston Martin,22.0,21.0,0.0,Retired,,,,2026,3,Japanese Grand Prix,0.0,0,0,0,17.5,21.0,0.0,0.5,0.0,15.5
-5,,Gabriel Bortoleto,BOR,Audi,9.0,13.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,15.0,13.0,1.0,0.5,0.5,19.0
-27,,Nico Hülkenberg,HUL,Audi,13.0,11.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,16.5,11.0,0.0,0.5,0.4,13.666666666666666
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,19.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,16.0,19.0,0.0,0.5,0.0,16.333333333333332
-11,,Sergio Pérez,PER,Cadillac F1 Team,19.0,17.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,15.5,19.5,0.0,0.0,0.0,7.666666666666667
-44,,Lewis Hamilton,HAM,Ferrari,6.0,6.0,8.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,3.5,5.0,16.5,0.0,16.75,6.5
-16,,Charles Leclerc,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,1,0,3.5,4.0,17.0,0.0,15.0,3.75
-87,,Oliver Bearman,BEA,Haas F1 Team,18.0,22.0,0.0,Retired,,,,2026,3,Japanese Grand Prix,0.0,0,0,0,6.0,11.0,8.5,0.0,4.25,10.0
-31,,Esteban Ocon,OCO,Haas F1 Team,12.0,10.0,1.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,12.5,13.0,0.0,0.0,3.4,11.5
-1,,Lando Norris,NOR,McLaren,5.0,5.0,10.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,12.5,6.0,7.5,0.5,4.5,4.75
-81,,Oscar Piastri,PIA,McLaren,3.0,2.0,18.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,1,0,20.0,5.0,1.5,1.0,5.6,4.666666666666667
-12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,1,1,1.5,1.5,23.5,0.0,24.5,6.0
-63,,George Russell,RUS,Mercedes,2.0,4.0,12.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,1.5,1.5,25.5,0.0,24.6,6.75
-30,,Liam Lawson,LAW,RB F1 Team,14.0,9.0,2.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,10.0,11.0,4.0,0.0,3.0,14.0
-41,,Arvid Lindblad,LIN,RB F1 Team,10.0,14.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,10.0,12.0,2.0,0.0,2.8,
-6,,Isack Hadjar,HAD,Red Bull,8.0,12.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,14.0,6.0,2.0,0.5,3.0,8.0
-3,,Max Verstappen,VER,Red Bull,11.0,8.0,4.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,11.0,14.0,4.0,0.5,2.4,1.0
-23,,Alexander Albon,ALB,Williams,17.0,20.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,17.0,18.5,0.0,0.5,0.5,16.25
-55,,Carlos Sainz,SAI,Williams,16.0,15.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1,0,0,12.0,19.0,1.0,0.0,0.4,10.5
-43,,Franco Colapinto,COL,Alpine F1 Team,8.0,7.0,6.0,Finished,,,,2026,4,Miami Grand Prix,0.0,1,0,0,13.333333333333334,14.333333333333334,0.3333333333333333,0.0,2.6666666666666665,
-10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,21.0,1.0,Retired,,,,2026,4,Miami Grand Prix,1.0,0,0,0,7.666666666666667,9.333333333333334,5.0,0.0,3.142857142857143,12.75
-14,,Fernando Alonso,ALO,Aston Martin,17.0,15.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,17.666666666666668,18.666666666666668,0.0,0.6666666666666666,0.0,9.5
-18,,Lance Stroll,STR,Aston Martin,18.0,17.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,18.666666666666668,21.333333333333332,0.0,0.6666666666666666,0.0,13.75
-5,,Gabriel Bortoleto,BOR,Audi,21.0,12.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,14.333333333333334,11.666666666666666,0.6666666666666666,0.3333333333333333,0.3333333333333333,18.0
-27,,Nico Hülkenberg,HUL,Audi,10.0,19.0,0.0,Retired,,,,2026,4,Miami Grand Prix,0.0,0,0,0,14.666666666666666,11.666666666666666,0.0,0.3333333333333333,0.2857142857142857,13.333333333333334
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,18.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,17.0,19.333333333333332,0.0,0.3333333333333333,0.0,12.0
-11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,16.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,16.0,19.333333333333332,0.0,0.0,0.0,3.3333333333333335
-44,,Lewis Hamilton,HAM,Ferrari,6.0,6.0,10.0,Finished,,,,2026,4,Miami Grand Prix,2.0,1,0,0,4.333333333333333,5.333333333333333,13.666666666666666,0.0,15.0,6.5
-16,,Charles Leclerc,LEC,Ferrari,3.0,8.0,10.0,Finished,,,,2026,4,Miami Grand Prix,6.0,1,0,0,3.3333333333333335,4.0,16.333333333333332,0.0,14.285714285714286,4.75
-87,,Oliver Bearman,BEA,Haas F1 Team,12.0,11.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,11.333333333333334,13.333333333333334,5.666666666666667,0.3333333333333333,3.0,19.0
-31,,Esteban Ocon,OCO,Haas F1 Team,14.0,13.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,11.666666666666666,12.666666666666666,0.3333333333333333,0.0,2.5714285714285716,9.75
-1,,Lando Norris,NOR,McLaren,4.0,2.0,26.0,Finished,,,,2026,4,Miami Grand Prix,8.0,1,1,0,10.0,5.666666666666667,8.333333333333334,0.3333333333333333,7.666666666666667,9.75
-81,,Oscar Piastri,PIA,McLaren,7.0,3.0,22.0,Finished,,,,2026,4,Miami Grand Prix,7.0,1,1,0,14.0,4.333333333333333,7.0,0.6666666666666666,10.285714285714286,11.0
-12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,28.0,Finished,,,,2026,4,Miami Grand Prix,3.0,1,1,1,1.3333333333333333,1.3333333333333333,24.0,0.0,22.5,6.0
-63,,George Russell,RUS,Mercedes,5.0,4.0,17.0,Finished,,,,2026,4,Miami Grand Prix,5.0,1,0,0,2.3333333333333335,1.6666666666666667,21.0,0.0,23.285714285714285,5.0
-30,,Liam Lawson,LAW,RB F1 Team,11.0,20.0,0.0,Retired,,,,2026,4,Miami Grand Prix,0.0,0,0,0,9.666666666666666,12.0,3.3333333333333335,0.0,2.3333333333333335,17.0
-41,,Arvid Lindblad,LIN,RB F1 Team,16.0,14.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,1,0,0,11.333333333333334,11.333333333333334,1.3333333333333333,0.0,2.0,
-6,,Isack Hadjar,HAD,Red Bull,22.0,22.0,0.0,Retired,,,,2026,4,Miami Grand Prix,0.0,0,0,0,13.333333333333334,6.666666666666667,1.3333333333333333,0.3333333333333333,2.6666666666666665,11.0
-3,,Max Verstappen,VER,Red Bull,2.0,5.0,14.0,Finished,,,,2026,4,Miami Grand Prix,4.0,1,0,0,10.0,13.0,4.0,0.3333333333333333,2.2857142857142856,2.0
-23,,Alexander Albon,ALB,Williams,15.0,10.0,1.0,Finished,,,,2026,4,Miami Grand Prix,0.0,1,0,0,18.0,18.0,0.0,0.3333333333333333,0.3333333333333333,11.5
-55,,Carlos Sainz,SAI,Williams,13.0,9.0,2.0,Finished,,,,2026,4,Miami Grand Prix,0.0,1,0,0,13.0,18.0,0.6666666666666666,0.0,0.42857142857142855,5.5
-43,,Franco Colapinto,COL,Alpine F1 Team,10.0,6.0,8.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,11.75,12.75,1.75,0.0,2.875,13.0
-10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,8.0,4.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,11.0,9.25,4.0,0.25,3.4444444444444446,12.5
-14,,Fernando Alonso,ALO,Aston Martin,19.0,20.0,0.0,Retired,,,,2026,5,Canadian Grand Prix,0.0,0,0,0,17.0,18.25,0.0,0.5,0.0,6.0
-18,,Lance Stroll,STR,Aston Martin,22.0,15.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,18.25,20.5,0.0,0.5,0.0,10.75
-5,,Gabriel Bortoleto,BOR,Audi,13.0,13.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,13.75,14.0,0.5,0.25,0.25,14.0
-27,,Nico Hülkenberg,HUL,Audi,11.0,12.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,15.75,11.25,0.0,0.5,0.2222222222222222,11.333333333333334
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,21.0,16.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,17.25,19.25,0.0,0.25,0.0,10.0
-11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,17.0,0.0,Retired,,,,2026,5,Canadian Grand Prix,0.0,0,0,0,16.0,19.5,0.0,0.0,0.0,14.666666666666666
-44,,Lewis Hamilton,HAM,Ferrari,5.0,2.0,21.0,Finished,,,,2026,5,Canadian Grand Prix,3.0,1,1,0,4.75,5.5,12.75,0.0,13.75,4.0
-16,,Charles Leclerc,LEC,Ferrari,8.0,4.0,16.0,Finished,,,,2026,5,Canadian Grand Prix,4.0,1,0,0,4.5,3.75,14.75,0.0,14.555555555555555,8.25
-87,,Oliver Bearman,BEA,Haas F1 Team,16.0,10.0,1.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,11.25,13.0,4.25,0.25,2.25,11.0
-31,,Esteban Ocon,OCO,Haas F1 Team,17.0,14.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,12.0,13.0,0.25,0.0,2.111111111111111,8.25
-1,,Lando Norris,NOR,McLaren,3.0,18.0,7.0,Retired,,,,2026,5,Canadian Grand Prix,7.0,0,0,0,8.0,5.25,12.75,0.25,11.75,12.0
-81,,Oscar Piastri,PIA,McLaren,4.0,11.0,5.0,Lapped,,,,2026,5,Canadian Grand Prix,5.0,1,0,0,11.25,5.0,10.75,0.5,11.222222222222221,6.666666666666667
-12,,Andrea Kimi Antonelli,ANT,Mercedes,2.0,1.0,31.0,Finished,,,,2026,5,Canadian Grand Prix,6.0,1,1,1,1.25,1.25,25.0,0.0,22.5,3.0
-63,,George Russell,RUS,Mercedes,1.0,19.0,8.0,Retired,,,,2026,5,Canadian Grand Prix,8.0,0,0,0,2.75,2.5,20.0,0.0,23.444444444444443,6.75
-30,,Liam Lawson,LAW,RB F1 Team,12.0,7.0,6.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,12.25,11.75,2.5,0.25,1.75,19.0
-41,,Arvid Lindblad,LIN,RB F1 Team,9.0,22.0,1.0,Did not start,,,,2026,5,Canadian Grand Prix,1.0,0,0,0,12.0,12.5,1.0,0.0,2.2222222222222223,
-6,,Isack Hadjar,HAD,Red Bull,7.0,5.0,10.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,15.5,10.5,1.0,0.5,3.75,16.0
-3,,Max Verstappen,VER,Red Bull,6.0,3.0,17.0,Finished,,,,2026,5,Canadian Grand Prix,2.0,1,1,0,8.75,10.25,6.5,0.25,4.444444444444445,1.25
-23,,Alexander Albon,ALB,Williams,18.0,21.0,0.0,Retired,,,,2026,5,Canadian Grand Prix,0.0,0,0,0,16.0,17.25,0.25,0.25,0.625,14.25
-55,,Carlos Sainz,SAI,Williams,15.0,9.0,2.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,1,0,0,12.0,16.75,1.0,0.0,0.5555555555555556,8.25
-43,,Franco Colapinto,COL,Alpine F1 Team,14.0,14.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,10.6,12.2,3.0,0.0,3.5,13.0
-10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,3.0,15.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,1,0,10.4,10.2,4.0,0.2,3.5,10.8
-14,,Fernando Alonso,ALO,Aston Martin,21.0,10.0,1.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,17.6,18.4,0.0,0.6,0.0,10.4
-18,,Lance Stroll,STR,Aston Martin,22.0,18.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,17.6,20.8,0.0,0.4,0.1,14.2
-5,,Gabriel Bortoleto,BOR,Audi,16.0,11.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,13.6,13.8,0.4,0.2,0.2,14.0
-27,,Nico Hülkenberg,HUL,Audi,13.0,13.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,15.0,11.2,0.0,0.4,0.0,17.333333333333332
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,21.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,17.0,19.6,0.0,0.2,0.0,13.0
-11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,15.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,16.2,19.6,0.0,0.2,0.0,9.75
-44,,Lewis Hamilton,HAM,Ferrari,3.0,2.0,18.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,1,0,4.2,5.4,14.4,0.0,14.7,6.2
-16,,Charles Leclerc,LEC,Ferrari,4.0,17.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,4.4,4.6,15.0,0.0,15.3,6.6
-87,,Oliver Bearman,BEA,Haas F1 Team,19.0,20.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,11.0,13.6,3.6,0.2,1.9,12.0
-31,,Esteban Ocon,OCO,Haas F1 Team,17.0,9.0,2.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,12.4,13.8,0.2,0.0,1.3,9.6
-1,,Lando Norris,NOR,McLaren,8.0,19.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,10.0,4.8,11.6,0.4,10.6,4.6
-81,,Oscar Piastri,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,11.2,4.8,9.6,0.4,9.6,5.0
-12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,1,1,1.2,1.4,26.2,0.0,21.9,18.0
-63,,George Russell,RUS,Mercedes,6.0,12.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,6.0,2.2,17.6,0.2,22.6,8.0
-30,,Liam Lawson,LAW,RB F1 Team,10.0,6.0,8.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,11.2,11.8,3.2,0.2,2.1,8.0
-41,,Arvid Lindblad,LIN,RB F1 Team,15.0,7.0,6.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,14.0,11.8,1.0,0.2,2.9,
-6,,Isack Hadjar,HAD,Red Bull,5.0,4.0,12.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,13.4,9.8,2.8,0.4,5.7,6.0
-3,,Max Verstappen,VER,Red Bull,2.0,22.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,7.6,9.4,8.6,0.2,6.9,3.0
-23,,Alexander Albon,ALB,Williams,11.0,8.0,4.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1,0,0,17.0,17.4,0.2,0.4,0.7,12.5
-55,,Carlos Sainz,SAI,Williams,12.0,16.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,0,0,0,11.4,16.4,1.2,0.0,1.1,5.0
-43,,Franco Colapinto,COL,Alpine F1 Team,13.0,10.0,1.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,10.6,11.8,3.0,0.0,4.9,
-10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,7.0,6.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,9.0,9.2,6.8,0.2,4.9,
-14,,Fernando Alonso,ALO,Aston Martin,22.0,19.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,16.0,19.2,0.2,0.4,0.1,
-18,,Lance Stroll,STR,Aston Martin,21.0,22.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,17.8,20.8,0.0,0.6,0.1,
-5,,Gabriel Bortoleto,BOR,Audi,12.0,11.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,14.0,15.0,0.0,0.2,0.0,
-27,,Nico Hülkenberg,HUL,Audi,9.0,20.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,13.2,11.6,0.0,0.2,0.0,
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,21.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,17.4,19.8,0.0,0.2,0.0,
-11,,Sergio Pérez,PER,Cadillac F1 Team,19.0,14.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,16.0,19.6,0.0,0.2,0.0,
-44,,Lewis Hamilton,HAM,Ferrari,2.0,1.0,25.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,1,1,1,3.8,4.6,15.6,0.0,13.8,
-16,,Charles Leclerc,LEC,Ferrari,10.0,15.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,7.2,4.6,12.0,0.2,14.2,
-87,,Oliver Bearman,BEA,Haas F1 Team,15.0,17.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,13.6,15.0,2.4,0.4,1.5,
-31,,Esteban Ocon,OCO,Haas F1 Team,17.0,13.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,12.0,14.6,0.6,0.0,0.4,
-1,,Lando Norris,NOR,McLaren,4.0,3.0,15.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,1,1,0,12.8,5.2,9.6,0.6,10.6,
-81,,Oscar Piastri,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,8.0,5.2,11.6,0.2,11.6,
-12,,Andrea Kimi Antonelli,ANT,Mercedes,3.0,16.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,0,0,0,1.0,1.2,27.6,0.0,20.1,
-63,,George Russell,RUS,Mercedes,1.0,2.0,18.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,1,1,0,8.2,3.2,12.6,0.2,17.2,
-30,,Liam Lawson,LAW,RB F1 Team,8.0,8.0,4.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,9.8,12.2,4.8,0.2,3.1,
-41,,Arvid Lindblad,LIN,RB F1 Team,11.0,9.0,2.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,13.8,13.0,1.4,0.2,2.7,
-6,,Isack Hadjar,HAD,Red Bull,6.0,6.0,8.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,10.2,10.2,5.2,0.2,6.1,
-3,,Max Verstappen,VER,Red Bull,5.0,4.0,12.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,10.8,5.8,7.0,0.4,6.5,
-23,,Alexander Albon,ALB,Williams,18.0,18.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,16.2,16.6,1.0,0.4,1.1,
-55,,Carlos Sainz,SAI,Williams,16.0,12.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,1,0,0,11.6,14.6,1.2,0.2,1.1,
-43,,Franco Colapinto,COL,Alpine F1 Team,16.0,15.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,10.6,12.0,3.0,0.0,4.7,15.0
-10,,Pierre Gasly,GAS,Alpine F1 Team,11.0,13.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,9.2,10.6,6.4,0.2,4.7,11.4
-14,,Fernando Alonso,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,16.4,20.0,0.2,0.4,0.1,10.0
-18,,Lance Stroll,STR,Aston Martin,22.0,19.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,0,0,0,18.6,21.0,0.0,0.6,0.1,12.4
-5,,Gabriel Bortoleto,BOR,Audi,12.0,11.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,12.0,14.2,0.0,0.0,0.0,8.0
-27,,Nico Hülkenberg,HUL,Audi,14.0,12.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,15.0,11.2,0.0,0.4,0.0,11.666666666666666
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,22.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,0,0,0,19.0,20.0,0.0,0.4,0.0,11.0
-11,,Sergio Pérez,PER,Cadillac F1 Team,19.0,21.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,0,0,0,15.8,19.2,0.0,0.2,0.0,9.0
-44,,Lewis Hamilton,HAM,Ferrari,3.0,5.0,10.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,3.4,4.4,16.4,0.0,12.3,4.6
-16,,Charles Leclerc,LEC,Ferrari,2.0,8.0,4.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,9.4,5.8,8.2,0.4,12.5,5.0
-87,,Oliver Bearman,BEA,Haas F1 Team,13.0,14.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,16.0,16.0,0.2,0.6,0.4,11.0
-31,,Esteban Ocon,OCO,Haas F1 Team,15.0,16.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,11.8,15.4,0.6,0.0,0.4,12.2
-1,,Lando Norris,NOR,McLaren,6.0,7.0,6.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,9.4,4.8,11.6,0.4,12.3,7.0
-81,,Oscar Piastri,PIA,McLaren,7.0,4.0,12.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,5.2,5.6,13.0,0.0,11.9,6.666666666666667
-12,,Andrea Kimi Antonelli,ANT,Mercedes,4.0,3.0,15.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,1,0,4.0,1.6,21.8,0.2,16.4,19.0
-63,,George Russell,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,1,1,8.2,3.0,11.0,0.2,15.4,5.6
-30,,Liam Lawson,LAW,RB F1 Team,9.0,9.0,2.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,10.0,11.0,4.0,0.2,2.9,6.0
-41,,Arvid Lindblad,LIN,RB F1 Team,10.0,10.0,1.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,13.2,12.2,1.8,0.2,2.9,
-6,,Isack Hadjar,HAD,Red Bull,8.0,6.0,8.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,9.8,9.6,6.0,0.2,7.7,12.0
-3,,Max Verstappen,VER,Red Bull,5.0,2.0,18.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1,1,0,8.4,5.2,9.4,0.2,8.5,5.4
-23,,Alexander Albon,ALB,Williams,18.0,17.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,1,0,0,15.4,15.8,1.0,0.2,0.9,13.75
-55,,Carlos Sainz,SAI,Williams,17.0,20.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,0,0,0,12.2,14.4,0.8,0.2,0.9,10.4
-43,,Franco Colapinto,COL,Alpine F1 Team,19.0,9.0,2.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,10.4,12.2,3.0,0.0,4.1,20.0
-10,,Pierre Gasly,GAS,Alpine F1 Team,15.0,10.0,1.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,10.4,11.4,5.2,0.2,3.7,14.2
-14,,Fernando Alonso,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,9,British Grand Prix,0.0,1,0,0,16.4,20.0,0.2,0.4,0.1,7.2
-18,,Lance Stroll,STR,Aston Martin,22.0,19.0,0.0,Lapped,,,,2026,9,British Grand Prix,0.0,1,0,0,18.2,21.0,0.0,0.6,0.1,9.4
-5,,Gabriel Bortoleto,BOR,Audi,11.0,8.0,4.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,11.6,14.8,0.0,0.0,0.0,18.0
-27,,Nico Hülkenberg,HUL,Audi,12.0,22.0,0.0,Retired,,,,2026,9,British Grand Prix,0.0,0,0,0,15.2,11.4,0.0,0.4,0.4,7.333333333333333
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,18.0,16.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,19.6,20.0,0.0,0.6,0.0,11.75
-11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,14.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,16.6,19.2,0.0,0.4,0.0,10.25
-44,,Lewis Hamilton,HAM,Ferrari,3.0,3.0,22.0,Finished,,,,2026,9,British Grand Prix,7.0,1,1,0,3.2,3.8,16.8,0.0,11.4,2.4
-16,,Charles Leclerc,LEC,Ferrari,2.0,1.0,29.0,Finished,,,,2026,9,British Grand Prix,4.0,1,1,1,10.4,5.4,6.0,0.4,12.6,8.6
-87,,Oliver Bearman,BEA,Haas F1 Team,13.0,12.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,14.4,15.0,0.2,0.4,0.3,11.0
-31,,Esteban Ocon,OCO,Haas F1 Team,17.0,13.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,13.0,16.0,0.4,0.0,0.3,14.6
-1,,Lando Norris,NOR,McLaren,6.0,4.0,18.0,Finished,,,,2026,9,British Grand Prix,6.0,1,0,0,9.8,5.0,10.8,0.4,11.3,3.2
-81,,Oscar Piastri,PIA,McLaren,8.0,11.0,2.0,Finished,,,,2026,9,British Grand Prix,2.0,1,0,0,5.6,6.4,11.8,0.0,10.5,3.3333333333333335
-12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,15.0,8.0,Finished,,,,2026,9,British Grand Prix,8.0,1,0,0,4.4,2.2,19.8,0.2,16.7,16.0
-63,,George Russell,RUS,Mercedes,4.0,2.0,23.0,Finished,,,,2026,9,British Grand Prix,5.0,1,1,0,7.6,2.8,13.6,0.2,14.7,12.8
-30,,Liam Lawson,LAW,RB F1 Team,10.0,6.0,9.0,Finished,,,,2026,9,British Grand Prix,1.0,1,0,0,10.0,10.0,4.0,0.2,3.0,19.0
-41,,Arvid Lindblad,LIN,RB F1 Team,9.0,7.0,6.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,12.4,12.2,2.0,0.2,3.9,
-6,,Isack Hadjar,HAD,Red Bull,5.0,5.0,10.0,Finished,,,,2026,9,British Grand Prix,0.0,1,0,0,8.6,9.6,7.6,0.2,9.9,17.0
-3,,Max Verstappen,VER,Red Bull,7.0,20.0,3.0,Retired,,,,2026,9,British Grand Prix,3.0,0,0,0,7.2,4.0,12.2,0.2,10.9,7.0
-23,,Alexander Albon,ALB,Williams,16.0,21.0,0.0,Retired,,,,2026,9,British Grand Prix,0.0,0,0,0,14.8,16.0,1.0,0.2,0.9,11.25
-55,,Carlos Sainz,SAI,Williams,14.0,17.0,0.0,Lapped,,,,2026,9,British Grand Prix,0.0,1,0,0,13.2,14.6,0.8,0.4,0.8,6.8
-43,,Franco Colapinto,COL,Alpine F1 Team,11.0,10.0,1.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,10.8,14.4,2.2,0.0,3.7,19.0
-10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,11.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,8.2,12.6,5.2,0.0,3.0,9.8
-14,,Fernando Alonso,ALO,Aston Martin,22.0,19.0,0.0,Lapped,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,17.0,20.8,0.2,0.4,0.1,9.2
-18,,Lance Stroll,STR,Aston Martin,20.0,20.0,0.0,Retired,,,,2026,10,Belgian Grand Prix,0.0,0,0,0,18.6,21.8,0.0,0.6,0.1,13.0
-5,,Gabriel Bortoleto,BOR,Audi,8.0,8.0,4.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,10.8,12.8,0.8,0.0,0.4,9.0
-27,,Nico Hülkenberg,HUL,Audi,12.0,13.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,15.8,11.8,0.0,0.4,0.8,16.0
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,17.0,18.0,0.0,Lapped,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,19.2,19.8,0.0,0.6,0.0,14.5
-11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,21.0,0.0,Retired,,,,2026,10,Belgian Grand Prix,0.0,0,0,0,16.2,19.2,0.0,0.4,0.0,7.5
-44,,Lewis Hamilton,HAM,Ferrari,5.0,4.0,12.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,2.6,3.2,19.2,0.0,14.5,7.0
-16,,Charles Leclerc,LEC,Ferrari,4.0,2.0,18.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,1,0,9.0,5.2,9.8,0.4,13.6,4.6
-87,,Oliver Bearman,BEA,Haas F1 Team,14.0,14.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,14.6,15.2,0.2,0.4,0.3,11.0
-31,,Esteban Ocon,OCO,Haas F1 Team,16.0,17.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,13.0,16.6,0.4,0.0,0.2,9.2
-1,,Lando Norris,NOR,McLaren,13.0,7.0,6.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,10.2,5.4,9.2,0.4,8.5,8.0
-81,,Oscar Piastri,PIA,McLaren,6.0,5.0,10.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,7.2,6.6,7.8,0.0,8.4,7.666666666666667
-12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,1,1,7.2,2.2,15.8,0.2,15.3,16.0
-63,,George Russell,RUS,Mercedes,3.0,22.0,0.0,Retired,,,,2026,10,Belgian Grand Prix,0.0,0,0,0,7.2,2.6,14.8,0.2,14.7,7.4
-30,,Liam Lawson,LAW,RB F1 Team,9.0,12.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,7.2,9.8,5.8,0.0,4.5,8.0
-41,,Arvid Lindblad,LIN,RB F1 Team,7.0,9.0,2.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,11.0,10.8,3.2,0.2,3.9,
-6,,Isack Hadjar,HAD,Red Bull,21.0,6.0,8.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,5.2,6.2,9.6,0.0,9.8,20.0
-3,,Max Verstappen,VER,Red Bull,2.0,3.0,15.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,1,0,10.2,5.0,10.0,0.4,9.6,2.2
-23,,Alexander Albon,ALB,Williams,15.0,15.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,17.0,16.2,0.8,0.4,0.6,10.5
-55,,Carlos Sainz,SAI,Williams,19.0,16.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1,0,0,14.8,14.8,0.4,0.4,0.6,11.2
+DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName,SprintPoints,QualiPosition,QualiTimeSeconds,SprintPosition,DidFinish,Podium,Win,QualiGapSeconds,RecentAvgFinish,RecentAvgGrid,RecentAvgPoints,RecentDNFRate,RecentAvgQualiGap,TeamRecentAvgPoints,TrackHistoryAvgFinish
+43,,Franco Colapinto,COL,Alpine F1 Team,16.0,14.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,16.0,81.2,,1,0,0,2.682000000000002,,,,,,,
+10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,10.0,1.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,14.0,80.501,,1,0,0,1.983000000000004,,,,,,0.0,11.5
+14,,Fernando Alonso,ALO,Aston Martin,17.0,18.0,0.0,Retired,,,,2026,1,Australian Grand Prix,0.0,17.0,81.969,,0,0,0,3.4509999999999934,,,,,,,11.25
+18,,Lance Stroll,STR,Aston Martin,22.0,17.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,,,,1,0,0,,,,,,,0.0,7.0
+5,,Gabriel Bortoleto,BOR,Audi,10.0,9.0,2.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,10.0,80.221,,1,0,0,1.703000000000003,,,,,,,16.0
+27,,Nico Hülkenberg,HUL,Audi,11.0,22.0,0.0,Did not start,,,,2026,1,Australian Grand Prix,0.0,11.0,80.303,,0,0,0,1.7849999999999966,,,,,,2.0,7.666666666666667
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,19.0,0.0,Retired,,,,2026,1,Australian Grand Prix,0.0,19.0,83.244,,0,0,0,4.725999999999999,,,,,,,11.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,16.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,18.0,82.605,,1,0,0,4.087000000000003,,,,,,0.0,4.0
+44,,Lewis Hamilton,HAM,Ferrari,7.0,4.0,12.0,Finished,,,,2026,1,Australian Grand Prix,0.0,7.0,79.478,,1,0,0,0.9599999999999937,,,,,,,8.5
+16,,Charles Leclerc,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2026,1,Australian Grand Prix,0.0,4.0,79.327,,1,1,0,0.8089999999999975,,,,,,12.0,7.75
+87,,Oliver Bearman,BEA,Haas F1 Team,12.0,7.0,6.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,12.0,80.311,,1,0,0,1.7930000000000064,,,,,,,14.0
+31,,Esteban Ocon,OCO,Haas F1 Team,13.0,11.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,13.0,80.491,,1,0,0,1.972999999999999,,,,,,6.0,12.5
+1,,Lando Norris,NOR,McLaren,6.0,5.0,10.0,Finished,,,,2026,1,Australian Grand Prix,0.0,6.0,79.475,,1,0,0,0.9569999999999936,,,,,,,3.75
+81,,Oscar Piastri,PIA,McLaren,5.0,21.0,0.0,Did not start,,,,2026,1,Australian Grand Prix,0.0,5.0,79.38,,0,0,0,0.8619999999999948,,,,,,10.0,7.0
+12,,Andrea Kimi Antonelli,ANT,Mercedes,2.0,2.0,18.0,Finished,,,,2026,1,Australian Grand Prix,0.0,2.0,78.811,,1,1,0,0.29300000000000637,,,,,,,4.0
+63,,George Russell,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,1,Australian Grand Prix,0.0,1.0,78.518,,1,1,1,0.0,,,,,,18.0,10.25
+30,,Liam Lawson,LAW,RB F1 Team,8.0,13.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,8.0,79.994,,1,0,0,1.475999999999999,,,,,,,15.0
+41,,Arvid Lindblad,LIN,RB F1 Team,9.0,8.0,4.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,9.0,79.971,,1,0,0,1.453000000000003,,,,,,0.0,
+6,,Isack Hadjar,HAD,Red Bull,3.0,20.0,0.0,Retired,,,,2026,1,Australian Grand Prix,0.0,3.0,79.303,,0,0,0,0.7849999999999966,,,,,,,20.0
+3,,Max Verstappen,VER,Red Bull,20.0,6.0,8.0,Finished,,,,2026,1,Australian Grand Prix,0.0,,,,1,0,0,,,,,,,0.0,10.0
+23,,Alexander Albon,ALB,Williams,15.0,12.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,15.0,80.941,,1,0,0,2.423000000000002,,,,,,,11.25
+55,,Carlos Sainz,SAI,Williams,21.0,15.0,0.0,Lapped,,,,2026,1,Australian Grand Prix,0.0,,,,1,0,0,,,,,,,0.0,12.75
+43,,Franco Colapinto,COL,Alpine F1 Team,12.0,10.0,1.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,12.0,93.357,14.0,1,0,0,1.2930000000000064,14.0,16.0,0.0,0.0,2.682000000000002,0.5,
+10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,6.0,8.0,Finished,,,,2026,2,Chinese Grand Prix,0.0,7.0,92.873,11.0,1,0,0,0.8090000000000117,10.0,14.0,1.0,0.0,1.983000000000004,0.6666666666666666,16.5
+14,,Fernando Alonso,ALO,Aston Martin,18.0,17.0,0.0,Retired,,,,2026,2,Chinese Grand Prix,0.0,19.0,95.203,17.0,0,0,0,3.13900000000001,18.0,17.0,0.0,1.0,3.4509999999999934,0.0,12.0
+18,,Lance Stroll,STR,Aston Martin,20.0,18.0,0.0,Retired,,,,2026,2,Chinese Grand Prix,0.0,21.0,95.995,18.0,0,0,0,3.9310000000000116,17.0,22.0,0.0,0.0,,0.0,12.0
+5,,Gabriel Bortoleto,BOR,Audi,16.0,21.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix,0.0,16.0,93.549,13.0,0,0,0,1.4850000000000136,9.0,10.0,2.0,0.0,1.703000000000003,1.0,14.0
+27,,Nico Hülkenberg,HUL,Audi,11.0,11.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,11.0,93.354,20.0,1,0,0,1.2900000000000063,22.0,11.0,0.0,1.0,1.7849999999999966,0.6666666666666666,12.5
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,13.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,20.0,95.436,21.0,1,0,0,3.372000000000014,19.0,19.0,0.0,1.0,4.725999999999999,0.0,20.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,21.0,15.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,22.0,96.906,19.0,1,0,0,4.842000000000013,16.0,18.0,0.0,0.0,4.087000000000003,0.0,3.0
+44,,Lewis Hamilton,HAM,Ferrari,3.0,3.0,21.0,Finished,,,,2026,2,Chinese Grand Prix,6.0,3.0,92.415,3.0,1,1,0,0.3510000000000133,4.0,7.0,12.0,0.0,0.9599999999999937,13.5,14.0
+16,,Charles Leclerc,LEC,Ferrari,4.0,4.0,19.0,Finished,,,,2026,2,Chinese Grand Prix,7.0,4.0,92.428,2.0,1,0,0,0.3640000000000043,3.0,4.0,15.0,0.0,0.8089999999999975,16.0,11.0
+87,,Oliver Bearman,BEA,Haas F1 Team,10.0,5.0,11.0,Finished,,,,2026,2,Chinese Grand Prix,1.0,10.0,93.197,8.0,1,0,0,1.1330000000000098,7.0,12.0,6.0,0.0,1.7930000000000064,3.0,8.0
+31,,Esteban Ocon,OCO,Haas F1 Team,13.0,14.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,13.0,93.538,10.0,1,0,0,1.4740000000000038,11.0,13.0,0.0,0.0,1.972999999999999,5.666666666666667,8.0
+1,,Lando Norris,NOR,McLaren,6.0,20.0,5.0,Did not start,,,,2026,2,Chinese Grand Prix,5.0,6.0,92.608,4.0,0,0,0,0.5440000000000111,5.0,6.0,10.0,0.0,0.9569999999999936,5.0,2.0
+81,,Oscar Piastri,PIA,McLaren,5.0,19.0,3.0,Did not start,,,,2026,2,Chinese Grand Prix,3.0,5.0,92.55,6.0,0,0,0,0.4860000000000042,21.0,5.0,0.0,1.0,0.8619999999999948,5.0,4.5
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,29.0,Finished,,,,2026,2,Chinese Grand Prix,4.0,1.0,92.064,5.0,1,1,1,0.0,2.0,2.0,18.0,0.0,0.29300000000000637,21.5,6.0
+63,,George Russell,RUS,Mercedes,2.0,2.0,26.0,Finished,,,,2026,2,Chinese Grand Prix,8.0,2.0,92.286,1.0,1,1,0,0.2220000000000084,1.0,1.0,25.0,0.0,0.0,24.0,4.5
+30,,Liam Lawson,LAW,RB F1 Team,14.0,7.0,8.0,Finished,,,,2026,2,Chinese Grand Prix,2.0,14.0,93.765,7.0,1,0,0,1.7010000000000076,13.0,8.0,0.0,0.0,1.475999999999999,2.0,12.0
+41,,Arvid Lindblad,LIN,RB F1 Team,15.0,12.0,0.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,15.0,93.784,22.0,1,0,0,1.720000000000013,8.0,9.0,4.0,0.0,1.453000000000003,4.0,
+6,,Isack Hadjar,HAD,Red Bull,9.0,8.0,4.0,Finished,,,,2026,2,Chinese Grand Prix,0.0,9.0,93.121,15.0,1,0,0,1.0570000000000022,20.0,3.0,0.0,1.0,0.7849999999999966,4.0,11.0
+3,,Max Verstappen,VER,Red Bull,8.0,16.0,0.0,Retired,,,,2026,2,Chinese Grand Prix,0.0,8.0,93.002,9.0,0,0,0,0.9380000000000024,6.0,20.0,8.0,0.0,,4.0,2.5
+23,,Alexander Albon,ALB,Williams,22.0,22.0,0.0,Did not start,,,,2026,2,Chinese Grand Prix,0.0,18.0,94.772,16.0,0,0,0,2.7080000000000126,12.0,15.0,0.0,0.0,2.423000000000002,0.0,9.5
+55,,Carlos Sainz,SAI,Williams,17.0,9.0,2.0,Lapped,,,,2026,2,Chinese Grand Prix,0.0,17.0,94.317,12.0,1,0,0,2.253,15.0,21.0,0.0,0.0,,0.0,7.5
+43,,Franco Colapinto,COL,Alpine F1 Team,15.0,16.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,15.0,90.627,,1,0,0,1.8489999999999895,12.0,14.0,0.5,0.0,1.9875000000000043,2.5,
+10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,7.0,6.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,7.0,89.691,,1,0,0,0.9129999999999967,8.0,10.5,4.5,0.0,1.396000000000008,2.0,14.25
+14,,Fernando Alonso,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix,0.0,21.0,92.646,,1,0,0,3.867999999999995,17.5,17.5,0.0,1.0,3.2950000000000017,0.0,8.0
+18,,Lance Stroll,STR,Aston Martin,22.0,21.0,0.0,Retired,,,,2026,3,Japanese Grand Prix,0.0,22.0,92.92,,0,0,0,4.141999999999996,17.5,21.0,0.0,0.5,3.9310000000000116,0.0,15.5
+5,,Gabriel Bortoleto,BOR,Audi,9.0,13.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,9.0,89.99,,1,0,0,1.211999999999989,15.0,13.0,1.0,0.5,1.5940000000000083,0.5,19.0
+27,,Nico Hülkenberg,HUL,Audi,13.0,11.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,13.0,90.358,,1,0,0,1.5799999999999983,16.5,11.0,0.0,0.5,1.5375000000000014,0.4,13.666666666666666
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,19.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix,0.0,20.0,92.33,,1,0,0,3.5519999999999925,16.0,19.0,0.0,0.5,4.049000000000007,0.0,16.333333333333332
+11,,Sergio Pérez,PER,Cadillac F1 Team,19.0,17.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,19.0,92.206,,1,0,0,3.4279999999999973,15.5,19.5,0.0,0.0,4.464500000000008,0.0,7.666666666666667
+44,,Lewis Hamilton,HAM,Ferrari,6.0,6.0,8.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,6.0,89.567,,1,0,0,0.7889999999999873,3.5,5.0,16.5,0.0,0.6555000000000035,16.75,6.5
+16,,Charles Leclerc,LEC,Ferrari,4.0,3.0,15.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,4.0,89.303,,1,1,0,0.5249999999999915,3.5,4.0,17.0,0.0,0.5865000000000009,15.0,3.75
+87,,Oliver Bearman,BEA,Haas F1 Team,18.0,22.0,0.0,Retired,,,,2026,3,Japanese Grand Prix,0.0,18.0,91.09,,0,0,0,2.3119999999999976,6.0,11.0,8.5,0.0,1.463000000000008,4.25,10.0
+31,,Esteban Ocon,OCO,Haas F1 Team,12.0,10.0,1.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,12.0,90.309,,1,0,0,1.5309999999999917,12.5,13.0,0.0,0.0,1.7235000000000014,3.4,11.5
+1,,Lando Norris,NOR,McLaren,5.0,5.0,10.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,5.0,89.409,,1,0,0,0.6310000000000002,12.5,6.0,7.5,0.5,0.7505000000000024,4.5,4.75
+81,,Oscar Piastri,PIA,McLaren,3.0,2.0,18.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,3.0,89.132,,1,1,0,0.3539999999999992,20.0,5.0,1.5,1.0,0.6739999999999995,5.6,4.666666666666667
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,1.0,88.778,,1,1,1,0.0,1.5,1.5,23.5,0.0,0.14650000000000318,24.5,6.0
+63,,George Russell,RUS,Mercedes,2.0,4.0,12.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,2.0,89.076,,1,0,0,0.2979999999999876,1.5,1.5,25.5,0.0,0.1110000000000042,24.6,6.75
+30,,Liam Lawson,LAW,RB F1 Team,14.0,9.0,2.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,14.0,90.495,,1,0,0,1.7169999999999987,10.0,11.0,4.0,0.0,1.5885000000000034,3.0,14.0
+41,,Arvid Lindblad,LIN,RB F1 Team,10.0,14.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,10.0,90.109,,1,0,0,1.3309999999999889,10.0,12.0,2.0,0.0,1.586500000000008,2.8,
+6,,Isack Hadjar,HAD,Red Bull,8.0,12.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,8.0,89.978,,1,0,0,1.1999999999999886,14.0,6.0,2.0,0.5,0.9209999999999994,3.0,8.0
+3,,Max Verstappen,VER,Red Bull,11.0,8.0,4.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,11.0,90.262,,1,0,0,1.4839999999999947,11.0,14.0,4.0,0.5,0.9380000000000024,2.4,1.0
+23,,Alexander Albon,ALB,Williams,17.0,20.0,0.0,Lapped,,,,2026,3,Japanese Grand Prix,0.0,17.0,91.088,,1,0,0,2.309999999999988,17.0,18.5,0.0,0.5,2.565500000000007,0.5,16.25
+55,,Carlos Sainz,SAI,Williams,16.0,15.0,0.0,Finished,,,,2026,3,Japanese Grand Prix,0.0,16.0,90.927,,1,0,0,2.149000000000001,12.0,19.0,1.0,0.0,2.253,0.4,10.5
+43,,Franco Colapinto,COL,Alpine F1 Team,8.0,7.0,6.0,Finished,,,,2026,4,Miami Grand Prix,0.0,8.0,88.762,10.0,1,0,0,0.9639999999999986,13.333333333333334,14.333333333333334,0.3333333333333333,0.0,1.9413333333333327,2.6666666666666665,
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,21.0,1.0,Retired,,,,2026,4,Miami Grand Prix,1.0,9.0,88.81,8.0,0,0,0,1.0120000000000005,7.666666666666667,9.333333333333334,5.0,0.0,1.235000000000004,3.142857142857143,12.75
+14,,Fernando Alonso,ALO,Aston Martin,17.0,15.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,17.0,91.098,15.0,1,0,0,3.299999999999997,17.666666666666668,18.666666666666668,0.0,0.6666666666666666,3.4859999999999993,0.0,9.5
+18,,Lance Stroll,STR,Aston Martin,18.0,17.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,18.0,91.164,17.0,1,0,0,3.3659999999999997,18.666666666666668,21.333333333333332,0.0,0.6666666666666666,4.036500000000004,0.0,13.75
+5,,Gabriel Bortoleto,BOR,Audi,21.0,12.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,21.0,93.737,22.0,1,0,0,5.938999999999993,14.333333333333334,11.666666666666666,0.6666666666666666,0.3333333333333333,1.4666666666666686,0.3333333333333333,18.0
+27,,Nico Hülkenberg,HUL,Audi,10.0,19.0,0.0,Retired,,,,2026,4,Miami Grand Prix,0.0,10.0,89.439,20.0,0,0,0,1.6409999999999911,14.666666666666666,11.666666666666666,0.0,0.3333333333333333,1.551666666666667,0.2857142857142857,13.333333333333334
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,18.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,19.0,91.629,19.0,1,0,0,3.831000000000003,17.0,19.333333333333332,0.0,0.3333333333333333,3.883333333333335,0.0,12.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,16.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,20.0,91.967,16.0,1,0,0,4.168999999999997,16.0,19.333333333333332,0.0,0.0,4.119000000000004,0.0,3.3333333333333335
+44,,Lewis Hamilton,HAM,Ferrari,6.0,6.0,10.0,Finished,,,,2026,4,Miami Grand Prix,2.0,6.0,88.319,7.0,1,0,0,0.5210000000000008,4.333333333333333,5.333333333333333,13.666666666666666,0.0,0.6999999999999981,15.0,6.5
+16,,Charles Leclerc,LEC,Ferrari,3.0,8.0,10.0,Finished,,,,2026,4,Miami Grand Prix,6.0,3.0,88.143,3.0,1,0,0,0.34499999999999886,3.3333333333333335,4.0,16.333333333333332,0.0,0.5659999999999977,14.285714285714286,4.75
+87,,Oliver Bearman,BEA,Haas F1 Team,12.0,11.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,12.0,89.34,12.0,1,0,0,1.5420000000000016,11.333333333333334,13.333333333333334,5.666666666666667,0.3333333333333333,1.7460000000000047,3.0,19.0
+31,,Esteban Ocon,OCO,Haas F1 Team,14.0,13.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,14.0,89.772,11.0,1,0,0,1.9740000000000038,11.666666666666666,12.666666666666666,0.3333333333333333,0.0,1.6593333333333316,2.5714285714285716,9.75
+1,,Lando Norris,NOR,McLaren,4.0,2.0,26.0,Finished,,,,2026,4,Miami Grand Prix,8.0,4.0,88.183,1.0,1,1,0,0.3850000000000051,10.0,5.666666666666667,8.333333333333334,0.3333333333333333,0.7106666666666683,7.666666666666667,9.75
+81,,Oscar Piastri,PIA,McLaren,7.0,3.0,22.0,Finished,,,,2026,4,Miami Grand Prix,7.0,7.0,88.332,2.0,1,1,0,0.5339999999999918,14.0,4.333333333333333,7.0,0.6666666666666666,0.5673333333333327,10.285714285714286,11.0
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,28.0,Finished,,,,2026,4,Miami Grand Prix,3.0,1.0,87.798,6.0,1,1,1,0.0,1.3333333333333333,1.3333333333333333,24.0,0.0,0.09766666666666879,22.5,6.0
+63,,George Russell,RUS,Mercedes,5.0,4.0,17.0,Finished,,,,2026,4,Miami Grand Prix,5.0,5.0,88.197,4.0,1,0,0,0.3990000000000009,2.3333333333333335,1.6666666666666667,21.0,0.0,0.173333333333332,23.285714285714285,5.0
+30,,Liam Lawson,LAW,RB F1 Team,11.0,20.0,0.0,Retired,,,,2026,4,Miami Grand Prix,0.0,11.0,89.499,14.0,0,0,0,1.7009999999999934,9.666666666666666,12.0,3.3333333333333335,0.0,1.631333333333335,2.3333333333333335,17.0
+41,,Arvid Lindblad,LIN,RB F1 Team,16.0,14.0,0.0,Lapped,,,,2026,4,Miami Grand Prix,0.0,16.0,90.133,21.0,1,0,0,2.3349999999999937,11.333333333333334,11.333333333333334,1.3333333333333333,0.0,1.501333333333335,2.0,
+6,,Isack Hadjar,HAD,Red Bull,22.0,22.0,0.0,Retired,,,,2026,4,Miami Grand Prix,0.0,22.0,88.789,9.0,0,0,0,0.9909999999999997,13.333333333333334,6.666666666666667,1.3333333333333333,0.3333333333333333,1.0139999999999958,2.6666666666666665,11.0
+3,,Max Verstappen,VER,Red Bull,2.0,5.0,14.0,Finished,,,,2026,4,Miami Grand Prix,4.0,2.0,87.964,5.0,1,0,0,0.16599999999999682,10.0,13.0,4.0,0.3333333333333333,1.2109999999999985,2.2857142857142856,2.0
+23,,Alexander Albon,ALB,Williams,15.0,10.0,1.0,Finished,,,,2026,4,Miami Grand Prix,0.0,15.0,89.72,18.0,1,0,0,1.921999999999997,18.0,18.0,0.0,0.3333333333333333,2.480333333333334,0.3333333333333333,11.5
+55,,Carlos Sainz,SAI,Williams,13.0,9.0,2.0,Finished,,,,2026,4,Miami Grand Prix,0.0,13.0,89.54,13.0,1,0,0,1.7420000000000044,13.0,18.0,0.6666666666666666,0.0,2.2010000000000005,0.42857142857142855,5.5
+43,,Franco Colapinto,COL,Alpine F1 Team,10.0,6.0,8.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,10.0,73.697,9.0,1,0,0,1.1189999999999998,11.75,12.75,1.75,0.0,1.6969999999999992,2.875,13.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,8.0,4.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,14.0,74.187,20.0,1,0,0,1.6089999999999947,11.0,9.25,4.0,0.25,1.1792500000000032,3.4444444444444446,12.5
+14,,Fernando Alonso,ALO,Aston Martin,19.0,20.0,0.0,Retired,,,,2026,5,Canadian Grand Prix,0.0,19.0,75.196,22.0,0,0,0,2.617999999999995,17.0,18.25,0.0,0.5,3.439499999999999,0.0,6.0
+18,,Lance Stroll,STR,Aston Martin,22.0,15.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,21.0,76.195,16.0,1,0,0,3.6169999999999902,18.25,20.5,0.0,0.5,3.8130000000000024,0.0,10.75
+5,,Gabriel Bortoleto,BOR,Audi,13.0,13.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,13.0,74.071,12.0,1,0,0,1.492999999999995,13.75,14.0,0.5,0.25,2.5847499999999997,0.25,14.0
+27,,Nico Hülkenberg,HUL,Audi,11.0,12.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,11.0,73.886,15.0,1,0,0,1.3079999999999927,15.75,11.25,0.0,0.5,1.573999999999998,0.2222222222222222,11.333333333333334
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,21.0,16.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,22.0,76.272,17.0,1,0,0,3.6940000000000026,17.25,19.25,0.0,0.25,3.870250000000002,0.0,10.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,17.0,0.0,Retired,,,,2026,5,Canadian Grand Prix,0.0,20.0,75.429,14.0,0,0,0,2.850999999999999,16.0,19.5,0.0,0.0,4.131500000000003,0.0,14.666666666666666
+44,,Lewis Hamilton,HAM,Ferrari,5.0,2.0,21.0,Finished,,,,2026,5,Canadian Grand Prix,3.0,5.0,72.868,6.0,1,1,0,0.28999999999999204,4.75,5.5,12.75,0.0,0.6552499999999988,13.75,4.0
+16,,Charles Leclerc,LEC,Ferrari,8.0,4.0,16.0,Finished,,,,2026,5,Canadian Grand Prix,4.0,8.0,72.976,5.0,1,0,0,0.39799999999999613,4.5,3.75,14.75,0.0,0.510749999999998,14.555555555555555,8.25
+87,,Oliver Bearman,BEA,Haas F1 Team,16.0,10.0,1.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,16.0,74.416,18.0,1,0,0,1.8379999999999939,11.25,13.0,4.25,0.25,1.6950000000000038,2.25,11.0
+31,,Esteban Ocon,OCO,Haas F1 Team,17.0,14.0,0.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,17.0,74.845,13.0,1,0,0,2.266999999999996,12.0,13.0,0.25,0.0,1.7379999999999995,2.111111111111111,8.25
+1,,Lando Norris,NOR,McLaren,3.0,18.0,7.0,Retired,,,,2026,5,Canadian Grand Prix,7.0,3.0,72.729,2.0,0,0,0,0.15099999999999625,8.0,5.25,12.75,0.25,0.6292500000000025,11.75,12.0
+81,,Oscar Piastri,PIA,McLaren,4.0,11.0,5.0,Lapped,,,,2026,5,Canadian Grand Prix,5.0,4.0,72.781,4.0,1,0,0,0.20300000000000296,11.25,5.0,10.75,0.5,0.5589999999999975,11.222222222222221,6.666666666666667
+12,,Andrea Kimi Antonelli,ANT,Mercedes,2.0,1.0,31.0,Finished,,,,2026,5,Canadian Grand Prix,6.0,2.0,72.646,3.0,1,1,1,0.06799999999999784,1.25,1.25,25.0,0.0,0.07325000000000159,22.5,3.0
+63,,George Russell,RUS,Mercedes,1.0,19.0,8.0,Retired,,,,2026,5,Canadian Grand Prix,8.0,1.0,72.578,1.0,0,0,0,0.0,2.75,2.5,20.0,0.0,0.22974999999999923,23.444444444444443,6.75
+30,,Liam Lawson,LAW,RB F1 Team,12.0,7.0,6.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,12.0,73.897,11.0,1,0,0,1.3190000000000026,12.25,11.75,2.5,0.25,1.6487499999999997,1.75,19.0
+41,,Arvid Lindblad,LIN,RB F1 Team,9.0,22.0,1.0,Did not start,,,,2026,5,Canadian Grand Prix,1.0,9.0,73.28,8.0,0,0,0,0.7019999999999982,12.0,12.5,1.0,0.0,1.7097499999999997,2.2222222222222223,
+6,,Isack Hadjar,HAD,Red Bull,7.0,5.0,10.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,7.0,72.935,21.0,1,0,0,0.3569999999999993,15.5,10.5,1.0,0.5,1.0082499999999968,3.75,16.0
+3,,Max Verstappen,VER,Red Bull,6.0,3.0,17.0,Finished,,,,2026,5,Canadian Grand Prix,2.0,6.0,72.907,7.0,1,1,0,0.3289999999999935,8.75,10.25,6.5,0.25,0.8626666666666646,4.444444444444445,1.25
+23,,Alexander Albon,ALB,Williams,18.0,21.0,0.0,Retired,,,,2026,5,Canadian Grand Prix,0.0,18.0,74.851,19.0,0,0,0,2.272999999999996,16.0,17.25,0.25,0.25,2.34075,0.625,14.25
+55,,Carlos Sainz,SAI,Williams,15.0,9.0,2.0,Lapped,,,,2026,5,Canadian Grand Prix,0.0,15.0,74.273,10.0,1,0,0,1.6949999999999932,12.0,16.75,1.0,0.0,2.048000000000002,0.5555555555555556,8.25
+43,,Franco Colapinto,COL,Alpine F1 Team,14.0,14.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,14.0,73.995,,1,0,0,1.9440000000000026,10.6,12.2,3.0,0.0,1.5813999999999993,3.5,13.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,3.0,15.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,9.0,73.226,,1,1,0,1.1749999999999972,10.4,10.2,4.0,0.2,1.2652000000000014,3.5,10.8
+14,,Fernando Alonso,ALO,Aston Martin,21.0,10.0,1.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,21.0,75.349,,1,0,0,3.298000000000002,17.6,18.4,0.0,0.6,3.275199999999998,0.0,10.4
+18,,Lance Stroll,STR,Aston Martin,22.0,18.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,22.0,76.061,,0,0,0,4.010000000000005,17.6,20.8,0.0,0.4,3.7639999999999993,0.1,14.2
+5,,Gabriel Bortoleto,BOR,Audi,16.0,11.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,16.0,74.683,,1,0,0,2.632000000000005,13.6,13.8,0.4,0.2,2.3663999999999987,0.2,14.0
+27,,Nico Hülkenberg,HUL,Audi,13.0,13.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,13.0,73.902,,1,0,0,1.850999999999999,15.0,11.2,0.0,0.4,1.520799999999997,0.0,17.333333333333332
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,21.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,20.0,75.283,,0,0,0,3.2319999999999993,17.0,19.6,0.0,0.2,3.835000000000002,0.0,13.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,15.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,18.0,74.747,,1,0,0,2.695999999999998,16.2,19.6,0.0,0.2,3.8754000000000017,0.0,9.75
+44,,Lewis Hamilton,HAM,Ferrari,3.0,2.0,18.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,3.0,72.279,,1,1,0,0.22799999999999443,4.2,5.4,14.4,0.0,0.5821999999999974,14.7,6.2
+16,,Charles Leclerc,LEC,Ferrari,4.0,17.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,4.0,72.351,,0,0,0,0.29999999999999716,4.4,4.6,15.0,0.0,0.48819999999999764,15.3,6.6
+87,,Oliver Bearman,BEA,Haas F1 Team,19.0,20.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,19.0,74.814,,0,0,0,2.762999999999991,11.0,13.6,3.6,0.2,1.7236000000000018,1.9,12.0
+31,,Esteban Ocon,OCO,Haas F1 Team,17.0,9.0,2.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,17.0,74.722,,1,0,0,2.6709999999999923,12.4,13.8,0.2,0.0,1.8437999999999988,1.3,9.6
+1,,Lando Norris,NOR,McLaren,8.0,19.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,8.0,72.765,,0,0,0,0.7139999999999986,10.0,4.8,11.6,0.4,0.5336000000000013,10.6,4.6
+81,,Oscar Piastri,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,7.0,72.624,,1,0,0,0.5729999999999933,11.2,4.8,9.6,0.4,0.48779999999999857,9.6,5.0
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,1.0,72.051,,1,1,1,0.0,1.2,1.4,26.2,0.0,0.07220000000000085,21.9,18.0
+63,,George Russell,RUS,Mercedes,6.0,12.0,0.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,6.0,72.445,,1,0,0,0.39399999999999125,6.0,2.2,17.6,0.2,0.18379999999999938,22.6,8.0
+30,,Liam Lawson,LAW,RB F1 Team,10.0,6.0,8.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,10.0,73.412,,1,0,0,1.3610000000000042,11.2,11.8,3.2,0.2,1.5828000000000002,2.1,8.0
+41,,Arvid Lindblad,LIN,RB F1 Team,15.0,7.0,6.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,15.0,74.248,,1,0,0,2.1970000000000027,14.0,11.8,1.0,0.2,1.5081999999999993,2.9,
+6,,Isack Hadjar,HAD,Red Bull,5.0,4.0,12.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,5.0,72.434,,1,0,0,0.38299999999999557,13.4,9.8,2.8,0.4,0.8779999999999972,5.7,6.0
+3,,Max Verstappen,VER,Red Bull,2.0,22.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,2.0,72.094,,0,0,0,0.042999999999992156,7.6,9.4,8.6,0.2,0.7292499999999968,6.9,3.0
+23,,Alexander Albon,ALB,Williams,11.0,8.0,4.0,Finished,,,,2026,6,Monaco Grand Prix,0.0,11.0,73.787,,1,0,0,1.7360000000000042,17.0,17.4,0.2,0.4,2.327199999999999,0.7,12.5
+55,,Carlos Sainz,SAI,Williams,12.0,16.0,0.0,Retired,,,,2026,6,Monaco Grand Prix,0.0,12.0,73.815,,0,0,0,1.7639999999999958,11.4,16.4,1.2,0.0,1.9597499999999997,1.1,5.0
+43,,Franco Colapinto,COL,Alpine F1 Team,13.0,10.0,1.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,13.0,76.191,,1,0,0,1.5120000000000005,10.6,11.8,3.0,0.0,1.4337999999999993,4.9,
+10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,7.0,6.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,14.0,76.261,,1,0,0,1.5819999999999936,9.0,9.2,6.8,0.2,1.1036000000000001,4.9,
+14,,Fernando Alonso,ALO,Aston Martin,22.0,19.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,22.0,78.815,,0,0,0,4.135999999999996,16.0,19.2,0.2,0.4,3.2445999999999997,0.1,
+18,,Lance Stroll,STR,Aston Martin,21.0,22.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,21.0,78.758,,0,0,0,4.0789999999999935,17.8,20.8,0.0,0.6,3.8132000000000006,0.1,
+5,,Gabriel Bortoleto,BOR,Audi,12.0,11.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,12.0,76.001,,1,0,0,1.3220000000000027,14.0,15.0,0.0,0.2,2.552199999999999,0.0,
+27,,Nico Hülkenberg,HUL,Audi,9.0,20.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,9.0,75.768,,0,0,0,1.0889999999999986,13.2,11.6,0.0,0.2,1.5339999999999976,0.0,
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,21.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,20.0,77.757,,0,0,0,3.078000000000003,17.4,19.8,0.0,0.2,3.5362000000000022,0.0,
+11,,Sergio Pérez,PER,Cadillac F1 Team,19.0,14.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,19.0,77.545,,1,0,0,2.8659999999999997,16.0,19.6,0.0,0.2,3.597200000000001,0.0,
+44,,Lewis Hamilton,HAM,Ferrari,2.0,1.0,25.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,2.0,74.743,,1,1,1,0.06399999999999295,3.8,4.6,15.6,0.0,0.4357999999999976,13.8,
+16,,Charles Leclerc,LEC,Ferrari,10.0,15.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,10.0,75.281,,0,0,0,0.6020000000000039,7.2,4.6,12.0,0.2,0.3863999999999976,14.2,
+87,,Oliver Bearman,BEA,Haas F1 Team,15.0,17.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,15.0,76.389,,0,0,0,1.7099999999999937,13.6,15.0,2.4,0.4,1.9175999999999989,1.5,
+31,,Esteban Ocon,OCO,Haas F1 Team,17.0,13.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,17.0,77.073,,1,0,0,2.3939999999999912,12.0,14.6,0.6,0.0,1.9833999999999974,0.4,
+1,,Lando Norris,NOR,McLaren,4.0,3.0,15.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,4.0,75.001,,1,1,0,0.32200000000000273,12.8,5.2,9.6,0.6,0.48500000000000226,10.6,
+81,,Oscar Piastri,PIA,McLaren,7.0,5.0,10.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,7.0,75.09,,1,0,0,0.41100000000000136,8.0,5.2,11.6,0.2,0.4299999999999983,11.6,
+12,,Andrea Kimi Antonelli,ANT,Mercedes,3.0,16.0,0.0,Retired,,,,2026,7,Barcelona Grand Prix,0.0,3.0,74.998,,0,0,0,0.3190000000000026,1.0,1.2,27.6,0.0,0.013599999999999567,20.1,
+63,,George Russell,RUS,Mercedes,1.0,2.0,18.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,1.0,74.679,,1,1,0,0.0,8.2,3.2,12.6,0.2,0.2625999999999976,17.2,
+30,,Liam Lawson,LAW,RB F1 Team,8.0,8.0,4.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,8.0,75.585,,1,0,0,0.9059999999999917,9.8,12.2,4.8,0.2,1.5598000000000014,3.1,
+41,,Arvid Lindblad,LIN,RB F1 Team,11.0,9.0,2.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,11.0,75.84,,1,0,0,1.1610000000000014,13.8,13.0,1.4,0.2,1.6569999999999994,2.7,
+6,,Isack Hadjar,HAD,Red Bull,6.0,6.0,8.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,6.0,75.077,,1,0,0,0.39799999999999613,10.2,10.2,5.2,0.2,0.7975999999999971,6.1,
+3,,Max Verstappen,VER,Red Bull,5.0,4.0,12.0,Finished,,,,2026,7,Barcelona Grand Prix,0.0,5.0,75.021,,1,0,0,0.34199999999999875,10.8,5.8,7.0,0.4,0.5919999999999959,6.5,
+23,,Alexander Albon,ALB,Williams,18.0,18.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,18.0,77.424,,1,0,0,2.7450000000000045,16.2,16.6,1.0,0.4,2.1897999999999995,1.1,
+55,,Carlos Sainz,SAI,Williams,16.0,12.0,0.0,Lapped,,,,2026,7,Barcelona Grand Prix,0.0,16.0,76.881,,1,0,0,2.201999999999998,11.6,14.6,1.2,0.2,1.920599999999999,1.1,
+43,,Franco Colapinto,COL,Alpine F1 Team,16.0,15.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,16.0,67.894,,1,0,0,1.781000000000006,10.6,12.0,3.0,0.0,1.4775999999999982,4.7,15.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,11.0,13.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,11.0,67.223,,1,0,0,1.1099999999999994,9.2,10.6,6.4,0.2,1.2581999999999964,4.7,11.4
+14,,Fernando Alonso,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,21.0,69.942,,1,0,0,3.8289999999999935,16.4,20.0,0.2,0.4,3.443999999999997,0.1,10.0
+18,,Lance Stroll,STR,Aston Martin,22.0,19.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,22.0,70.363,,0,0,0,4.25,18.6,21.0,0.0,0.6,3.842799999999997,0.1,12.4
+5,,Gabriel Bortoleto,BOR,Audi,12.0,11.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,12.0,67.293,,1,0,0,1.1800000000000068,12.0,14.2,0.0,0.0,2.519599999999997,0.0,8.0
+27,,Nico Hülkenberg,HUL,Audi,14.0,12.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,14.0,67.611,,1,0,0,1.4980000000000047,15.0,11.2,0.0,0.4,1.493799999999996,0.0,11.666666666666666
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,20.0,22.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,20.0,69.03,,0,0,0,2.9170000000000016,19.0,20.0,0.0,0.4,3.4774000000000003,0.0,11.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,19.0,21.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,19.0,68.945,,0,0,0,2.8319999999999936,15.8,19.2,0.0,0.2,3.201999999999998,0.0,9.0
+44,,Lewis Hamilton,HAM,Ferrari,3.0,5.0,10.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,3.0,66.408,,1,0,0,0.2950000000000017,3.4,4.4,16.4,0.0,0.3783999999999935,12.3,4.6
+16,,Charles Leclerc,LEC,Ferrari,2.0,8.0,4.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,2.0,66.349,,1,0,0,0.2360000000000042,9.4,5.8,8.2,0.4,0.4339999999999975,12.5,5.0
+87,,Oliver Bearman,BEA,Haas F1 Team,13.0,14.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,13.0,67.523,,1,0,0,1.4099999999999966,16.0,16.0,0.2,0.6,2.0329999999999955,0.4,11.0
+31,,Esteban Ocon,OCO,Haas F1 Team,15.0,16.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,15.0,67.817,,1,0,0,1.7039999999999935,11.8,15.4,0.6,0.0,2.167399999999995,0.4,12.2
+1,,Lando Norris,NOR,McLaren,6.0,7.0,6.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,6.0,66.502,,1,0,0,0.3889999999999958,9.4,4.8,11.6,0.4,0.4406000000000006,12.3,7.0
+81,,Oscar Piastri,PIA,McLaren,7.0,4.0,12.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,7.0,66.511,,1,0,0,0.39799999999999613,5.2,5.6,13.0,0.0,0.4149999999999977,11.9,6.666666666666667
+12,,Andrea Kimi Antonelli,ANT,Mercedes,4.0,3.0,15.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,4.0,66.414,,1,1,0,0.30100000000000193,4.0,1.6,21.8,0.2,0.0774000000000001,16.4,19.0
+63,,George Russell,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,1.0,66.113,,1,1,1,0.0,8.2,3.0,11.0,0.2,0.21819999999999595,15.4,5.6
+30,,Liam Lawson,LAW,RB F1 Team,9.0,9.0,2.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,9.0,66.955,,1,0,0,0.8419999999999987,10.0,11.0,4.0,0.2,1.400799999999998,2.9,6.0
+41,,Arvid Lindblad,LIN,RB F1 Team,10.0,10.0,1.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,10.0,67.007,,1,0,0,0.8940000000000055,13.2,12.2,1.8,0.2,1.545199999999997,2.9,
+6,,Isack Hadjar,HAD,Red Bull,8.0,6.0,8.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,8.0,66.632,,1,0,0,0.5190000000000055,9.8,9.6,6.0,0.2,0.6657999999999958,7.7,12.0
+3,,Max Verstappen,VER,Red Bull,5.0,2.0,18.0,Finished,,,,2026,8,Austrian Grand Prix,0.0,5.0,66.475,,1,1,0,0.36199999999999477,8.4,5.2,9.4,0.2,0.47279999999999517,8.5,5.4
+23,,Alexander Albon,ALB,Williams,18.0,17.0,0.0,Lapped,,,,2026,8,Austrian Grand Prix,0.0,18.0,68.509,,1,0,0,2.396000000000001,15.4,15.8,1.0,0.2,2.197199999999998,0.9,13.75
+55,,Carlos Sainz,SAI,Williams,17.0,20.0,0.0,Retired,,,,2026,8,Austrian Grand Prix,0.0,17.0,68.252,,0,0,0,2.138999999999996,12.2,14.4,0.8,0.2,1.9103999999999985,0.9,10.4
+43,,Franco Colapinto,COL,Alpine F1 Team,19.0,9.0,2.0,Finished,,,,2026,9,British Grand Prix,0.0,19.0,91.321,12.0,1,0,0,3.2099999999999937,10.4,12.2,3.0,0.0,1.4640000000000015,4.1,20.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,15.0,10.0,1.0,Finished,,,,2026,9,British Grand Prix,0.0,12.0,90.063,11.0,1,0,0,1.9519999999999982,10.4,11.4,5.2,0.2,1.297599999999997,3.7,14.2
+14,,Fernando Alonso,ALO,Aston Martin,21.0,18.0,0.0,Lapped,,,,2026,9,British Grand Prix,0.0,22.0,93.025,20.0,1,0,0,4.9140000000000015,16.4,20.0,0.2,0.4,3.436199999999997,0.1,7.2
+18,,Lance Stroll,STR,Aston Martin,22.0,19.0,0.0,Lapped,,,,2026,9,British Grand Prix,0.0,21.0,92.863,21.0,1,0,0,4.751999999999995,18.2,21.0,0.0,0.6,3.8643999999999976,0.1,9.4
+5,,Gabriel Bortoleto,BOR,Audi,11.0,8.0,4.0,Finished,,,,2026,9,British Grand Prix,0.0,11.0,89.461,13.0,1,0,0,1.3499999999999943,11.6,14.8,0.0,0.0,2.5132000000000003,0.0,18.0
+27,,Nico Hülkenberg,HUL,Audi,12.0,22.0,0.0,Retired,,,,2026,9,British Grand Prix,0.0,13.0,89.539,15.0,0,0,0,1.4279999999999973,15.2,11.4,0.0,0.4,1.4773999999999972,0.4,7.333333333333333
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,18.0,16.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,18.0,91.227,19.0,1,0,0,3.1159999999999997,19.6,20.0,0.0,0.6,3.350400000000002,0.0,11.75
+11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,14.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,20.0,91.451,22.0,1,0,0,3.339999999999989,16.6,19.2,0.0,0.4,3.0827999999999975,0.0,10.25
+44,,Lewis Hamilton,HAM,Ferrari,3.0,3.0,22.0,Finished,,,,2026,9,British Grand Prix,7.0,3.0,88.458,2.0,1,1,0,0.3469999999999942,3.2,3.8,16.8,0.0,0.2795999999999964,11.4,2.4
+16,,Charles Leclerc,LEC,Ferrari,2.0,1.0,29.0,Finished,,,,2026,9,British Grand Prix,4.0,2.0,88.286,5.0,1,1,1,0.17499999999999716,10.4,5.4,6.0,0.4,0.37620000000000003,12.6,8.6
+87,,Oliver Bearman,BEA,Haas F1 Team,13.0,12.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,14.0,90.501,14.0,1,0,0,2.3900000000000006,14.4,15.0,0.2,0.4,1.8525999999999954,0.3,11.0
+31,,Esteban Ocon,OCO,Haas F1 Team,17.0,13.0,0.0,Finished,,,,2026,9,British Grand Prix,0.0,17.0,90.68,16.0,1,0,0,2.5690000000000026,13.0,16.0,0.4,0.0,2.2019999999999955,0.3,14.6
+1,,Lando Norris,NOR,McLaren,6.0,4.0,18.0,Finished,,,,2026,9,British Grand Prix,6.0,6.0,88.877,3.0,1,0,0,0.7659999999999911,9.8,5.0,10.8,0.4,0.3921999999999997,11.3,3.2
+81,,Oscar Piastri,PIA,McLaren,8.0,11.0,2.0,Finished,,,,2026,9,British Grand Prix,2.0,8.0,89.032,7.0,1,0,0,0.9209999999999923,5.6,6.4,11.8,0.0,0.4237999999999971,10.5,3.3333333333333335
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,15.0,8.0,Finished,,,,2026,9,British Grand Prix,8.0,1.0,88.111,1.0,1,0,0,0.0,4.4,2.2,19.8,0.2,0.13760000000000047,16.7,16.0
+63,,George Russell,RUS,Mercedes,4.0,2.0,23.0,Finished,,,,2026,9,British Grand Prix,5.0,4.0,88.481,4.0,1,1,0,0.36999999999999034,7.6,2.8,13.6,0.2,0.15859999999999844,14.7,12.8
+30,,Liam Lawson,LAW,RB F1 Team,10.0,6.0,9.0,Finished,,,,2026,9,British Grand Prix,1.0,10.0,89.3,8.0,1,0,0,1.188999999999993,10.0,10.0,4.0,0.2,1.2257999999999982,3.0,19.0
+41,,Arvid Lindblad,LIN,RB F1 Team,9.0,7.0,6.0,Finished,,,,2026,9,British Grand Prix,0.0,9.0,89.305,10.0,1,0,0,1.1940000000000026,12.4,12.2,2.0,0.2,1.4578000000000002,3.9,
+6,,Isack Hadjar,HAD,Red Bull,5.0,5.0,10.0,Finished,,,,2026,9,British Grand Prix,0.0,5.0,88.746,9.0,1,0,0,0.6349999999999909,8.6,9.6,7.6,0.2,0.5295999999999992,9.9,17.0
+3,,Max Verstappen,VER,Red Bull,7.0,20.0,3.0,Retired,,,,2026,9,British Grand Prix,3.0,7.0,88.893,6.0,0,0,0,0.7819999999999965,7.2,4.0,12.2,0.2,0.2483999999999952,10.9,7.0
+23,,Alexander Albon,ALB,Williams,16.0,21.0,0.0,Retired,,,,2026,9,British Grand Prix,0.0,16.0,90.638,18.0,0,0,0,2.527000000000001,14.8,16.0,1.0,0.2,2.2144000000000004,0.9,11.25
+55,,Carlos Sainz,SAI,Williams,14.0,17.0,0.0,Lapped,,,,2026,9,British Grand Prix,0.0,15.0,90.562,17.0,1,0,0,2.4509999999999934,13.2,14.6,0.8,0.4,1.9083999999999974,0.8,6.8
+43,,Franco Colapinto,COL,Alpine F1 Team,11.0,10.0,1.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,13.0,106.392,,1,0,0,2.0309999999999917,10.8,14.4,2.2,0.0,1.9132000000000005,3.7,19.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,11.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,12.0,106.331,,1,0,0,1.9699999999999989,8.2,12.6,5.2,0.0,1.4855999999999967,3.0,9.8
+14,,Fernando Alonso,ALO,Aston Martin,22.0,19.0,0.0,Lapped,,,,2026,10,Belgian Grand Prix,0.0,21.0,110.002,,1,0,0,5.640999999999991,17.0,20.8,0.2,0.4,3.7589999999999977,0.1,9.2
+18,,Lance Stroll,STR,Aston Martin,20.0,20.0,0.0,Retired,,,,2026,10,Belgian Grand Prix,0.0,22.0,110.177,,0,0,0,5.8160000000000025,18.6,21.8,0.0,0.6,4.141599999999997,0.1,13.0
+5,,Gabriel Bortoleto,BOR,Audi,8.0,8.0,4.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,9.0,105.628,,1,0,0,1.266999999999996,10.8,12.8,0.8,0.0,1.5954000000000008,0.4,9.0
+27,,Nico Hülkenberg,HUL,Audi,12.0,13.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,14.0,106.671,,1,0,0,2.3100000000000023,15.8,11.8,0.0,0.4,1.4347999999999985,0.8,16.0
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,17.0,18.0,0.0,Lapped,,,,2026,10,Belgian Grand Prix,0.0,19.0,107.823,,1,0,0,3.461999999999989,19.2,19.8,0.0,0.6,3.207400000000001,0.0,14.5
+11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,21.0,0.0,Retired,,,,2026,10,Belgian Grand Prix,0.0,20.0,107.971,,0,0,0,3.6099999999999994,16.2,19.2,0.0,0.4,2.916999999999996,0.0,7.5
+44,,Lewis Hamilton,HAM,Ferrari,5.0,4.0,12.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,6.0,104.895,,1,0,0,0.5339999999999918,2.6,3.2,19.2,0.0,0.24479999999999508,14.5,7.0
+16,,Charles Leclerc,LEC,Ferrari,4.0,2.0,18.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,5.0,104.893,,1,1,0,0.5319999999999965,9.0,5.2,9.8,0.4,0.3421999999999997,13.6,4.6
+87,,Oliver Bearman,BEA,Haas F1 Team,14.0,14.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,16.0,106.779,,1,0,0,2.417999999999992,14.6,15.2,0.2,0.4,2.0221999999999953,0.3,11.0
+31,,Esteban Ocon,OCO,Haas F1 Team,16.0,17.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,18.0,107.801,,1,0,0,3.4399999999999977,13.0,16.6,0.4,0.0,2.3209999999999953,0.2,9.2
+1,,Lando Norris,NOR,McLaren,13.0,7.0,6.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,3.0,104.801,,1,0,0,0.4399999999999977,10.2,5.4,9.2,0.4,0.46839999999999693,8.5,8.0
+81,,Oscar Piastri,PIA,McLaren,6.0,5.0,10.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,7.0,105.016,,1,0,0,0.6550000000000011,7.2,6.6,7.8,0.0,0.5011999999999972,8.4,7.666666666666667
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,1.0,104.361,,1,1,1,0.0,7.2,2.2,15.8,0.2,0.13760000000000047,15.3,16.0
+63,,George Russell,RUS,Mercedes,3.0,22.0,0.0,Retired,,,,2026,10,Belgian Grand Prix,0.0,4.0,104.869,,0,0,0,0.5079999999999956,7.2,2.6,14.8,0.2,0.15279999999999633,14.7,7.4
+30,,Liam Lawson,LAW,RB F1 Team,9.0,12.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,11.0,106.12,,1,0,0,1.7590000000000003,7.2,9.8,5.8,0.0,1.123399999999998,4.5,8.0
+41,,Arvid Lindblad,LIN,RB F1 Team,7.0,9.0,2.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,8.0,105.143,,1,0,0,0.7819999999999965,11.0,10.8,3.2,0.2,1.229600000000002,3.9,
+6,,Isack Hadjar,HAD,Red Bull,21.0,6.0,8.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,10.0,105.823,,1,0,0,1.461999999999989,5.2,6.2,9.6,0.0,0.4583999999999975,9.8,20.0
+3,,Max Verstappen,VER,Red Bull,2.0,3.0,15.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,2.0,104.678,,1,1,0,0.31699999999999307,10.2,5.0,10.0,0.4,0.37159999999999516,9.6,2.2
+23,,Alexander Albon,ALB,Williams,15.0,15.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,17.0,107.12,,1,0,0,2.7590000000000003,17.0,16.2,0.8,0.4,2.3354000000000013,0.6,10.5
+55,,Carlos Sainz,SAI,Williams,19.0,16.0,0.0,Finished,,,,2026,10,Belgian Grand Prix,0.0,15.0,106.777,,1,0,0,2.415999999999997,14.8,14.8,0.4,0.4,2.0501999999999954,0.6,11.2
