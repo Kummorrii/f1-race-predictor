@@ -126,9 +126,15 @@ def collect_season(year: int) -> pd.DataFrame:
 
 
 def main():
-    # Start small on your first run — try just [2024] to make sure
-    # everything works before pulling multiple seasons.
-    seasons_to_collect = [2021, 2022, 2023, 2024, 2025]
+    # Only 2026 needs to be collected going forward. Past seasons (like
+    # 2025) are already complete and will never produce new data, so
+    # there's no reason to keep re-fetching them — this also keeps the
+    # model focused on the current regulations era instead of blending
+    # in patterns from before the 2026 rule changes.
+    #
+    # If you ever want historical seasons collected again (e.g. to
+    # rebuild everything from scratch), just add more years to this list.
+    seasons_to_collect = [2026]
 
     for year in seasons_to_collect:
         print(f"\n=== Collecting {year} season ===")

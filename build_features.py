@@ -134,7 +134,19 @@ def build_train_test_split(df: pd.DataFrame, test_races: int = 5):
 
 def main():
     df = load_all_races()
-    print(f"Loaded {len(df)} driver-race rows total")
+    print(f"Loaded {len(df)} driver-race rows total across all collected seasons")
+
+    # Focus the model on the CURRENT season only. Older seasons (like
+    # 2025) may have run under different technical regulations, so
+    # blending them in risks teaching the model outdated patterns rather
+    # than how the field actually stacks up right now. This does mean
+    # less training data, especially early in a season — a deliberate
+    # tradeoff favoring "recent and relevant" over "large but stale."
+    # (Uses whichever season is latest in the data, so this doesn't need
+    # editing again next year.)
+    current_season = df["Season"].max()
+    df = df[df["Season"] == current_season].reset_index(drop=True)
+    print(f"Focusing on season {current_season} only: {len(df)} rows")
 
     df = add_target_columns(df)
     df = add_driver_form_features(df)
@@ -149,7 +161,7 @@ def main():
     df.to_csv(out_path, index=False)
     print(f"Saved {len(df)} processed rows to {out_path}")
 
-    train_df, test_df = build_train_test_split(df, test_races=5)
+    train_df, test_df = build_train_test_split(df, test_races=3)
     train_df.to_csv(DATA_DIR / "train.csv", index=False)
     test_df.to_csv(DATA_DIR / "test.csv", index=False)
     print(f"Train set: {len(train_df)} rows | Test set: {len(test_df)} rows")

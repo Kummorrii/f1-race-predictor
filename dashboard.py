@@ -377,8 +377,8 @@ st.write("")
 # ============================================================
 # TABS
 # ============================================================
-tab0, tab1, tab2, tab3 = st.tabs([
-    "🏆 Standings", "📊 Next Race Predictions", "📋 Full Table", "🔍 Driver Deep Dive"
+tab0, tab1, tab2, tab3, tab4 = st.tabs([
+    "🏆 Standings", "📊 Next Race Predictions", "📋 Full Table", "🔍 Driver Deep Dive", "📅 2025 Season"
 ])
 
 # ------------------------------------------------------------
@@ -552,6 +552,64 @@ with tab3:
     col_a.metric("Most likely finish", int(driver_positions.mode()[0]))
     col_b.metric("Best simulated finish", int(driver_positions.min()))
     col_c.metric("Worst simulated finish", int(driver_positions.max()))
+
+# ------------------------------------------------------------
+# TAB 4 — 2025 season archive
+# ------------------------------------------------------------
+with tab4:
+    st.subheader("2025 Season — Final Standings")
+    st.markdown(
+        '<div class="section-note">Archived results. The model and predictions '
+        'elsewhere in this dashboard are based on 2026 data only, since 2026 runs '
+        'under different technical regulations — this tab is a historical '
+        'reference, not part of the live prediction pipeline.</div>',
+        unsafe_allow_html=True,
+    )
+
+    try:
+        archive_2025 = pd.read_csv("f1_data/race_results_2025.csv")
+    except FileNotFoundError:
+        archive_2025 = None
+
+    if archive_2025 is None or archive_2025.empty:
+        st.info("No 2025 season file found (f1_data/race_results_2025.csv).")
+    else:
+        # This raw file was never run through build_features.py, so Win/
+        # Podium flags don't exist yet — derive them directly from Position.
+        archive_2025["Win"] = (archive_2025["Position"] == 1).astype(int)
+        archive_2025["Podium"] = (archive_2025["Position"] <= 3).astype(int)
+
+        archive_standings = archive_2025.groupby("Abbreviation", as_index=False).agg(
+            Points=("Points", "sum"),
+            Wins=("Win", "sum"),
+            Podiums=("Podium", "sum"),
+            AvgFinish=("Position", "mean"),
+            BestFinish=("Position", "min"),
+        )
+        latest_team_2025 = archive_2025.groupby("Abbreviation")["TeamName"].last()
+        archive_standings["Team"] = archive_standings["Abbreviation"].map(latest_team_2025)
+
+        if "FullName" in archive_2025.columns:
+            latest_name_2025 = archive_2025.groupby("Abbreviation")["FullName"].last()
+            archive_standings["Driver"] = archive_standings["Abbreviation"].map(latest_name_2025)
+            archive_standings["Driver"] = archive_standings["Driver"].fillna(archive_standings["Abbreviation"])
+        else:
+            archive_standings["Driver"] = archive_standings["Abbreviation"]
+
+        archive_standings = archive_standings.sort_values("Points", ascending=False).reset_index(drop=True)
+        archive_standings.insert(0, "Rank", range(1, len(archive_standings) + 1))
+        archive_standings["AvgFinish"] = archive_standings["AvgFinish"].round(1)
+
+        columns = [
+            ("Rank", "Rank"), ("Driver", "Driver"), ("Team", "Team"), ("Points", "Points"),
+            ("Wins", "Wins"), ("Podiums", "Podiums"), ("AvgFinish", "Avg. Finish"), ("BestFinish", "Best Finish"),
+        ]
+        table_rows = archive_standings.to_dict("records")
+        table_html = animated_table_html(columns, table_rows, bar_col="Points", rank_col="Rank")
+
+        st.markdown('<div class="panel">', unsafe_allow_html=True)
+        components.html(table_html, height=52 + 44 * len(table_rows) + 20, scrolling=False)
+        st.markdown('</div>', unsafe_allow_html=True)
 
 # ============================================================
 # FOOTER
