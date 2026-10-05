@@ -1,26 +1,4 @@
 DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName,SprintPoints,QualiPosition,QualiTimeSeconds,SprintPosition,DidFinish,Podium,Win,QualiGapSeconds,RecentAvgFinish,RecentAvgGrid,RecentAvgPoints,RecentDNFRate,RecentAvgQualiGap,TeamRecentAvgPoints,TrackHistoryAvgFinish
-43,,Franco Colapinto,COL,Alpine F1 Team,7.0,9.0,2.0,Finished,,,,2026,13,Italian Grand Prix,0.0,8.0,82.22,,1,0,0,0.4339999999999975,12.6,14.6,0.6,0.0,2.0957999999999997,0.6,14.5
-10,,Pierre Gasly,GAS,Alpine F1 Team,1.0,7.0,6.0,Finished,,,,2026,13,Italian Grand Prix,0.0,1.0,81.786,,1,0,0,0.0,11.2,11.8,0.6,0.0,1.6244,0.8,14.6
-14,,Fernando Alonso,ALO,Aston Martin,21.0,21.0,0.0,Retired,,,,2026,13,Italian Grand Prix,0.0,21.0,85.15,,0,0,0,3.3640000000000043,15.6,19.6,0.4,0.0,3.894400000000002,0.2,13.2
-18,,Lance Stroll,STR,Aston Martin,18.0,20.0,0.0,Retired,,,,2026,13,Italian Grand Prix,0.0,22.0,85.222,,0,0,0,3.435999999999993,18.2,20.6,0.0,0.6,4.185000000000002,0.2,15.6
-5,,Gabriel Bortoleto,BOR,Audi,10.0,11.0,0.0,Finished,,,,2026,13,Italian Grand Prix,0.0,11.0,82.517,,1,0,0,0.7309999999999945,10.2,10.8,1.6,0.0,1.3150000000000006,1.4,8.0
-27,,Nico Hülkenberg,HUL,Audi,12.0,12.0,0.0,Finished,,,,2026,13,Italian Grand Prix,0.0,13.0,82.779,,1,0,0,0.992999999999995,12.8,12.2,1.2,0.2,1.6604000000000014,1.4,18.0
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,16.0,19.0,0.0,Lapped,,,,2026,13,Italian Grand Prix,0.0,19.0,84.364,,1,0,0,2.578000000000003,19.2,19.4,0.0,0.6,3.276399999999998,0.0,10.5
-11,,Sergio Pérez,PER,Cadillac F1 Team,17.0,18.0,0.0,Lapped,,,,2026,13,Italian Grand Prix,0.0,20.0,84.595,,1,0,0,2.8089999999999975,18.4,20.2,0.0,0.6,3.466799999999998,0.0,5.25
-44,,Lewis Hamilton,HAM,Ferrari,4.0,6.0,8.0,Finished,,,,2026,13,Italian Grand Prix,0.0,5.0,82.011,,1,0,0,0.22499999999999432,4.2,4.2,13.6,0.0,0.30379999999999824,14.8,7.8
-16,,Charles Leclerc,LEC,Ferrari,3.0,22.0,0.0,Retired,,,,2026,13,Italian Grand Prix,0.0,4.0,82.004,,0,0,0,0.21800000000000352,4.0,3.2,16.0,0.0,0.31520000000000153,14.6,3.0
-87,,Oliver Bearman,BEA,Haas F1 Team,11.0,15.0,0.0,Finished,,,,2026,13,Italian Grand Prix,0.0,12.0,82.756,,1,0,0,0.9699999999999989,16.0,15.4,0.0,0.2,2.3813999999999993,0.0,12.0
-31,,Esteban Ocon,OCO,Haas F1 Team,14.0,16.0,0.0,Lapped,,,,2026,13,Italian Grand Prix,0.0,16.0,83.454,,1,0,0,1.6679999999999922,16.2,15.6,0.0,0.2,2.4427999999999996,0.0,13.8
-1,,Lando Norris,NOR,McLaren,8.0,4.0,12.0,Finished,,,,2026,13,Italian Grand Prix,0.0,9.0,82.067,,1,0,0,0.2809999999999917,4.0,5.4,17.2,0.0,0.31899999999999695,12.2,4.4
-81,,Oscar Piastri,PIA,McLaren,6.0,5.0,10.0,Finished,,,,2026,13,Italian Grand Prix,0.0,3.0,81.966,,1,0,0,0.1799999999999926,9.2,5.6,7.2,0.2,0.5186000000000007,12.8,5.666666666666667
-12,,Andrea Kimi Antonelli,ANT,Mercedes,19.0,1.0,25.0,Finished,,,,2026,13,Italian Grand Prix,0.0,7.0,81.882,,1,1,1,0.09600000000000364,4.8,3.2,17.2,0.0,0.14120000000000346,16.3,9.0
-63,,George Russell,RUS,Mercedes,2.0,2.0,18.0,Finished,,,,2026,13,Italian Grand Prix,0.0,2.0,81.846,,1,1,0,0.060000000000002274,7.0,3.2,15.4,0.2,0.30660000000000026,17.3,5.8
-41,,Arvid Lindblad,LIN,RB F1 Team,9.0,8.0,4.0,Finished,,,,2026,13,Italian Grand Prix,0.0,10.0,82.286,,1,0,0,0.5,9.6,9.0,2.0,0.0,0.9932000000000045,2.5,
-22,,Yuki Tsunoda,TSU,RB F1 Team,15.0,10.0,1.0,Finished,,,,2026,13,Italian Grand Prix,0.0,17.0,83.755,,1,0,0,1.968999999999994,11.0,12.0,0.0,0.0,1.4639999999999986,2.7,17.4
-30,,Liam Lawson,LAW,Red Bull,22.0,14.0,0.0,Finished,,,,2026,13,Italian Grand Prix,0.0,14.0,82.821,,1,0,0,1.0349999999999966,8.4,9.4,4.2,0.0,1.1836000000000013,9.7,12.5
-3,,Max Verstappen,VER,Red Bull,5.0,3.0,15.0,Finished,,,,2026,13,Italian Grand Prix,0.0,6.0,82.07,,1,1,0,0.2839999999999918,9.8,5.0,11.4,0.4,0.4867999999999967,8.9,5.4
-23,,Alexander Albon,ALB,Williams,20.0,17.0,0.0,Lapped,,,,2026,13,Italian Grand Prix,0.0,18.0,84.356,,1,0,0,2.569999999999993,17.4,16.8,0.0,0.4,2.630400000000003,0.0,7.666666666666667
-55,,Carlos Sainz,SAI,Williams,13.0,13.0,0.0,Finished,,,,2026,13,Italian Grand Prix,0.0,15.0,83.453,,1,0,0,1.6670000000000016,17.4,17.0,0.0,0.2,2.5661999999999976,0.0,5.6
 43,,Franco Colapinto,COL,Alpine F1 Team,9.0,7.0,6.0,Finished,,,,2026,14,Spanish Grand Prix,0.0,9.0,92.903,,1,0,0,1.0790000000000077,11.4,12.8,1.0,0.0,1.8263999999999982,1.4,15.0
 10,,Pierre Gasly,GAS,Alpine F1 Team,14.0,12.0,0.0,Lapped,,,,2026,14,Spanish Grand Prix,0.0,14.0,93.753,,1,0,0,1.929000000000002,10.0,9.8,1.8,0.0,1.4024,1.8,10.0
 14,,Fernando Alonso,ALO,Aston Martin,17.0,17.0,0.0,Lapped,,,,2026,14,Spanish Grand Prix,0.0,18.0,95.388,,1,0,0,3.564000000000007,16.2,19.6,0.4,0.2,3.8014000000000037,0.2,10.8
@@ -65,3 +43,25 @@ DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,
 3,,Max Verstappen,VER,Red Bull,8.0,2.0,18.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,8.0,103.706,,1,1,0,1.1800000000000068,6.4,4.2,13.8,0.2,0.3427999999999969,10.6,5.4
 23,,Alexander Albon,ALB,Williams,12.0,20.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,13.0,105.001,,0,0,0,2.4750000000000085,16.2,17.2,0.0,0.2,2.856400000000002,0.0,11.0
 55,,Carlos Sainz,SAI,Williams,14.0,10.0,1.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,9.0,104.566,,1,0,0,2.0400000000000063,16.4,17.4,0.0,0.2,2.6792000000000002,0.0,10.8
+43,,Franco Colapinto,COL,Alpine F1 Team,21.0,13.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,15.0,97.179,,1,0,0,2.0490000000000066,12.4,10.4,1.6,0.2,1.4254000000000047,1.6,
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,16.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,9.0,96.41,,1,0,0,1.2800000000000011,11.8,9.0,1.6,0.2,1.3080000000000012,1.6,14.2
+14,,Fernando Alonso,ALO,Aston Martin,12.0,8.0,4.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,12.0,97.22,,1,0,0,2.0900000000000034,16.4,18.6,0.4,0.4,3.216600000000008,0.2,11.0
+18,,Lance Stroll,STR,Aston Martin,14.0,12.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,14.0,97.566,,1,0,0,2.436000000000007,19.2,20.0,0.0,0.8,3.5885000000000034,0.6,11.0
+5,,Gabriel Bortoleto,BOR,Audi,10.0,18.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,10.0,96.814,,1,0,0,1.6839999999999975,12.6,12.4,0.0,0.0,1.6692000000000036,0.7,18.0
+27,,Nico Hülkenberg,HUL,Audi,15.0,11.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,17.0,97.97,,1,0,0,2.8400000000000034,10.0,12.8,1.4,0.0,1.7704000000000009,0.7,17.0
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,22.0,0.0,Retired,,,,2026,16,Bahrain Grand Prix,0.0,21.0,98.611,,0,0,0,3.4810000000000088,18.6,19.2,0.0,0.6,4.283200000000003,0.0,9.0
+11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,19.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,22.0,98.933,,1,0,0,3.8030000000000115,17.6,19.8,0.0,0.4,3.7164000000000015,0.0,6.75
+44,,Lewis Hamilton,HAM,Ferrari,2.0,3.0,15.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,2.0,95.428,,1,1,0,0.2980000000000018,8.6,4.8,8.0,0.2,0.41780000000000256,9.3,4.2
+16,,Charles Leclerc,LEC,Ferrari,4.0,4.0,12.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,5.0,95.666,,1,0,0,0.5360000000000014,7.8,3.6,10.6,0.2,0.3766000000000048,9.8,6.8
+87,,Oliver Bearman,BEA,Haas F1 Team,16.0,14.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,18.0,97.98,,1,0,0,2.8500000000000085,16.0,16.0,0.4,0.2,2.227000000000004,0.6,10.0
+31,,Esteban Ocon,OCO,Haas F1 Team,17.0,15.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,19.0,98.233,,1,0,0,3.1030000000000086,14.0,14.0,0.8,0.2,2.100400000000002,0.6,12.6
+1,,Lando Norris,NOR,McLaren,5.0,9.0,2.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,6.0,95.757,,1,0,0,0.6270000000000095,5.6,3.2,16.6,0.2,0.2853999999999985,10.9,9.0
+81,,Oscar Piastri,PIA,McLaren,6.0,6.0,8.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,7.0,95.762,,1,0,0,0.632000000000005,10.4,4.6,5.2,0.2,0.4214000000000027,8.6,9.666666666666666
+12,,Andrea Kimi Antonelli,ANT,Mercedes,3.0,2.0,18.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,4.0,95.631,,1,1,0,0.5010000000000048,2.4,9.4,19.6,0.0,0.6980000000000046,18.0,11.0
+63,,George Russell,RUS,Mercedes,7.0,20.0,0.0,Retired,,,,2026,16,Bahrain Grand Prix,0.0,8.0,95.871,,0,0,0,0.7409999999999997,3.6,3.4,16.4,0.0,0.2080000000000041,18.3,6.4
+30,,Liam Lawson,LAW,RB F1 Team,11.0,7.0,6.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,11.0,97.023,,1,0,0,1.8930000000000007,9.4,12.0,3.6,0.0,1.1978000000000038,1.8,16.0
+41,,Arvid Lindblad,LIN,RB F1 Team,22.0,10.0,1.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,16.0,97.883,,1,0,0,2.753,9.2,10.6,2.6,0.0,1.278600000000003,2.0,
+6,,Isack Hadjar,HAD,Red Bull,8.0,5.0,10.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,3.0,95.558,,1,0,0,0.4280000000000115,5.2,9.2,9.8,0.0,0.847799999999998,10.9,13.0
+3,,Max Verstappen,VER,Red Bull,1.0,1.0,25.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,1.0,95.13,,1,1,1,0.0,6.2,5.4,14.4,0.2,0.5153999999999996,11.1,5.8
+23,,Alexander Albon,ALB,Williams,18.0,21.0,0.0,Retired,,,,2026,16,Bahrain Grand Prix,0.0,20.0,98.6,,0,0,0,3.469999999999999,17.2,16.6,0.0,0.4,2.799600000000004,0.1,12.5
+55,,Carlos Sainz,SAI,Williams,13.0,17.0,0.0,Finished,,,,2026,16,Bahrain Grand Prix,0.0,13.0,97.527,,1,0,0,2.3970000000000056,15.2,16.4,0.2,0.2,2.604000000000002,0.1,7.2
