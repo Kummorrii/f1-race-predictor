@@ -307,3 +307,25 @@ DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,
 3,,Max Verstappen,VER,Red Bull,3.0,2.0,18.0,Finished,,,,2026,14,Spanish Grand Prix,0.0,3.0,91.964,,1,1,0,0.14000000000000057,10.0,5.0,10.8,0.4,0.47119999999999607,8.4,3.0
 23,,Alexander Albon,ALB,Williams,16.0,15.0,0.0,Lapped,,,,2026,14,Spanish Grand Prix,0.0,16.0,95.307,,1,0,0,3.483000000000004,17.4,17.2,0.0,0.4,2.6652000000000013,0.0,17.75
 55,,Carlos Sainz,SAI,Williams,20.0,19.0,0.0,Retired,,,,2026,14,Spanish Grand Prix,0.0,17.0,95.312,,0,0,0,3.4879999999999995,16.0,16.2,0.0,0.0,2.471799999999999,0.0,7.2
+43,,Franco Colapinto,COL,Alpine F1 Team,9.0,17.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,10.0,104.683,,0,0,0,2.1570000000000107,11.0,10.8,1.8,0.0,1.400200000000001,1.7,13.5
+10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,18.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,7.0,104.047,,0,0,0,1.5210000000000008,10.4,9.6,1.6,0.0,1.3978000000000008,1.6,10.4
+14,,Fernando Alonso,ALO,Aston Martin,21.0,21.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,19.0,106.593,,0,0,0,4.067000000000007,16.0,18.8,0.4,0.2,3.531400000000005,0.2,7.6
+18,,Lance Stroll,STR,Aston Martin,22.0,22.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,21.0,107.337,,0,0,0,4.811000000000007,18.8,19.6,0.0,0.8,3.839750000000002,0.2,15.6
+5,,Gabriel Bortoleto,BOR,Audi,17.0,15.0,0.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,17.0,105.799,,1,0,0,3.2730000000000103,11.2,10.6,0.8,0.0,1.2680000000000007,1.1,11.0
+27,,Nico Hülkenberg,HUL,Audi,18.0,11.0,0.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,18.0,105.92,,1,0,0,3.3940000000000055,10.4,11.6,1.4,0.0,1.5536,0.7,14.666666666666666
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,16.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,22.0,108.29,,0,0,0,5.76400000000001,19.0,18.8,0.0,0.4,3.822799999999998,0.0,14.25
+11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,14.0,0.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,20.0,106.658,,1,0,0,4.132000000000005,19.0,19.4,0.0,0.6,3.6120000000000005,0.0,5.25
+44,,Lewis Hamilton,HAM,Ferrari,6.0,6.0,8.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,6.0,103.858,,1,0,0,1.3320000000000078,8.2,4.6,8.8,0.2,0.2581999999999994,10.3,8.4
+16,,Charles Leclerc,LEC,Ferrari,2.0,4.0,12.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,2.0,103.363,,1,0,0,0.8370000000000033,7.4,4.0,11.8,0.2,0.31560000000000343,9.9,7.4
+87,,Oliver Bearman,BEA,Haas F1 Team,10.0,9.0,2.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,11.0,104.775,,1,0,0,2.2490000000000094,17.0,16.8,0.0,0.2,2.2692499999999995,0.0,11.0
+31,,Esteban Ocon,OCO,Haas F1 Team,13.0,8.0,4.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,14.0,105.016,,1,0,0,2.490000000000009,15.8,14.6,0.0,0.2,2.2903999999999995,0.2,14.8
+1,,Lando Norris,NOR,McLaren,5.0,19.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,5.0,103.672,,0,0,0,1.1460000000000008,3.2,4.8,17.8,0.0,0.14419999999999789,12.5,6.8
+81,,Oscar Piastri,PIA,McLaren,3.0,13.0,0.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,3.0,103.364,,1,0,0,0.8380000000000081,8.8,5.2,7.2,0.2,0.3848000000000013,11.9,10.666666666666666
+12,,Andrea Kimi Antonelli,ANT,Mercedes,16.0,5.0,10.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,16.0,105.504,,1,0,0,2.9780000000000086,1.6,6.4,22.6,0.0,0.10240000000000293,17.0,4.0
+63,,George Russell,RUS,Mercedes,1.0,1.0,25.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,1.0,102.526,,1,1,1,0.0,7.8,3.8,11.4,0.2,0.3096000000000032,15.5,6.6
+30,,Liam Lawson,LAW,RB F1 Team,11.0,12.0,0.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,12.0,104.86,,1,0,0,2.334000000000003,9.4,11.6,3.6,0.0,1.082800000000003,1.4,5.0
+41,,Arvid Lindblad,LIN,RB F1 Team,15.0,7.0,6.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,15.0,105.106,,1,0,0,2.5799999999999983,9.6,9.0,1.8,0.0,0.9190000000000026,1.4,
+6,,Isack Hadjar,HAD,Red Bull,4.0,3.0,15.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,4.0,103.5,,1,1,0,0.9740000000000038,5.8,9.6,8.4,0.0,0.7325999999999965,9.9,10.0
+3,,Max Verstappen,VER,Red Bull,8.0,2.0,18.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,8.0,103.706,,1,1,0,1.1800000000000068,6.4,4.2,13.8,0.2,0.3427999999999969,10.6,5.4
+23,,Alexander Albon,ALB,Williams,12.0,20.0,0.0,Retired,,,,2026,15,Azerbaijan Grand Prix,0.0,13.0,105.001,,0,0,0,2.4750000000000085,16.2,17.2,0.0,0.2,2.856400000000002,0.0,11.0
+55,,Carlos Sainz,SAI,Williams,14.0,10.0,1.0,Finished,,,,2026,15,Azerbaijan Grand Prix,0.0,9.0,104.566,,1,0,0,2.0400000000000063,16.4,17.4,0.0,0.2,2.6792000000000002,0.0,10.8

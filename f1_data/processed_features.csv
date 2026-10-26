@@ -373,3 +373,25 @@ DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,
 3,,Max Verstappen,VER,Red Bull,1.0,1.0,33.0,Finished,,,,2026,17,Singapore Grand Prix,8.0,1.0,91.373,1.0,1,1,1,0.0,6.0,4.8,15.8,0.2,0.4117999999999995,11.3,4.0
 23,,Alexander Albon,ALB,Williams,16.0,18.0,0.0,Retired,,,,2026,17,Singapore Grand Prix,0.0,18.0,94.289,15.0,0,0,0,2.915999999999997,18.0,16.4,0.0,0.6,2.803400000000002,0.1,15.5
 55,,Carlos Sainz,SAI,Williams,13.0,14.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,14.0,93.526,12.0,1,0,0,2.1529999999999916,15.0,15.4,0.2,0.2,2.400600000000003,0.1,5.25
+43,,Franco Colapinto,COL,Alpine F1 Team,20.0,21.0,0.0,Retired,,,,2026,18,United States Grand Prix,0.0,14.0,95.722,,0,0,0,1.6869999999999976,13.4,12.2,1.6,0.4,1.5214000000000028,1.4,13.5
+10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,10.0,1.0,Finished,,,,2026,18,United States Grand Prix,0.0,11.0,95.08,,1,0,0,1.0450000000000017,12.8,7.6,1.2,0.2,1.1163999999999987,1.2,14.2
+14,,Fernando Alonso,ALO,Aston Martin,12.0,16.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,15.0,95.818,,1,0,0,1.7830000000000013,16.6,18.2,0.8,0.4,3.1870000000000034,0.4,12.8
+18,,Lance Stroll,STR,Aston Martin,22.0,15.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,18.0,96.677,,1,0,0,2.64200000000001,19.0,19.2,0.0,0.8,3.564,0.4,12.8
+5,,Gabriel Bortoleto,BOR,Audi,21.0,13.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,13.0,95.632,,1,0,0,1.5970000000000084,15.8,12.6,0.0,0.2,1.9074000000000013,0.7,18.0
+27,,Nico Hülkenberg,HUL,Audi,11.0,11.0,0.0,Finished,,,,2026,18,United States Grand Prix,0.0,12.0,95.158,,1,0,0,1.1230000000000047,10.4,13.2,1.4,0.0,2.0074000000000014,0.7,9.0
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,19.0,20.0,0.0,Retired,,,,2026,18,United States Grand Prix,0.0,22.0,97.523,,0,0,0,3.4879999999999995,18.8,18.2,0.0,0.4,4.524200000000002,0.0,13.5
+11,,Sergio Pérez,PER,Cadillac F1 Team,18.0,19.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,21.0,97.433,,1,0,0,3.3980000000000103,17.6,18.4,0.0,0.2,3.7166000000000023,0.0,4.5
+44,,Lewis Hamilton,HAM,Ferrari,5.0,4.0,12.0,Finished,,,,2026,18,United States Grand Prix,0.0,5.0,94.311,,1,0,0,0.27600000000001046,8.6,3.8,9.2,0.2,0.43340000000000034,10.6,9.4
+16,,Charles Leclerc,LEC,Ferrari,4.0,2.0,18.0,Finished,,,,2026,18,United States Grand Prix,0.0,4.0,94.198,,1,1,0,0.1629999999999967,7.2,3.2,12.0,0.2,0.36800000000000355,11.0,6.2
+87,,Oliver Bearman,BEA,Haas F1 Team,13.0,22.0,0.0,Retired,,,,2026,18,United States Grand Prix,0.0,16.0,96.031,,0,0,0,1.9960000000000093,13.2,14.0,1.0,0.0,1.9010000000000034,0.9,9.0
+31,,Esteban Ocon,OCO,Haas F1 Team,15.0,14.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,17.0,96.531,,1,0,0,2.4960000000000093,12.6,13.8,0.8,0.0,2.2108000000000003,0.9,16.2
+1,,Lando Norris,NOR,McLaren,8.0,5.0,10.0,Finished,,,,2026,18,United States Grand Prix,0.0,8.0,94.539,,1,0,0,0.5040000000000049,7.8,4.8,8.4,0.2,0.47860000000000014,7.4,4.4
+81,,Oscar Piastri,PIA,McLaren,7.0,7.0,6.0,Finished,,,,2026,18,United States Grand Prix,0.0,7.0,94.803,,1,0,0,0.7680000000000007,7.4,5.6,6.4,0.0,0.5213999999999999,7.2,9.0
+12,,Andrea Kimi Antonelli,ANT,Mercedes,1.0,1.0,25.0,Finished,,,,2026,18,United States Grand Prix,0.0,1.0,94.035,,1,1,1,0.0,2.4,8.8,19.6,0.0,0.7550000000000011,15.3,13.0
+63,,George Russell,RUS,Mercedes,6.0,8.0,4.0,Finished,,,,2026,18,United States Grand Prix,0.0,6.0,94.305,,1,0,0,0.27000000000001023,7.4,7.0,11.0,0.2,0.3,15.3,7.2
+30,,Liam Lawson,LAW,RB F1 Team,9.0,9.0,2.0,Finished,,,,2026,18,United States Grand Prix,0.0,10.0,95.058,,1,0,0,1.0230000000000103,9.2,12.0,4.8,0.0,1.3400000000000005,3.0,10.0
+41,,Arvid Lindblad,LIN,RB F1 Team,14.0,12.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,9.0,94.95,,1,0,0,0.9150000000000063,9.8,13.0,2.6,0.0,1.6349999999999993,2.8,
+6,,Isack Hadjar,HAD,Red Bull,3.0,6.0,8.0,Finished,,,,2026,18,United States Grand Prix,0.0,3.0,94.25,,1,0,0,0.2150000000000034,6.0,12.6,8.4,0.0,0.8782500000000013,14.3,16.0
+3,,Max Verstappen,VER,Red Bull,2.0,3.0,15.0,Finished,,,,2026,18,United States Grand Prix,0.0,2.0,94.214,,1,1,0,0.17900000000000205,1.8,3.6,21.8,0.0,0.32079999999999986,15.1,1.4
+23,,Alexander Albon,ALB,Williams,17.0,17.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,20.0,96.967,,1,0,0,2.932000000000002,18.2,16.4,0.0,0.6,2.9828,0.1,13.0
+55,,Carlos Sainz,SAI,Williams,16.0,18.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,19.0,96.77,,1,0,0,2.7349999999999994,14.6,14.6,0.2,0.2,2.349000000000001,0.1,10.4
