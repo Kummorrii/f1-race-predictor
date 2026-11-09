@@ -1,26 +1,4 @@
 DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,Points,Status,Q1,Q2,Q3,Season,Round,EventName,SprintPoints,QualiPosition,QualiTimeSeconds,SprintPosition,DidFinish,Podium,Win,QualiGapSeconds,RecentAvgFinish,RecentAvgGrid,RecentAvgPoints,RecentDNFRate,RecentAvgQualiGap,TeamRecentAvgPoints,TrackHistoryAvgFinish
-43,,Franco Colapinto,COL,Alpine F1 Team,15.0,21.0,0.0,Retired,,,,2026,17,Singapore Grand Prix,0.0,16.0,93.261,19.0,0,0,0,1.887999999999991,12.0,12.0,1.6,0.2,1.4712000000000045,1.6,13.5
-10,,Pierre Gasly,GAS,Alpine F1 Team,7.0,11.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,8.0,92.225,9.0,1,0,0,0.8519999999999897,12.6,8.4,1.6,0.2,1.2366000000000015,1.6,13.0
-14,,Fernando Alonso,ALO,Aston Martin,20.0,16.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,17.0,94.223,11.0,1,0,0,2.8499999999999943,15.2,17.8,1.2,0.4,3.114400000000006,0.6,12.0
-18,,Lance Stroll,STR,Aston Martin,21.0,20.0,0.0,Retired,,,,2026,17,Singapore Grand Prix,0.0,19.0,94.946,22.0,0,0,0,3.5729999999999933,19.0,18.8,0.0,0.8,3.334500000000002,0.4,13.25
-5,,Gabriel Bortoleto,BOR,Audi,14.0,22.0,0.0,Retired,,,,2026,17,Singapore Grand Prix,0.0,15.0,93.658,16.0,0,0,0,2.2849999999999966,14.0,11.6,0.0,0.0,1.6336000000000013,0.5,17.0
-27,,Nico Hülkenberg,HUL,Audi,10.0,8.0,6.0,Finished,,,,2026,17,Singapore Grand Prix,2.0,11.0,92.784,7.0,1,0,0,1.4110000000000014,10.4,13.8,1.0,0.0,2.052000000000001,0.5,14.0
-77,,Valtteri Bottas,BOT,Cadillac F1 Team,18.0,19.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,21.0,95.984,17.0,1,0,0,4.61099999999999,18.6,18.8,0.0,0.6,4.243600000000003,0.0,14.666666666666666
-11,,Sergio Pérez,PER,Cadillac F1 Team,17.0,17.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,20.0,95.123,21.0,1,0,0,3.75,17.2,19.4,0.0,0.2,3.654000000000002,0.0,6.333333333333333
-44,,Lewis Hamilton,HAM,Ferrari,3.0,6.0,15.0,Finished,,,,2026,17,Singapore Grand Prix,7.0,3.0,91.496,2.0,1,0,0,0.12299999999999045,8.2,4.2,9.0,0.2,0.47500000000000286,9.8,6.5
-16,,Charles Leclerc,LEC,Ferrari,2.0,2.0,24.0,Finished,,,,2026,17,Singapore Grand Prix,6.0,2.0,91.427,3.0,1,1,0,0.054000000000002046,7.8,4.0,10.6,0.2,0.43620000000000514,9.9,4.25
-87,,Oliver Bearman,BEA,Haas F1 Team,11.0,12.0,3.0,Lapped,,,,2026,17,Singapore Grand Prix,3.0,12.0,92.908,6.0,1,0,0,1.5349999999999966,15.0,15.8,0.4,0.2,2.1830000000000034,0.6,9.0
-31,,Esteban Ocon,OCO,Haas F1 Team,12.0,13.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,13.0,93.323,10.0,1,0,0,1.9499999999999886,13.8,14.4,0.8,0.2,2.2156000000000033,0.9,16.25
-1,,Lando Norris,NOR,McLaren,5.0,4.0,13.0,Finished,,,,2026,17,Singapore Grand Prix,1.0,5.0,91.712,8.0,1,0,0,0.33899999999999864,7.2,4.0,12.0,0.2,0.4108000000000004,9.4,2.5
-81,,Oscar Piastri,PIA,McLaren,6.0,5.0,10.0,Finished,,,,2026,17,Singapore Grand Prix,0.0,7.0,91.86,14.0,1,0,0,0.48699999999999477,7.6,5.2,6.8,0.0,0.4524000000000029,7.6,4.666666666666667
-12,,Andrea Kimi Antonelli,ANT,Mercedes,4.0,3.0,20.0,Finished,,,,2026,17,Singapore Grand Prix,5.0,4.0,91.562,4.0,1,1,0,0.18899999999999295,2.2,8.6,20.2,0.0,0.7438000000000045,17.7,5.0
-63,,George Russell,RUS,Mercedes,19.0,9.0,2.0,Finished,,,,2026,17,Singapore Grand Prix,0.0,6.0,91.747,20.0,1,0,0,0.3739999999999952,6.2,3.6,15.2,0.2,0.24560000000000173,17.4,8.75
-30,,Liam Lawson,LAW,RB F1 Team,8.0,7.0,10.0,Finished,,,,2026,17,Singapore Grand Prix,4.0,9.0,92.319,5.0,1,0,0,0.945999999999998,9.2,12.0,4.0,0.0,1.2648000000000024,2.0,12.0
-41,,Arvid Lindblad,LIN,RB F1 Team,9.0,15.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,10.0,92.498,13.0,1,0,0,1.125,9.2,13.2,2.6,0.0,1.6144000000000005,3.0,
-6,,Isack Hadjar,HAD,Red Bull,22.0,10.0,1.0,Finished,,,,2026,17,Singapore Grand Prix,0.0,22.0,,18.0,1,0,0,,5.0,9.2,10.2,0.0,0.8295999999999992,11.8,11.0
-3,,Max Verstappen,VER,Red Bull,1.0,1.0,33.0,Finished,,,,2026,17,Singapore Grand Prix,8.0,1.0,91.373,1.0,1,1,1,0.0,6.0,4.8,15.8,0.2,0.4117999999999995,11.3,4.0
-23,,Alexander Albon,ALB,Williams,16.0,18.0,0.0,Retired,,,,2026,17,Singapore Grand Prix,0.0,18.0,94.289,15.0,0,0,0,2.915999999999997,18.0,16.4,0.0,0.6,2.803400000000002,0.1,15.5
-55,,Carlos Sainz,SAI,Williams,13.0,14.0,0.0,Lapped,,,,2026,17,Singapore Grand Prix,0.0,14.0,93.526,12.0,1,0,0,2.1529999999999916,15.0,15.4,0.2,0.2,2.400600000000003,0.1,5.25
 43,,Franco Colapinto,COL,Alpine F1 Team,20.0,21.0,0.0,Retired,,,,2026,18,United States Grand Prix,0.0,14.0,95.722,,0,0,0,1.6869999999999976,13.4,12.2,1.6,0.4,1.5214000000000028,1.4,13.5
 10,,Pierre Gasly,GAS,Alpine F1 Team,10.0,10.0,1.0,Finished,,,,2026,18,United States Grand Prix,0.0,11.0,95.08,,1,0,0,1.0450000000000017,12.8,7.6,1.2,0.2,1.1163999999999987,1.2,14.2
 14,,Fernando Alonso,ALO,Aston Martin,12.0,16.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,15.0,95.818,,1,0,0,1.7830000000000013,16.6,18.2,0.8,0.4,3.1870000000000034,0.4,12.8
@@ -43,25 +21,47 @@ DriverNumber,BroadcastName,FullName,Abbreviation,TeamName,GridPosition,Position,
 3,,Max Verstappen,VER,Red Bull,2.0,3.0,15.0,Finished,,,,2026,18,United States Grand Prix,0.0,2.0,94.214,,1,1,0,0.17900000000000205,1.8,3.6,21.8,0.0,0.32079999999999986,15.1,1.4
 23,,Alexander Albon,ALB,Williams,17.0,17.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,20.0,96.967,,1,0,0,2.932000000000002,18.2,16.4,0.0,0.6,2.9828,0.1,13.0
 55,,Carlos Sainz,SAI,Williams,16.0,18.0,0.0,Lapped,,,,2026,18,United States Grand Prix,0.0,19.0,96.77,,1,0,0,2.7349999999999994,14.6,14.6,0.2,0.2,2.349000000000001,0.1,10.4
-43,,Franco Colapinto,COL,Alpine F1 Team,11.0,8.0,4.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,11.0,77.64,,1,0,0,1.1260000000000048,15.8,14.8,1.2,0.6,1.7720000000000027,0.7,14.0
-10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,10.0,1.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,9.0,77.153,,1,0,0,0.63900000000001,13.4,9.4,0.2,0.2,1.325399999999999,0.5,10.2
+43,,Franco Colapinto,COL,Alpine F1 Team,11.0,15.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,11.0,77.64,,1,0,0,1.1260000000000048,15.8,14.8,1.2,0.6,1.7720000000000027,0.7,14.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,9.0,17.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,9.0,77.153,,1,0,0,0.63900000000001,13.4,9.4,0.2,0.2,1.325399999999999,0.1,10.2
 14,,Fernando Alonso,ALO,Aston Martin,17.0,22.0,0.0,Retired,,,,2026,19,Mexico City Grand Prix,0.0,17.0,78.908,,0,0,0,2.3940000000000055,15.6,16.4,0.8,0.2,2.8708000000000027,0.4,16.4
 18,,Lance Stroll,STR,Aston Martin,19.0,21.0,0.0,Retired,,,,2026,19,Mexico City Grand Prix,0.0,19.0,79.072,,0,0,0,2.558000000000007,18.0,20.0,0.0,0.6,3.3655000000000044,0.4,14.2
-5,,Gabriel Bortoleto,BOR,Audi,13.0,11.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,13.0,77.68,,1,0,0,1.166000000000011,16.2,14.8,0.0,0.2,2.080600000000004,0.7,10.0
-27,,Nico Hülkenberg,HUL,Audi,10.0,16.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,10.0,77.306,,1,0,0,0.7920000000000016,10.2,13.0,1.4,0.0,2.033400000000003,0.7,13.666666666666666
+5,,Gabriel Bortoleto,BOR,Audi,13.0,8.0,4.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,13.0,77.68,,1,0,0,1.166000000000011,16.2,14.8,0.0,0.2,2.080600000000004,0.7,10.0
+27,,Nico Hülkenberg,HUL,Audi,10.0,14.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,10.0,77.306,,1,0,0,0.7920000000000016,10.2,13.0,1.4,0.0,2.033400000000003,1.1,13.666666666666666
 77,,Valtteri Bottas,BOT,Cadillac F1 Team,21.0,20.0,0.0,Retired,,,,2026,19,Mexico City Grand Prix,0.0,21.0,79.852,,0,0,0,3.338000000000008,19.0,18.8,0.0,0.6,4.706200000000001,0.0,13.5
-11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,17.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,20.0,79.105,,1,0,0,2.591000000000008,17.8,18.6,0.0,0.2,3.834400000000005,0.0,10.75
+11,,Sergio Pérez,PER,Cadillac F1 Team,20.0,16.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,20.0,79.105,,1,0,0,2.591000000000008,17.8,18.6,0.0,0.2,3.834400000000005,0.0,10.75
 44,,Lewis Hamilton,HAM,Ferrari,1.0,2.0,18.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,1.0,76.514,,1,1,0,0.0,8.2,4.0,10.0,0.2,0.44360000000000355,12.8,3.6
 16,,Charles Leclerc,LEC,Ferrari,3.0,4.0,12.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,3.0,76.633,,1,0,0,0.11899999999999977,3.2,3.4,15.6,0.0,0.35700000000000215,14.6,3.8
 87,,Oliver Bearman,BEA,Haas F1 Team,14.0,19.0,0.0,Retired,,,,2026,19,Mexico City Grand Prix,0.0,14.0,78.083,,0,0,0,1.5690000000000026,14.6,14.4,1.0,0.2,2.157500000000006,0.9,4.0
-50,,Ryo Hirakawa,HIR,Haas F1 Team,18.0,13.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,18.0,78.958,,1,0,0,2.4440000000000026,,,,,,0.9,
+50,,Ryo Hirakawa,HIR,Haas F1 Team,18.0,10.0,1.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,18.0,78.958,,1,0,0,2.4440000000000026,,,,,,0.9,
 1,,Lando Norris,NOR,McLaren,6.0,5.0,10.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,6.0,76.728,,1,0,0,0.21399999999999864,8.0,4.8,8.0,0.2,0.5232000000000028,6.8,5.4
-81,,Oscar Piastri,PIA,McLaren,12.0,7.0,6.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,12.0,77.646,,1,0,0,1.132000000000005,7.8,5.8,5.6,0.0,0.6390000000000015,6.3,7.0
+81,,Oscar Piastri,PIA,McLaren,12.0,13.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,12.0,77.646,,1,0,0,1.132000000000005,7.8,5.8,5.6,0.0,0.6390000000000015,6.3,7.0
 12,,Andrea Kimi Antonelli,ANT,Mercedes,4.0,3.0,15.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,5.0,76.707,,1,1,0,0.19299999999999784,2.4,5.2,19.6,0.0,0.7358000000000005,13.9,6.0
 63,,George Russell,RUS,Mercedes,2.0,6.0,8.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,2.0,76.523,,1,0,0,0.009000000000000341,8.6,7.8,8.2,0.2,0.3420000000000016,12.9,7.6
-30,,Liam Lawson,LAW,RB F1 Team,22.0,9.0,2.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,8.0,77.029,,1,0,0,0.5150000000000006,8.2,9.4,5.2,0.0,1.3376000000000032,2.7,18.0
-41,,Arvid Lindblad,LIN,RB F1 Team,8.0,18.0,0.0,Retired,,,,2026,19,Mexico City Grand Prix,0.0,8.0,77.117,,0,0,0,0.6030000000000086,10.6,14.0,1.8,0.0,1.7180000000000006,2.7,
-6,,Isack Hadjar,HAD,Red Bull,7.0,12.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,7.0,76.9,,1,0,0,0.3860000000000099,6.0,9.0,8.4,0.0,0.5665000000000049,15.1,13.0
-3,,Max Verstappen,VER,Red Bull,5.0,1.0,25.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,4.0,76.692,,1,1,1,0.17799999999999727,1.8,3.0,21.8,0.0,0.2998000000000019,14.3,2.4
-23,,Alexander Albon,ALB,Williams,16.0,14.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,16.0,78.63,,1,0,0,2.1159999999999997,18.2,15.8,0.0,0.6,3.055200000000002,0.1,13.0
-55,,Carlos Sainz,SAI,Williams,15.0,15.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,15.0,78.521,,1,0,0,2.007000000000005,15.6,15.2,0.2,0.2,2.5626000000000007,0.1,6.6
+30,,Liam Lawson,LAW,RB F1 Team,22.0,7.0,6.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,8.0,77.029,,1,0,0,0.5150000000000006,8.2,9.4,5.2,0.0,1.3376000000000032,2.7,18.0
+41,,Arvid Lindblad,LIN,RB F1 Team,8.0,18.0,0.0,Retired,,,,2026,19,Mexico City Grand Prix,0.0,8.0,77.117,,0,0,0,0.6030000000000086,10.6,14.0,1.8,0.0,1.7180000000000006,3.1,
+6,,Isack Hadjar,HAD,Red Bull,7.0,9.0,2.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,7.0,76.9,,1,0,0,0.3860000000000099,6.0,9.0,8.4,0.0,0.5665000000000049,15.1,13.0
+3,,Max Verstappen,VER,Red Bull,5.0,1.0,25.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,4.0,76.692,,1,1,1,0.17799999999999727,1.8,3.0,21.8,0.0,0.2998000000000019,14.5,2.4
+23,,Alexander Albon,ALB,Williams,16.0,11.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,16.0,78.63,,1,0,0,2.1159999999999997,18.2,15.8,0.0,0.6,3.055200000000002,0.1,13.0
+55,,Carlos Sainz,SAI,Williams,15.0,12.0,0.0,Finished,,,,2026,19,Mexico City Grand Prix,0.0,15.0,78.521,,1,0,0,2.007000000000005,15.6,15.2,0.2,0.2,2.5626000000000007,0.1,6.6
+43,,Franco Colapinto,COL,Alpine F1 Team,13.0,13.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,17.0,,,1,0,0,,17.4,15.2,0.0,0.6,1.781400000000002,0.1,16.0
+10,,Pierre Gasly,GAS,Alpine F1 Team,15.0,14.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,18.0,,,1,0,0,,14.4,8.4,0.2,0.2,1.0674000000000006,0.1,8.2
+14,,Fernando Alonso,ALO,Aston Martin,8.0,12.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,9.0,,,1,0,0,,16.6,16.4,0.8,0.4,2.6368000000000023,0.4,9.0
+18,,Lance Stroll,STR,Aston Martin,16.0,21.0,0.0,Retired,,,,2026,20,São Paulo Grand Prix,0.0,19.0,,,0,0,0,,18.0,19.6,0.0,0.6,3.204000000000005,0.4,14.0
+5,,Gabriel Bortoleto,BOR,Audi,19.0,16.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,22.0,,,1,0,0,,15.2,15.0,0.8,0.2,2.0010000000000048,1.0,20.0
+27,,Nico Hülkenberg,HUL,Audi,4.0,10.0,1.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,6.0,,,1,0,0,,11.0,12.8,1.2,0.0,1.9120000000000033,1.0,13.666666666666666
+77,,Valtteri Bottas,BOT,Cadillac F1 Team,17.0,22.0,0.0,Did not start,,,,2026,20,São Paulo Grand Prix,0.0,20.0,,,0,0,0,,19.4,19.2,0.0,0.8,4.136400000000004,0.0,10.25
+11,,Sergio Pérez,PER,Cadillac F1 Team,22.0,18.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,21.0,,,1,0,0,,17.0,19.0,0.0,0.0,3.534800000000007,0.0,6.5
+44,,Lewis Hamilton,HAM,Ferrari,20.0,9.0,2.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,11.0,,,1,0,0,,4.2,3.4,13.6,0.0,0.4058000000000021,14.6,7.8
+16,,Charles Leclerc,LEC,Ferrari,14.0,8.0,4.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,4.0,,,1,0,0,,3.2,3.0,15.6,0.0,0.34180000000000066,14.0,10.6
+87,,Oliver Bearman,BEA,Haas F1 Team,6.0,17.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,8.0,,,1,0,0,,15.2,12.8,1.0,0.4,2.0398000000000054,1.0,9.0
+51,,Rafael Camara,,Haas F1 Team,11.0,20.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,13.0,,,1,0,0,,,,,,,0.8,
+1,,Lando Norris,NOR,McLaren,1.0,1.0,25.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,1.0,,,1,1,1,,8.4,5.8,7.0,0.2,0.5660000000000025,5.9,7.4
+81,,Oscar Piastri,PIA,McLaren,10.0,6.0,8.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,12.0,,,1,0,0,,8.8,6.8,4.8,0.0,0.7714000000000028,8.4,9.0
+12,,Andrea Kimi Antonelli,ANT,Mercedes,2.0,5.0,10.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,3.0,,,1,0,0,,2.8,5.6,17.6,0.0,0.7722000000000009,12.7,2.0
+63,,George Russell,RUS,Mercedes,7.0,4.0,12.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,2.0,,,1,0,0,,8.8,7.0,7.8,0.2,0.2788000000000011,12.7,7.4
+30,,Liam Lawson,LAW,RB F1 Team,3.0,7.0,6.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,5.0,,,1,0,0,,8.4,12.2,4.8,0.0,1.3422000000000025,3.1,8.0
+41,,Arvid Lindblad,LIN,RB F1 Team,18.0,11.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,14.0,,,1,0,0,,12.4,13.6,1.4,0.2,1.5952000000000026,3.7,
+6,,Isack Hadjar,HAD,Red Bull,5.0,3.0,15.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,7.0,,,1,1,0,,6.6,8.8,7.2,0.0,0.5007500000000071,15.2,8.0
+3,,Max Verstappen,VER,Red Bull,21.0,2.0,18.0,Finished,,,,2026,20,São Paulo Grand Prix,0.0,16.0,,,1,1,0,,1.6,3.4,23.2,0.0,0.30740000000000123,15.2,2.6
+23,,Alexander Albon,ALB,Williams,9.0,15.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,10.0,,,1,0,0,,17.4,15.8,0.0,0.6,2.7818000000000014,0.1,15.75
+55,,Carlos Sainz,SAI,Williams,12.0,19.0,0.0,Lapped,,,,2026,20,São Paulo Grand Prix,0.0,15.0,,,1,0,0,,14.2,14.2,0.2,0.0,2.2664000000000017,0.1,8.8
